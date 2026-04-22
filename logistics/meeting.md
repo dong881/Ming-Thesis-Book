@@ -101,6 +101,13 @@ The new feature introduces a plot that displays the traffic pattern and timing p
 ### Files changed
 -   `rapp/src/auto_tester.py` — helpers `_tc_slot_ahead_stop_on_ue_loss`, placeholders, TC loop, `_plot_tc_sweep_from_ping_throughput_summary`, `analyze_tc_iperf_rx_by_suffix` summary path.
 
+
+# Dynamic Timing Configuration
+# Dynamic Timing Configuration
+### Enhance Timing Configuration by Adding Dynamic Timing Info Mode and Period
+# Dynamic Timing Configuration
+### Enhance Timing Configuration by Adding Dynamic Timing Info Mode and Period
+
 # Dynamic Timing Configuration
 Dynamic timing configuration allows you to specify the timing information for your system. This includes the timing period, mode, and other parameters.
 
