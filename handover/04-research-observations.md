@@ -125,6 +125,9 @@ Track your daily progress and ensure systematic completion of project milestones
 >
 
 # daily-logs.md
+
+\n\n## Purpose\n\nTrack your daily progress and ensure systematic completion of project milestones through two essential documents:\n\n1. **Milestones** (`miles.`, `ntust.ac.twdaily-logs.md`)\n2. **Daily Logs** (`daily-logs.md`)\n\n## Table of Contents\n\n- [Daily Plans and Logs](#daily-plans-
+
 # Daily Plans and Logs
 > [!WARNING]
 > **Lab Hours**: `09:00` to `17:00` every working day
@@ -246,6 +249,18 @@ Commit 780514ab — 2026-04-07
 Commit d031e2d2 — 2026-04-15
 **Author**: dong881 <minghunghsu.taiwan@gmail.com>
 **Message**: feat: implement Linux TC mode enhancements for fresh gNB environment handling and improved test case execution flow
+
+
+\n> Adhering to this SOP ensures that research and development projects are well-documented, maintainable, and easily transferable to new team members.
+\n## daily-logs.md
+# Daily Plans and Logs
+\n> [!WARNING]\n> **Lab Hours**: `09:00` to `17:00` every working day \n> **Plan ahead**: Write your daily plan before starting work \n> **Log immediately**: Record completed tasks after finishing each one
+\n## Purpose
+ Track your daily progress and ensure systematic completion of project milestones through two essential documents:
+1. **Milestones** (`milestones.md`): Project roadmap with all tasks, deadlines, and completion status
+2. **Daily Logs** (`daily-logs.md`): Time-stamped record of work performed, linking tasks to study notes
+\n## Table of Contents
+- [Daily Plans and Logs](#daily-plans-)
 
 ## Data Collection Methods
 ### Research Observations and Experiment Logs

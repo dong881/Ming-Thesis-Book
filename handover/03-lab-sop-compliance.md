@@ -122,6 +122,17 @@ We will also adhere to industry-standard best practices and guidelines for codin
 
 For more information on our lab SOP compliance and coding standards, please refer to the relevant sections of this document.
 
+
+# Lab SOP Compliance and Coding Standards
+## Introduction
+This section outlines the requirements for lab SOP compliance and coding standards.
+## Requirements
+* All code must follow standard professional guidelines for readability and maintainability.
+* All code must be reviewed by at least one other developer before commit.
+## Best Practices
+* Use consistent naming conventions throughout your codebase.
+* Use clear and concise comments to explain complex logic.
+
 # Lab SOP Compliance and Coding Standards
 
 This document outlines the lab SOP compliance and coding standards for our project.

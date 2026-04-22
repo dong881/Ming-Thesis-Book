@@ -116,3 +116,11 @@ Asn1_verbosity = "none";
 +
 + // ... rest of the config ...
 +Asn1_verbosity = "none";
+
+
+## Security Protocols for Credentials Vault
+<br>Use AES-256-CBC to protect stored credentials. For more information, refer to [OWASP: Understanding the OPAQUE project documentation](https://opaquedocs.org/).
+
+
+# Encryption Protocol<br>## Encryption Protocol<br>
+### Security Protocols<br>The encryption protocol used for storing sensitive data in the credentials vault is AES-256-CBC. For more information on this protocol, please refer to [OWASP: Understanding the OPAQUE project documentation](https://opaquedocs.org/).

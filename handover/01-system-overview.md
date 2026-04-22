@@ -32,6 +32,13 @@ In this section, we will provide a detailed overview of the OAI 5G RAN/Core arch
 
 OAI 5G RAN/Core architecture and configuration section will be added here. This includes details on the 5G NR radio interface, RLC (Radio Resource Control) configuration, and core network architecture. The section will cover the key components and functionalities of the OAI 5G RAN/Core solution.
 
+
+<p>enhance timing optimization with VNF-PNF latency logging and jitter control</p>
+<p>The section title is missing a space between the hash symbol and the text.</p>
+
+
+<p>enhance timing optimization with VNF-PNF latency logging and jitter control</p><p>The section title is missing a space between the hash symbol and the text. → Add a space after the `#` symbol in the section title</p>
+
 # OAI 5G RAN/Core Architecture and Configuration
 
 ## Overview

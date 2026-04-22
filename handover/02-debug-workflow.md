@@ -19,6 +19,14 @@
 - **Known Issues**: Review the code and ensure it can be parsed correctly.
 - **Troubleshooting Steps**: Ensure the receiver path (UE in DL) did not see UDP payload, even if lower layers show traffic—control socket errors often follow.
 
+
+## Troubleshooting Steps
+    To resolve known issues in the debug workflow, follow these steps:
+    1. Review the code and ensure it can be parsed correctly.
+    2. Check for duplicate lines with the same text and remove them.
+    3. Verify that the table of contents is complete and properly formatted.
+    4. If the issue persists, try skipping slots to catch up on delayed physical time.
+
 # Debugging Workflow
 ## Example Solution
 Add four spaces at the beginning of each line to define indentation.

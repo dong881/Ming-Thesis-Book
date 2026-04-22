@@ -26,3 +26,8 @@ _SLOT_BASE_COLORS = {
 \n*   \u00bc ming-oai-debug-rapp: Fixed an issue related to assigning series styles for datasets.\n
 ### ADDITIONAL NOTES
 The \u00a0 .
+
+
+## Standard Operating Procedure (SOP)
+
+This Standard Operating Procedure (SOP) outlines the requirements and best practices for research and development (R&D) projects in the lab. All developers and researchers must follow these guidelines to ensure consistency and accuracy.

@@ -141,6 +141,35 @@ The commit 956aea0e — 2026-04-09 enhances the timing configuration by adding d
 
 <p>As per BMW Lab Meeting Guideline, we need to enhance timing configuration by adding dynamic timing info mode and period. The enhanced timing configuration will support the addition of dynamic timing info mode and period as mentioned in the BMW Lab Meeting Guideline. This will enable more precise control over the timing of our systems.</p>
 
+
+>### Enhance Timing Configuration by Adding Dynamic Timing Info Mode and Period
+> When **both** are true:
+> -- `env_cfg.__slot_ahead_value__` is set (slot-ahead expanded environment), and 
+> -- `env_cfg.__tc_cases__` is non-empty (TC sweep enabled),
+> + single-dataset plotting (existing behavior), and
+> + compare-mode plotting with **multiple datasets overlaid** on the same chart template.
+>
+</h4>Behavior</h4>
+When **both** are true:
+> -- `env_cfg.__slot_ahead_value__` is set (slot-ahead expanded environment), and 
+> -- `env_cfg.__tc_cases__` is non-empty (TC sweep enabled),
+> + single-dataset plotting (existing behavior), and
+> + compare-mode plotting with **multiple datasets overlaid** on the same chart template.
+>
+</h4>Enhance Timing Configuration by Adding Dynamic Timing Info Mode and Period
+When **both** are true:
+-- `env_cfg.__slot_ahead_value__` is set (slot-ahead expanded environment), and 
+-- `env_cfg.__tc_cases__` is non-empty (TC sweep enabled),
++ single-dataset plotting (existing behavior), and
++ compare-mode plotting with **multiple datasets overlaid** on the same chart template.
+>
+</h4>Behavior
+When **both** are true:
+-- `env_cfg.__slot_ahead_value__` is set (slot-ahead expanded environment), and 
+-- `env_cfg.__tc_cases__` is non-empty (TC sweep enabled),
++ single-dataset plotting (existing behavior), and
++ compare-mode plotting with **multiple datasets overlaid** on the same chart template.
+
 # Dynamic Timing Configuration
 # Dynamic Timing Configuration
 ### Enhance Timing Configuration by Adding Dynamic Timing Info Mode and Period
