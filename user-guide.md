@@ -40,6 +40,40 @@ IG-B --> PD
 IG-C --> PD
 ``
 
+
+<!CAUTION> Make this document **private** by default. Only make it public after publishing the paper of this project.
+
+> [!NOTE] 
+> **Purpose of Installation, Integration, and User Guide**: 
+>
+> - **Installation Guide**: Focuses on setup, configuration, and getting the system running.
+>
+> - **User Guide**: Focuses on how to **use** the system once it's installed and running.
+>
+> - **Project Documentation**: Define `System Architecture` & attach the installation guide link, `use case diagram`, `message-sequence chart (MSC)`, `class diagram`, `flowchart`. 
+
+Correlation between Installation, User Guides, and Project documentation:
+
+```mermaid
+graph TD
+PD[Project Documentation]
+  subgraph "Component A"
+        IG-A[Installation Guide]
+        UG-User Guide
+    
+    PD-System Architecture
+
+  subgraph "Component B"
+        PD-class-diagram
+        PD-flowchart
+
+  subgraph "Component C"
+        PD-use-case-diagram
+        PD-msc-chart
+
+
+```
+
 ## Table of Contents 
 
 > [!TIP] 

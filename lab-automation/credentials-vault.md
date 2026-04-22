@@ -165,3 +165,8 @@ Asn1_verbosity = "none";
 >
 > - Log immediately after completing each task
 > - Include accurate start and end times.
+
+
+## Encryption Protocol<br>Use AES-256-CBC to protect stored credentials. For more information, refer to [OWASP: Understanding the OPAQUE project documentation](https://opaquedocs.org/)
+
+<p>The use of AES-256-CBC encryption provides confidentiality and integrity protection for stored credentials.</p><p>For more information on this protocol, please refer to [OWASP: Understanding the OPAQUE project documentation](https://opaquedocs.org/).</p>

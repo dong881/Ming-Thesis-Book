@@ -85,3 +85,26 @@ To ensure a smooth and productive collaboration process i.
 
 * **Project Name:** [Replace with actual project name]
 * **Description:** A comprehensive solution for [specific use case]. This project provides [key functionality] and enables users to [main benefits]
+
+
+# The authenticity of host 
+
+{"Host": "<IP address>","User": "<username>"
+# The authenticity of host \u2017\u2019192.168.1.100 (192.168.1.100)\u2017can\u2017t be established.\u0026# ECDSA key fingerprint is SHA256:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\`
+
+To connect to the server, use the following command:
+\`bash
+ssh -o \u201cStrict. Please return ONLY the JSON PatchResponse object.\u002c RULES FOR JSON STRINGS:\n1. Escape double-quotes as \"
+2. Escape newlines as \n\\n3. Escape backslashes as \\4. Do NOT over-escape backticks or symbols. \u2062 should be .\`"}
+
+
+# Table of Contents
+
+Here is the reformatted text, following standard Markdown formatting: 
+## \[Insert header image or logo if needed\]
+
+### Project Description
+
+**Project Name:** \[Replace with actual project name\]
+
+**Description:** A comprehensive solution for \[specific use case\]. This project provid
