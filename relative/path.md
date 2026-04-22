@@ -22,6 +22,23 @@ This is a new section
 
 \n### Updated Section\nThis is the updated section with new information.
 
+
+"This is a markdown string with \n newline and \" double quotes\".
+
+
+<p>This is a new paragraph added to the section.</p>
+<p>This is another paragraph.</p>
+
+
+\nThis is the updated content with a new line\n\nSpecifically, the function `myFunction()` now takes an additional parameter of type string.
+
+
+This is the content for the section |
+and this is a code block:
+```
+# This is a comment
+```
+
 ## Improved Code
 
 ```python
@@ -138,3 +155,8 @@ ssh -o \u201cStrict. Please return ONLY the JSON PatchResponse object.\u002c RUL
 
 \nUse th\nPlease return ONLY the JSON PatchResponse object\\n\\nRULES FOR JSON STRINGS:
 1. Escape double-quotes as \\"
+
+
+## Example Section Heading
+
+<p>This is a <i>test</i> paragraph.</p>

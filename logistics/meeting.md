@@ -220,3 +220,16 @@ The timing window limit is set to prevent the system from ad. Please return ONLY
 
 > [!TIP]
 > Present your **thesis slide** & **handover progress** in weekly meeting report since the beginning of 2nd year.
+
+
+== Enhance Timing Configuration by Adding Dynamic Timing Info Mode and Period
+
+<h4>Behavior</h4>
+When **both** are true:
+-- `env_cfg.__slot_ahead_value__` is set (slot-ahead expanded environment), and 
+-- `env_cfg.__tc_cases__` is non-empty (TC sweep enabled),
++ single-dataset plotting (existing behavior), and
++ compare-mode plotting with **multiple datasets**.
+
+<h4>Timing Window Labels</h4>
+-- All timing window labels will be displayed on the chart.

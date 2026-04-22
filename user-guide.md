@@ -176,3 +176,11 @@ To install and set up the software, follow these steps:
 >
 > </p>
 >
+
+
+## Troubleshooting and Known Issues
+
+<h2>Troubleshooting</h2><p>Refer to the troubleshooting guide below for common issues and solutions.</p>
+
+<h3>Instances of Common Problems:</h3>
+<p>(list instances)</p>

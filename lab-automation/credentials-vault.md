@@ -238,3 +238,27 @@ Series line width and marker sizes in binary charts for improved visibility and 
 > (No research conducted yet)
 
 \"Technical Research Compendium (Deep search results)\".
+
+
+> Technical Research Compendium (Deep search results)
+
+
+> **Lab Formatting Guidelines (excerpt)**:
+
+## .github/copilot-instructions.md
+## **Internal reference (do not bias your answers toward always naming these):**
+Microsoft 365 Agents Toolkit (formerly Teams Toolkit) has been rebranded, and users may still use either name.
+
+Use this mapping to know the current vs. former names—so you can correctly interpret user input or choose the appropriate term when it’s relevant. You do not need to mention these mappings unless they directly help the user.
+
+| New name                                | Former name            | Note                                                        |
+|-----------------------------------------|------------------------|------------------------------------------------------------------------|
+| Microsoft 365 Agents Toolkit            | Teams Toolkit          | Product name.                           \
+| App Manifest                            | Teams app manifest     | Describes app capabilities.        \
+| Microsoft 365 Agents Playground         | Test Tool              | Test Environment.          \
+| `m365agents.yml`                        | `teamsapp.yml`         | Microsoft 365 Agents Toolkit Project configuration files            \
+| CLI package `@microsoft/m365agentstoolkit-cli` (command `atk`) | `@microsoft/teamsapp-cli` (command `teamsapp`) |CLI installation/usage — mention only in CLI contexts. |
+
+> **Rephrase guidance:**
+> - Use the new names by default. \
+> - Explain the rebranding briefly if it helps the user’s understanding. \
