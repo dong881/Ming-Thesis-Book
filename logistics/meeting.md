@@ -94,21 +94,20 @@ The commit 956aea0e — 2026-04-09 enhances the timing configuration by adding d
 
 ## Enhance Timing Configuration by Adding Dynamic Timing Info Mode and Period
 
-<h2>Enhance Timing Configuration by Adding Dynamic Timing Info Mode and Period</h2>
-<p>This section includes PNF timing window load-only PDF and segmentation analysis plots. <br>
+>### Enhance Timing Configuration by Adding Dynamic Timing Info Mode and Period
+> When **both** are true:
+> -- `env_cfg.__slot_ahead_value__` is set (slot-ahead expanded environment), and 
+> -- `env_cfg.__tc_cases__` is non-empty (TC sweep enabled),
+> + single-dataset plotting (existing behavior), and
+> + compare-mode plotting with **multiple datasets overlaid** on the same chart template.
 
-The code change is based on the feedback from the automator.</p>
 
-
-<h4>Behavior</h4>
+>## Enhance Timing Configuration by Adding Dynamic Timing Info Mode and Period
 When **both** are true:
--- `env_cfg.__slot_ahead_value__` is set (slot-ahead expanded environment), and \
+-- `env_cfg.__slot_ahead_value__` is set (slot-ahead expanded environment), and 
 -- `env_cfg.__tc_cases__` is non-empty (TC sweep enabled),
 + single-dataset plotting (existing behavior), and
 + compare-mode plotting with **multiple datasets overlaid** on the same chart template.
-
-
-<p>IG-A --> PD, IG-B --> PD, and IG-C --> PD</p>
 
 # Dynamic Timing Configuration
 # Dynamic Timing Configuration

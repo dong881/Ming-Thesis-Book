@@ -1,59 +1,8 @@
 ## Daily Plans and Logs
 
-
-
-### Purpose
-Track your daily progress and ensure systematic completion of project milestones through two essential documents:
-1. **Milestones** (`milestones.md`): Project roadmap with all tasks, deadlines, and completion status
-2. **Daily Logs** (`daily-logs.md`): Time-stamped record of work performed, linking tasks to study notes
-
-### Table of Contents
-- [Daily Plans and Logs](#daily-plans-and-logs)
-  - [Purpose](#purpose)
-  - [Table of Contents](#table-of-contents)
-  - [Guidelines](#guidelines)
-    - [Milestones](#milestones)
-    - [Daily Logs](#daily-logs)
-
-### Guidelines
-> [!TIP]
-> **Formatting Standards**:
->
-> 1. Dates: `yyyy-mm-dd` format (e.g., `2025-10-18`)\n> 2. Time: `hh:mm–hh:mm` format (e.g., `09:00–11:30`)\n> 3. Auto-generate Table of Contents using [VS Code Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one#table-of-contents)
-
-**Document Structure**: Link your study notes with milestones and daily logs as shown below:
-![Daily log workflow diagram](./assets/daily-log.png)
-
-### Milestones
-
-#### Purpose
-Create a master checklist of all projects, their milestones, and individual tasks.
-> [!TIP]
-> **Key Principles**:
->
-> - One project = One study note (installation/integration/user guide)
-> - Each task = One section in the study note
-> - Task title must match its section header exactly
-> - Link completed tasks to their documentation
-
-create `./milestones.md` in your project repository.
-
-#### Template
-```markdown
-
-<h2>### Daily Logs:\n\nTable of Contents\\n</h2><ul>
-<li>\n\nTask 1\n\n\n\nTask 2\n\n\n</li>
-</ul><ul>
-<li>\n\n2025-10-18
-\n\ninstallation-guide.md
-\n\n\n\nDaily Plan & Logs
-\n\n\n</li>
-</ul>
-
-
-<h1>## Project Milestones</h1><ul>
-<li><a href="milestones.md">Milestones</a></li>
-</ul><p>Refer to <a href="milestones.md">Milestones</a> for project details.</p>
+\# Task 1\n\## Task Description\n\# Task 2\n\## Task Description
+\# Daily Plan \& Logs\n\## Table of Contents
+\n\> [!TIP]\ **Daily Log Template**: Include accurate start and end dates.\n\n\> [!TIP]\ . Please return ONLY the JSON PatchResponse object.
 
 # Task 1
 ## Task Description

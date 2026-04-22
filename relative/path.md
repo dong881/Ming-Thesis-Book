@@ -31,3 +31,22 @@ The \u00a0 .
 ## Standard Operating Procedure (SOP)
 
 This Standard Operating Procedure (SOP) outlines the requirements and best practices for research and development (R&D) projects in the lab. All developers and researchers must follow these guidelines to ensure consistency and accuracy.
+
+
+**Project Description"
+
+"**Purpose of Installation, Integration, and User Guide:**"
+*   **Installation Guide**: Focuses on setup, configuration, and getting the system running.
+*			
+*			**Get Started with System:***
+\t\t1. Run the installer and follow the prompts.
+\t\t2. Configure your user account.
+\t\
+*			
+*   **User Guide**: Focuses on how to use the system once it's install.
+
+
+## Milestones
+
+"**Milestones**:\n\nTrack your daily progress and ensure systematic completion of project milestones through two essential documents:\n\n1. **Milestones**: Project roadmap with all tasks, deadlines, and completion status\n2. **Daily Logs**: Time-stamped record
+"

@@ -39,14 +39,19 @@ By following these guidelines, you can maintain a secure credentials vault that 
 By following these guidelines, you can maintain a secure credentials vault that protects sensitive information.
 
 
-## Security Protocols for Credentials Vault 
+## Security Protocols for Credentials Vault
 
-To ensure the security and integrity of credentials, follow these protocols:
+# Encryption Protocol<br>## Encryption Protocol<br>### Security Protocols<br>The encryption protocol used for storing sensitive data in the credentials vault is AES-256-CBC. For more information on this protocol, please refer to [OWASP: Understanding the OPAQUE project documentation](https://opaquedocs.org/).
 
-1. **Encryption**: Use AES-256 encryption to protect stored credentials.
-2. **Access Control**: Implement role-based access control (RBAC) to limit user access to sensitive information.
-3. **Audit Trails**: Maintain detailed audit trails of all access and modifications to credentials.
-4. **Secure Storage**: Store credentials in a secure, tamper-evident container.
+<BR><BR><h2>Key Management</h2><br></br>
+
+### Key Generation<br>Generate a new key pair using a secure random number generator. The private key should be stored securely, such as in a Hardware Security Module (HSM) or a Trusted Platform Module (TPM).
+
+<BR><BR><h2>Key Storage</h2><br></br>
+
+### Key Storage<br>The private key should be stored in an HSM or TPM. This ensures that only authorized personnel have access to the key and can use it to decrypt sensitive data.
+
+<BR><BR><h2-Key Rotation</h2>(Optional)<br>Rotate the private key periodically, such as every 90 days, to maintain security and prevent attacks from using previously compromised keys.
 
 ## Encryption Protocol<br>Use AES-256-CBC to protect stored credentials. For more information, refer to [OWASP: Understanding the OPAQUE project documentation](https://opaquedocs.org/).
 
