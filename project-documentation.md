@@ -6,6 +6,19 @@ It enables users to [main benefits] and includes the following key features:<br>
 * Feature 2: [Brief description]<br>
 * Feature 3: [Brief description]
 
+
+- Paper Writing Guidelines
+
+### Guidelines for Authors
+
+* Write clearly and concisely.
+* Use proper grammar and spelling.
+* Adhere to the formatting guidelines as specified in the style guide.
+
+#### Tips for Effective Communication
+
+* Proper grammar and
+
 # Comprehensive Project Documentation Guideline
 
 > [main benefits] and includes the following key features:<br>* Feature 1: <Brief description><br>* Feature 2: <Brief description><br>* Feature 3: <Brief description>

@@ -24,6 +24,9 @@ This is the content to be inserted before the heading.
 
 <markdown for this section ONLY>
 
+
+<insert markdown content here>
+
 # This is a comment
 ```
 
@@ -171,10 +174,8 @@ Search rules: file name contains `plot` and contains `vX` (number)
 
 ## .github/copilot-instructions.md
 
-\n\n## Internal reference (do not bias your answers toward always naming these):\n
-Microsoft 365 Agents Toolkit (formerly Teams Toolkit) has been rebranded, and users may still use either name.
+\n## Internal reference (do not bias your answers toward always naming these):\n\nMicrosoft 365 Agents Toolkit (formerly Teams Toolkit) has been rebranded, and users may still use either name.
 \nUse this mapping to know the current vs..
-
 
 ## **Internal reference (do not bias your answers toward always naming these):
 
