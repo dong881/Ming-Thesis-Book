@@ -488,3 +488,12 @@ This is a sample content to demonstrate the markdown formatting.
 
 
 <Create a new section with a specific heading and content.
+
+
+OUTPUT FORMAT
+
+> [!TIP]
+> **Best Practices**:
+>
+> - Log immediately after completing each task
+> - Include a

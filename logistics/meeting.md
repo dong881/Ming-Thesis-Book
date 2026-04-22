@@ -138,6 +138,9 @@ The commit 956aea0e — 2026-04-09 enhances the timing configuration by adding d
 \*   Improves delay handling in _tc_status_has_expected_delay function to support multiple time units and enhance tolerance for rendering drift.
 \*   Enhance timing configuration by adding dynamic timing info mode and period
 
+
+<p>As per BMW Lab Meeting Guideline, we need to enhance timing configuration by adding dynamic timing info mode and period. The enhanced timing configuration will support the addition of dynamic timing info mode and period as mentioned in the BMW Lab Meeting Guideline. This will enable more precise control over the timing of our systems.</p>
+
 # Dynamic Timing Configuration
 # Dynamic Timing Configuration
 ### Enhance Timing Configuration by Adding Dynamic Timing Info Mode and Period
