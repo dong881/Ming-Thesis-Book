@@ -233,3 +233,14 @@ When **both** are true:
 
 <h4>Timing Window Labels</h4>
 -- All timing window labels will be displayed on the chart.
+
+
+## IG-A --> PD<br>IG-B --> PD <br>IG-C --> PD
+
+### TEEP Preparation Overview
+Diagram and explanation of TEEP preparation process will be presented in this session.
+
+| Diagram | Description |
+| --- | --- |
+| TEEP Preparation Flowchart | Step-by-step guide to the TEEP preparation process. |
+| TEEP Preparation Table | Summary table of key parameters for TEEP preparation.
