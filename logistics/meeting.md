@@ -36,3 +36,21 @@ Add step for reviewing previous meeting minutes with attendees
 > Adhering to this SOP ensures that research and development projects are well-documented, maintainable, and easily transferable to new team members.
 
 <!WARNING> **Lab Hours**: `09:00` to `17:00` every working day  <br>**Plan ahead**: Write your daily plan before starting work  <br>**Log immediately**: Record completed tasks after finishing each one<br><h4>Purpose</h4><ul><li>Track your daily progress and ensure systematic completion of project milestones through two essential documents:</li><li>1. **Milestones** (`milestones.md`): Project roadmap with all tasks, deadlines, and completion
+
+
+Meeting Process
+
+To review previous meeting minutes with attendees, navigate to the meeting minutes folder and select the relevant document. Review the content carefully and provide any necessary feedback or changes.
+
+> Add step for reviewing previous meeting minutes with attendees
+> Adhering to this SOP ensures that research and development projects are well-documented, maintainable, and easily transferable to new team members.
+> 
+> —​―​—​―​—
+
+
+> Add step for reviewing previous meeting minutes with attendees
+> Adhering to this SOP ensures that research and development projects are well-documented, maintainable, and easily transferable to new team members.
+> 
+> —​―​—​―​—​—
+>
+

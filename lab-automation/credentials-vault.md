@@ -32,13 +32,7 @@ Use AES-256 encryption to protect credentials
 ## Security Protocols
 
 # Encryption Protocol
-Update encryption protocol to AES-256 [REVIEWER FEEDBACK: **Verdict**: FEEDBACK]
 
-**Overall Comment**: Review parsing failed: Expecting value: line 1 column 1 (char 0). Raw: Here is the reformatted output:
-
-**Review Report**
-*
-**Verdict**: FEEDBACK
-*
-**Overall Comment**: Review parsing failed: Expecting value: line 1 column 1 (char 0). Raw: Here is a format]
+## Encryption Protocol
+The encryption protocol used for storing sensitive data in the credentials vault is AES-256-CBC. For more information on this protocol, please refer to [OWASP: Understanding the OPAQUE project documentation](https://opaquedocs.org/).
 
