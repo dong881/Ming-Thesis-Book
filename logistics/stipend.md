@@ -18,3 +18,10 @@ Additionally, please note that failure to comply with this policy may result in 
 
 
 <html><body><h2>Expense Report Submission Deadlines</h2><p>Please submit your expense report within the following deadlines:</p><ul><li>Weekly: <em>Every Thursday at 5 PM PST</em></li><li>Monthly: By the last day of each month.</li></ul></body></html>
+
+
+## Expense Report Submission Deadlines
+
+The BMW Lab Project stipend guidelines require timely submission of expense reports. To ensure compliance, please submit your expense reports within 30 days of the invoice date.
+  
+  Please note that late submissions may incur a penalty of [ specify percentage or amount ]% on the total amount due. For further details, please refer to Section 4 of the BMW Lab Project stipend guidelines.
