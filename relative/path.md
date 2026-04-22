@@ -16,6 +16,10 @@ This is a new line.
 
 <markdown for this section ONLY>
 
+<markdown for this section ONLY>
+
+This is the content to be inserted before the heading.
+
 ## Exact Heading
 
 <markdown for this section ONLY>

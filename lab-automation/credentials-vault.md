@@ -65,8 +65,11 @@ To ensure the security and integrity of credentials, follow these protocols:
 # Encryption Protocol 
 
 # Encryption Protocol
-## Encryption Protocol
-The encryption protocol used for storing sensitive data in the credentials vault is AES-256-CBC. For more information on this protocol, please refer to the OAI NFAPI documentation.
+## Encryption Protocol 
+
+# Encryption Protocol 
+
+#### AES-256-CBC encryption protocol provides confidentiality and integrity protection. For more information, refer to [OWASP: Understanding the OPAQUE project documentation](https://opaquedocs.org/)<br><br>
 
 # Encryption Protocol
 
@@ -207,3 +210,20 @@ Microsoft 365 Agents Toolkit (formerly Teams Toolkit)
 Use this mapping to know the current vs. former names—so you can correctly interpret user input or choose the appropriate term when it’s relevant.
 
 # Encryption Protocol<br>## Encryption Protocol<br>### Security Protocols<br>The encryption protocol used for storing sensitive data in the credentials vault is AES-256-CBC. For more information on this protocol, please refer to [OWASP: Understanding the OPAQUE project documentation](https://opaquedocs.org/)<br><br>
+
+
+## Exact Heading
+
+<h4>Changed Text</h4>
+
+
+Security Protocols for Credential Handling
+
+> **Rephrase guidance:**
+> - Use the new names by default.
+> - Explain the rebranding briefly if it helps the user’s understanding.
+
+
+Security Protocols for Credential Vault
+
+<markdown for this section ONLY>
