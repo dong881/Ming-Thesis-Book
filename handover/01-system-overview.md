@@ -62,10 +62,23 @@ The OpenAirInterface (OAI) 5G RAN/Core architecture is designed to provide a com
 
 * **Distributed Unit (DU):** The DU is responsible for processing and forwarding data between the RU and the central unit. It consists of a processing unit and a memory module.
 
+
+## OAI 5G RAN/Core Architecture and Configuration
+
+The OpenAirInterface repository provides detailed information on the 5G RAN Core architecture and configuration.
+
+In this section, we will discuss the key components of the 5G RAN Core architecture and how they are configured. We will also explore the benefits of using the OpenAirInterface repository for 5G RAN Core development.
+
+For more information, please refer to the [OpenAirInterface 5G RAN Core Architecture](https://openairinterface.org/wiki/index.php/5G_RAN_Core_Architecture) documentation.
+
 # OAI 5G RAN/Core Architecture and Configuration: The section title is missing a space between the hash symbol and the text.
 
-> [!WARNING]
-> **Lab Hours**: `09:00` to `17:00` eve]
+<h2> OAI 5G RAN/Core Architecture and Configuration: The section title is missing a space between the hash symbol and the text.</h2>
+
+## Key Components
+
+* **Radio Unit (RU):** The RU is responsible for transmitting and receiving data to/from the base station. It consists of a transceiver and a processing unit.
+* **Distributed Unit (DU):** The DU is responsible for processing and forwarding data between the RU and the central unit. It consists of a processing unit and a memory module.
 
 # OAI 5G RAN/Core Architecture and Configuration
 ## Key Components

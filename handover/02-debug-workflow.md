@@ -2,6 +2,16 @@
 
 Develop a detailed debug workflow, including known issues, troubleshooting steps, and error handling procedures.
 
+
+### Debugging Workflow
+
+#### Known Issues and Troubleshooting Steps
+
+*   [Git Commit](https://github.com/openairinterface5g/drivers/commit/7e4eba99)
+    -   Fixed segment size in PNF and VNF configuration to ensure correct timing window usage.
+*   [Git Commit](https://github.com/ming-oai-debug-rapp/commit/933cacab)
+    -   Adjusted slot-ahead value handling in auto_tester.py to prevent early stopping on VNF marker during UE re-attach retries.
+
 # Debugging Workflow:
 ## Table of Contents
 ### Daily log workflow diagram
@@ -14,27 +24,118 @@ Develop a detailed debug workflow, including known issues, troubleshooting steps
 
 # Debugging Workflow: The section title is missing a space between the hash symbol and the text.
 
-> Update the debugging workflow section with performance analysis and measurement results<br><br>
+Develop a detailed debug workflow, including known issues, troubleshooting steps, and error handling procedures.\n\n### Debugging Workflow\n\n#### Known Issues and Troubleshooting Steps\n\n*   [Git Commit](https://github.com/openairinterface5g/drivers/commit/7e4eba99)\n    -   Fixed segment size in PNF and VNF configuration to ensure correct timing window usage.\n*   [Git Commit](https://github.com/ming-oai-debug-rapp/commit/933cacab)\n    -   Adjusted slot-ahead value handling in auto_tester.py to prevent early stopping on VNF marker during UE re-attach retries.
 
 
-<table of contents>
-## Debugging Workflow
-### Laboratory Leaving Procedure
-> [!IMPORTANT]
-> On the beginning of 2nd year, each student need to find a 1st year student to handover the project.  
-
-Below is the checklist for the handover process:
-
-### 5.1 Projects Handover
-- [ ] 5.1.0 Handover to: <student name> 
-- [ ] 5.1.1 [IEEE paper report](Overleaf link) - [guide](./paper-writing.md)
-- [ ] 5.1.2 [GitHub project repository](GitHub repo link) containing:
-  - [ ] 5.1.2.1 [Source code](GitHub repo link)
-  - [ ] 5.1.2.2 [Documentation](GitHub repo link or docs link), includes:
-    - [ ] 5.1.2.2.1 Function documentation (Doxygen/Sphinx)
-    - [ ] 5.1.2.2.2 Installation guide (How to install your tool)
-    - [ ] 5.1.2.2.3 Integration guide (How to build the end-to-end of your systems):
-      - System architecture diagram - Examples: [O-RAN](https://docs.o-ran-sc.org/en/latest/_images/o-ran-architecture.png), [O-DU-High](https://docs.o-ran-sc.org/projects/o
+> [!WARNING]
+>   # Debugging Workflow:
+>   ## Table of Contents
+>   ### Daily log workflow diagram
+> 
+> # Debugging Workflow:
+> ## Table of Contents
+>   ### Daily log workflow diagram
+> # Debugging Workflow: The section title is missing a space between the hash symbol and the text.
+> # Debugging Workflow:
+> ## Table of Contents
+>   ### Daily log workflow diagram
+> ### Milestones
+> ### Milestone 1: Create a master checklist of all projects, their milestones, and individual tasks.
+> ### Milestone 2: Review and finalize the study note template.
+> # Debugging Workflow:
+> ## Debugging Workflow: The section title is missing a closing `##` header after the table of contents.
+>   
+> # Debugging Workflow:
+> ## Table of Contents
+>   ### Daily log workflow diagram
+> ### Milestones
+> # Debugging Workflow:
+> ## Debugging Workflow: The section title is missing a space between the hash symbol and the text.
+>   
+> # Debugging Workflow:
+> ## Debugging Workflow:
+>   
+> # Debugging Workflow:
+> ## Table of Contents
+> # Debugging Workflow:
+> ### Daily log workflow diagram
+> ### Milestones
+> # Debugging Workflow: The section title is missing a space between the hash symbol and the text.
+>   
+> # Debugging Workflow:
+> ## Debugging Workflow:
+>   
+> # Debugging Workflow:
+> ## Table of Contents
+> # Debugging Workflow: The section title is missing a closing `##` header after the table of contents.
+>   
+> # Debugging Workflow:
+> ## Debugging Workflow:
+>   
+> <h2 style="margin-top: 0">Debugging Workflow</h2>
+>   
+>     <h3 style="margin-top: -1em; margin-bottom: 0.5em;">Known Issues and Troubleshooting Steps</h3>
+>     <ul>
+>       <li>
+>         [Git Commit](https://github.com/openairinterface5g/drivers/commit/7e4eba99)
+>           \- Fixed segment size in PNF and VNF configuration to ensure correct timing window usage.
+>       </li>
+>       <li>
+>         [Git Commit](https://github.com/ming-oai-debug-rapp/commit/933cacab)
+>           \- Adjusted slot-ahead value handling in auto_tester.py to prevent early stopping on VNF marker during UE re-attach retries.
+>       </li>
+>     </ul>
+>   
+> # Debugging Workflow:
+> ## Table of Contents
+>   ### Daily log workflow diagram
+> # Debugging Workflow:
+> ## Table of Contents
+>     
+> # Debugging Workflow:
+> ### Milestones
+>       
+>         <h4 style="margin-top: -1em; margin-bottom: 0.5em;">Milestone 1: Create a master checklist of all projects, their milestones, and individual tasks</h4>
+>         <ul>
+>           <li>Review and finalize the study note template.</li>
+>         </ul>
+>       
+>         <h4 style="margin-top: -1em; margin-bottom: 0.5em;">Milestone 2: Review and finalize the study note template</h4>
+>         <ul>
+>           <li>Create a master checklist of all projects, their milestones, and individual tasks.</li>
+>         </ul>
+>       
+>   
+> # Debugging Workflow:
+> ## Table of Contents
+>     
+> # Debugging Workflow:
+> ### Daily log workflow diagram
+> # Debugging Workflow: The section title is missing a space between the hash symbol and the text.
+>   
+> # Debugging Workflow:
+> ## Table of Contents
+>       
+> # Debugging Workflow:
+> ### Milestones
+>         <h4 style="margin-top: -1em; margin-bottom: 0.5em;">Milestone 1: Create a master checklist of all projects, their milestones, and individual tasks</h4>
+>         <ul>
+>           <li>Create a master checklist of all projects, their milestones, and individual tasks.</li>
+>         </ul>
+>       
+>         <h4 style="margin-top: -1em; margin-bottom: 0.5em;">Milestone 2: Review and finalize the study note template</h4>
+>         <ul>
+>           <li>Review and finalize the study note template.</li>
+>         </ul>
+>       
+>   
+> # Debugging Workflow:
+> ## Table of Contents
+>     
+> # Debugging Workflow: The section title is missing a space between the hash symbol and the text.
+>   
+> <p style="margin-bottom: 0.5em;">To learn more about debugging workflow, refer to this <a href="#debugging-workflow-2">Debugging Workflow</a>.</p>
+>
 
 # Debugging Workflow:
 
