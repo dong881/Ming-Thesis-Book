@@ -250,3 +250,8 @@ Technical Research Compendium (Deep search results)
 
 [!NOTE]
 > Our servers are put in the server room. Please contact the admin for VPN access.
+
+
+\> \u0020\u0020Technical Research Compendium (Deep search results)
+
+\(No research conducted yet\)

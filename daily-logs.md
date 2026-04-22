@@ -40,6 +40,16 @@ create `./milestones.md` in your project repository.
 
 #### Template
 ```markdown
+
+<h2>### Daily Logs:\n\nTable of Contents\\n</h2><ul>
+<li>\n\nTask 1\n\n\n\nTask 2\n\n\n</li>
+</ul><ul>
+<li>\n\n2025-10-18
+\n\ninstallation-guide.md
+\n\n\n\nDaily Plan & Logs
+\n\n\n</li>
+</ul>
+
 # Task 1
 ## Task Description
 
