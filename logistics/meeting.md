@@ -8,6 +8,9 @@
 
 <img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram"><br><br>
 
+
+<img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram"
+
 # Dynamic Timing Configuration
 
 Dynamic timing configuration allows you to specify the timing information for your system. This includes the timing period, mode, and other parameters.

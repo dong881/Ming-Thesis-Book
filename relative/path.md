@@ -22,10 +22,6 @@ This is the content to be inserted before the heading.
 
 ## Exact Heading
 
-<markdown for this section ONLY>
-
-
-<insert markdown content here>
 
 # This is a comment
 ```
@@ -178,5 +174,10 @@ Search rules: file name contains `plot` and contains `vX` (number)
 \nUse this mapping to know the current vs..
 
 ## **Internal reference (do not bias your answers toward always naming these):
+
+<markdown for this section ONLY>
+
+
+## Internal reference (do not bias your answers toward always naming these):
 
 <markdown for this section ONLY>

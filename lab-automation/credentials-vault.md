@@ -227,3 +227,16 @@ Security Protocols for Credential Handling
 Security Protocols for Credential Vault
 
 <markdown for this section ONLY>
+
+
+Microsoft 365 Agents Toolkit
+
+Use this mapping to know the current vs. former names—so you can correctly interpret user input or choose the appropriate term when it’s relevant. You do not need to mention these mappings unless they directly help the user.
+
+| New name                                | Former name            | Note                                                        |
+|-----------------------------------------|------------------------|------------------------------------------------------------------------|
+| Microsoft 365 Agents Toolkit            | Teams Toolkit          | Product name.
+| App Manifest                            | Teams app manifest     | Describes app capabilities.
+| Microsoft 365 Agents Playground         | Test Tool              | Test Environment.
+| `m365agents.yml`                        | `teamsapp.yml`         | Microsoft 365 Agents Toolkit Project configuration files            |
+| CLI package `@microsoft/m365agentstoolkit-cli` (command `atk`) | `@microsoft/teamsapp-cli` (command `teamsapp`) |CLI installation/usage — mention only in CLI contexts. |
