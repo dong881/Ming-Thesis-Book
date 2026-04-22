@@ -176,3 +176,9 @@ Dynamic Config and SLOT_AHEAD Parameter
 - `hh:mm–hh:mm`: [1.1 <Task 1 Title>](<GitHub Task Link>)
 - `hh:mm–hh:mm`: [1.2 <Task 2 Title>](<GitHub Task Link>)
 - `hh:mm–hh:mm`: [1.m <Task m Title>](<GitHub Task Link>)
+
+
+Technical Research Compendium (Deep search results)
+
+[!NOTE]
+> Our servers are put in the server room. Please contact the admin for VPN access.

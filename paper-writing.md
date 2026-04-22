@@ -453,3 +453,23 @@ TC sweep runtime diagnosis and fixes# Response (TC sweep metrics)
 # Add tip for proper grammar and spelling usage.
 # Consistent indentation: The code uses ]
 # Proper Grammar and Spelling Usage
+
+
+Lab Formatting Guidelines (excerpt)
+
+- When interpreting, generating, or modifying manifest files related to apps and agents for Microsoft 365 or Microsoft 365 Copilot, try to get schema version from manifest file, then invoke **get_schema** tool if available.
+- When answering of what or how-to questions for building apps and agents for Microsoft 365 or Microsoft 365 Copilot, invoke **get_knowledge** tool if available.
+- Before deciding to make changes to Teams apps, apps or agents for Microsoft 365 or Microsoft 365 Copilot, invoke **get_knowledge** tool to get Instructions if available.
+- When troubleshooting issues, invoke **troubleshoot** tool if available.
+- Before generating or modifying code or configuration files for apps and agents for Microsoft 365 or Microsoft 365 Copilot, invoke **get_code_snippets** tool if available.
+- Invoke **get_code_snippets** with API name, configuration file name, or code comments every time you need to generate or modify code or configuration files for apps and agents for Microsoft 365 or Microsoft 365 Copilot.
+
+## README.md
+# Laboratory
+
+This Standard Operating Procedure (SOP) outlines the requirements and best practices for research and development (R&D) projects in the lab. All developers and researchers must adhere to the following guidelines to ensure quality, reproducibility, and smooth handover.
+
+- [Laboratory](#laboratory)
+  - [1. Daily Progress and Plan](#1-daily-progress-and-plan)
+  - [2. Project Repository Standard](#2-project-repository-standard)
+  - [3. Documenta
