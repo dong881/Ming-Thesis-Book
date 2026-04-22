@@ -5,6 +5,12 @@
 
 > Request access with the GitHub admin in our group.
 
+
+# Installation Guide - Guideline
+> Make this document **private** by default. Only make it public after publishing the paper of this project.
+
+> Request access with the GitHub admin in our group.
+
 # Installation Guide - Guideline
 > Make this document **private** by default. Only make it public after publishing the paper of this project.
 
@@ -285,20 +291,20 @@ After cloning, follow the installation instructions to set up your environment.
 
 <h1 align="center">Installation Guide - Guideline</h1>
 
-> Make this document **private** by default. Only make it public after publishing the paper of this project.
+> [!CAUTION]
+> Make this document • private• by default. Only make it public after publishing the paper of this project.
 
-## Table of Contents
+> Request access with the GitHub admin in our group.
 
 <h1 align="center">Installation Guide - Guideline</h1>
 
-> [!NOTE]
-> Our servers are put in the server room. Please contact the admin for VPN access.
-
-Host: <IP address>
-User: <username>
+> Make this document • private• by default. Only make it public after publishing the paper of this project.
 
 
+<# Installation Guide - Guideline
+> Make this document **private** by default. Only make it public after publishing the paper of this project.
 
+> Request access with the GitHub admin in our group.
 
 # Project description
 <p>

@@ -62,6 +62,9 @@ IG-C --> PD
 
 <img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram"><br><br>IG-A --> PD <br>IG-B --> PD <br>IG-C --> PD<br><br><br><img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram"><br><br>IG-A --> PD < br>IG-B --> PD < br>IG-C --> PD<br><br><br><img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram">
 
+
+<img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram"><br><br>IG-A --> PD<br>IG-B --> PD<br>IG-C --> PD<br><br><br><img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram"><br><br>IG-A --> PD<br>IG-B --> PD<br>IG-C --> PD<br><br><br><img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram"><br><br>IG-A --> PD<br>IG-B --> PD<br>IG-C --> PD<br><br><br><img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram">
+
 # Dynamic Timing Configuration
 
 Dynamic timing configuration allows you to specify the timing information for your system. This includes the timing period, mode, and other parameters.
@@ -128,6 +131,13 @@ IG-C:
 > + single-dataset plotting (existing behavior), and
 > + compare-mode plotting with **multiple datasets overlaid** on the same chart template.
 
+
+<img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram"><br><br>IG-A --> PD <br>IG-B --> PD <br>IG-C --> PD<br><br><br><img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram"><br><br>IG-A --> PD < br>IG-B --> PD < br>IG-C --> PD<br><br><br><img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram"> Dynamic timing configuration allows you to specify the timing information for your system. This includes the timing period, mode, and other parameters.
+
+The commit 956aea0e — 2026-04-09 enhances the timing configuration by adding dynamic timing info mode and period. The author dong881 <minghunghsu.taiwan@gmail.com> fixes the following issues:
+\*   Improves delay handling in _tc_status_has_expected_delay function to support multiple time units and enhance tolerance for rendering drift.
+\*   Enhance timing configuration by adding dynamic timing info mode and period
+
 # Dynamic Timing Configuration
 # Dynamic Timing Configuration
 ### Enhance Timing Configuration by Adding Dynamic Timing Info Mode and Period
@@ -160,6 +170,21 @@ Enhance Timing Configuration by Adding Dynamic Timing Info Mode and Period
 > -- `env_cfg.__tc_cases__` is non-empty (TC sweep enabled),
 > + single-dataset plotting (existing behavior), and
 > + compare-mode plotting with **multiple datasets overlaid** on the same chart template.
+
+
+>## Enhance Timing Configuration by Adding Dynamic Timing Info Mode and Period
+When **both** are true:
+-- `env_cfg.__slot_ahead_value__` is set (slot-ahead expanded environment), and 
+-- `env_cfg.__tc_cases__` is non-empty (TC sweep enabled),
++ single-dataset plotting (existing behavior), and
++ compare-mode plotting with **multiple datasets overlaid** on the same chart template.
+
+## Behavior
+When **both** are true:
+-- `env_cfg.__slot_ahead_value__` is set (slot-ahead expanded environment), and 
+-- `env_cfg.__tc_cases__` is non-empty (TC sweep enabled),
++ single-dataset plotting (existing behavior), and
++ compare-mode plotting with **multiple datasets overlaid** on the same chart template.
 
 # Enhance Timing Configuration by Adding Dynamic Timing Info Mode and Period
 

@@ -473,3 +473,18 @@ This Standard Operating Procedure (SOP) outlines the requirements and best pract
   - [1. Daily Progress and Plan](#1-daily-progress-and-plan)
   - [2. Project Repository Standard](#2-project-repository-standard)
   - [3. Documenta
+
+
+> Rephrase guidance:
+
+- Use the new names by default.  - Explain the rebranding briefly if it helps the user’s understanding.
+
+
+<h2>Example Heading</h2>
+
+This is a sample content to demonstrate the markdown formatting.
+
+
+
+
+<Create a new section with a specific heading and content.
