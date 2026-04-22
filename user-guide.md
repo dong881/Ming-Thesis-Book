@@ -76,6 +76,9 @@ PD[Project Documentation]
 
 
 
+
+Add clear instructions on how to use the user guide template, including formatting and content requirements. Review existing format and add necessary information for a complete user guide.
+
 ## Table of Contents 
 
 > [!TIP] 

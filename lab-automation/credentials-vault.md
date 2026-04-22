@@ -179,3 +179,29 @@ Asn1_verbosity = "none";
 Technical Research Compendium (Deep search results)
 
 
+get_vnf_timing_envs() function
+
+static inline void get_vnf_timing_envs(int *slot_ahead, int *target_margin_initial) {
+    const char *slot_ahead_env = getenv("SLOT_AHEAD");
+    int env_slot = slot_ahead_env ? atoi(slot_ahead_env) : 0;
+    int env_margin = 1500;
+
+    if (env_slot > 0) {
+        env_margin = 0;
+    } else {
+        const char *margin_env = getenv("TARGET_MARGIN_INITIAL");
+        env_margin = margin_env ? atoi(margin_env) : 1500;
+        env_slot = 0;
+    }
+
+    if (slot_ahead) *slot_ahead = env_slot;
+    if (target_margin_initial) *target_margin_initial = env_margin;
+}
+
+
+## Dynamic Timing Mode
+
+\u00bcmARGIN_TOLERANCE_US defines the deadband zone: +/- \u00b4MARGIN_TOLER. Please return ONLY the JSON PatchResponse object.
+
+
+\n### Credentials Vault\n\nThis is a new section added by the tool.

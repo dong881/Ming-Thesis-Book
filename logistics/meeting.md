@@ -252,12 +252,9 @@ Technical Research Compendium (Deep search results)
 
 ## Enhance Timing Configuration by Adding Dynamic Timing Info Mode and Period 
 ### Description of the new configuration 
-## VNF P7 Convergence Optimization & Adaptive Jitter Buffer Control 
 ### REFERENCES: 
 * WebRTC NetEQ / Adaptive Jitter Buffer (Ramjee et al., IEEE INFOCOM 1994): 
 * TCP RTO Jacobson/Karels Algorithm (RFC 6298):
-### Challenges \& Proposed Methods:
-
 
 <h4>Enhance Timing Configuration by Adding Dynamic Timing Info Mode and Period</h4>
 
@@ -265,30 +262,16 @@ Technical Research Compendium (Deep search results)
 When **both** are true:
 -- `env_cfg.__slot_ahead_value__` is set (slot-ahead expanded environment), and 
 -- `env_cfg.__tc_cases__` is non-empty (TC sweep enabled),
-+ single-dataset plotting (existing behavior), and
-+ compare-mode plotting with **multiple datasets overlaid** on the same chart template.
++ single-dataset plotting (existing behavior),
++ dynamic timing and apply handle_dynamic_timing_info();
 
-### Behavior
-When **both** are true:
--- `env_cfg.__slot_ahead_value__` is set (slot-ahead expanded environment), and 
--- `env_cfg.__tc_cases__` is non-empty (TC sweep enabled),
-+ single-dataset plotting (existing behavior), and
-+ compare-mode plotting with **multiple datasets overlaid** on the same chart template.
+<h4>Technical Research Compendium (Deep search results)</h4>
+(No research conducted yet)
 
+### Table of Contents
 
-<Enhance Timing Configuration by Adding Dynamic Timing Info Mode and Period>
-
-<h4>Behavior</h4><p>When **both** are true:</p>
-— `env_cfg.__slot_ahead_value__` is set (slot-ahead expanded environment), and 
-— `env_cfg.__tc_cases__` is non-empty (TC sweep enabled),
-+ single-dataset plotting (existing behavior), and
-+ compare-mode plotting with **multiple datasets overlaid** on the same chart template.</p>
-<h4>Behavior</h4><p>When **both** are true:</p>
-— `env_cfg.__slot_ahead_value__` is set (slot-ahead expanded environment), and 
-— `env_cfg.__tc_cases__` is non-empty (TC sweep enabled),
-+ single-dataset plotting (existing behavior), and
-+ compare-mode plotting with **multiple datasets overlaid** on the same chart template.</p>
-
+> [!TIP]
+> Generate the Table of Contents automatically using [Markdown All in One extension in VS Code](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one#table-of-contents).
 
 # <exact heading string> (e.g. "Timing Window Limitations")
 

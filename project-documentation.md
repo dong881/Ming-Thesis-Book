@@ -96,3 +96,12 @@ ssh user@<IP address>
 <h1>Project Description</h1><p>This project provides a comprehensive solution for <em>software-defined networking (SDN) and network functions virtualization (NFV)</em></p>
 
 <h2>Target Users</h2><p>Developers and researchers interested in SDN and NFV.</p>
+
+
+<h1 align="center">Project Documentation - Guideline</h1>
+
+\n## Comprehensive Project Documentation Guideline\n
+\n## Guidelines for Authors
+\n* Write clearly and concisely.\n* Use proper grammar and spelling.\n* Adhere to the formatting guidelines as specified in the style guide.\n
+\n## Tips for Effective Communication\n\n* Proper grammar and \n
+\n\n\n\n

@@ -1,7 +1,16 @@
+\n### Updated Subheading\nThis is the updated content.
+
 ## Exact Heading
 
 <h1>This heading has been replaced</h1>
 
+
+
+\n \[ reference ] \
+\n This is a modified section.
+
+
+<p>This is an important note from John Doe on 2023-02-20.</p>
 
 ## Improved Code
 
@@ -100,23 +109,11 @@ ssh -o \u201cStrict. Please return ONLY the JSON PatchResponse object.\u002c RUL
 
 # Table of Contents
 
-Here is the reformatted text, following standard Markdown formatting: 
-## \[Insert header image or logo if needed\]
+\n# Table of Contents
+\n## Project description
+### Execution Status
+### System Architecture
+### Repository Structure
+\n\n*   [Command to format and clean the document](https://i.imgur.com/Mh1p0zU.png)
+\n##.\n
 
-### Project Description
-
-**Project Name:** \[Replace with actual project name\]
-
-**Description:** A comprehensive solution for \[specific use case\]. This project provid
-
-
-**Installation Guide**
-h1 align="center" Installation Guide - Guideline
-<hr>
-> [!CAUTION]
-> Make this document **private** by default. Only make it public after publishing the paper of this project.
-> Request access with the GitHub admin in ou.
-
-## Installation Guide
-
-Make sure to set the file permissions accordingly.
