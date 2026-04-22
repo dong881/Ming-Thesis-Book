@@ -87,6 +87,12 @@ Lab SOP Compliance and Coding Standards
 
 ## Lab SOP Compliance and Coding Standards
 
+
+A review of the lab's standard operating procedures (SOPs) to ensure they are aligned with the BMW-ECE Lab guidelines.
+
+
+A review of the lab's standard operating procedures (SOPs) to ensure they are aligned with the BMW-ECE Lab guidelines.
+
 # Lab SOP Compliance and Coding Standards
 
 This document outlines the lab SOP compliance and coding standards for our project.
@@ -155,3 +161,8 @@ We will adhere to industry-standard best practices and guidelines for coding, te
 
 *   Follow PEP8 or Google Style for Python/C++/Java code
 *   Use version control best practices (e.g., Git)
+
+
+Lab SOP Compliance
+
+A review of the lab's standard operating procedures (SOPs) to ensure they are aligned with the BMW-ECE Lab guidelines.

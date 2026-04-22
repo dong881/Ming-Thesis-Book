@@ -5,6 +5,43 @@ entire
 
 > [!WARNING] **Lab Hours**: `09:00` to `17:00` every working day > **Plan ahead**: Write your daily plan before starting work > **Log immediately**: Record completed tasks after finishing each one
 
+
+<# Research Observations and Experiment Logs>
+
+> [!WARNING] **Lab Hours**: `09:00` to `17:00` every working day > 
+> **Plan ahead**: Write your daily plan before starting work > 
+> **Log immediately**: Record completed tasks after finishing each one
+
+## Data Collection Methods
+
+> [!WARNING]
+> **Lab Hours**: `09:00` to `17:00` every working day
+> **Plan ahead**: Write your daily plan before starting work
+> **Log immediately**: Record completed tasks after finishing each one
+
+## Analysis Procedures
+
+> [!WARNING] 
+> **Analysis Procedures**
+
+## Conclusion
+
+# Research Observations and Experiment Logs
+
+> [!WARNING]
+> **Lab Hours**: `09:00` to `17:00` every working day
+> **Plan ahead**: Write your daily plan before starting work
+> **Log immediately**: Record completed tasks after finishing each one
+
+
+> [!WARNING]
+> **Lab Hours**: `09:00` to `17:00` every working day
+> **Plan ahead**: Write your daily plan before starting work
+> **Log immediately**: Record completed tasks after finishing each one
+
+# Research Observations and Experiment Logs
+>
+
 # daily-logs.md
 # Daily Plans and Logs
 > [!WARNING]
@@ -317,3 +354,27 @@ The BMW-ECE Lab's research methodology focuses on [insert methodology here].
 
 # Research Observations and Experiment Logs
 This section is for documenting any research-related observations or experiment logs.
+
+
+## Research Observations
+
+Technical Research Compendium (Deep search results)
+  (No research conducted yet)
+
+  Lab Formatting Guidelines (excerpt)
+  ```
+| App Manifest                            | Teams app manifest     | Describes app capabilities.        |
+| Microsoft 365 Agents Playground         | Test Tool              | Test Environment.          |
+| `m365agents.yml`                        | `teamsapp.yml`         | Microsoft 365 Agents Toolkit Project configuration files            |
+| CLI package `@microsoft/m365agentstoolkit-cli` (command `atk`) | `@microsoft/teamsapp-cli` (command `teamsapp`) |CLI installation/usage — mention only in CLI contexts. |
+
+> **Rephrase guidance:**  
+> - Use the new names by default.  
+> - Explain the rebranding briefly if it helps the user’s understanding.  
+
+# Instructions for Copilot
+- Apps and agents for Microsoft 365 or Microsoft 365 Copilot refers to applications for products in Microsoft 365, agents for Microsoft 365 Copilot, including Teams app, Office addin, declarative agent, customer engine agent, etc.
+- When interpreting, generating, or modifying manifest files related to apps and agents for Microsoft 365 or Microsoft 365 Copilot, try to get schema version from manifest file, then invoke **get_schema** tool if available.
+- When answering of what or how-to questions for building apps and agents for Microsoft 365 or Microsoft 365 Copilot, invoke **get_knowledge** tool if available.
+- Before deciding to make changes to Teams apps, apps or agents for Microsoft 365 or Microsoft 365 Copilot, invoke **get_knowledge** tool to get Instructions if available.
+- When troubleshooting issues

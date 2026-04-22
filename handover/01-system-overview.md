@@ -1,8 +1,14 @@
 OAI 5G RAN/Core Architecture and Configuration Overview
 
-# OAI 5G RAN/Core Architecture and Configuration
+# OAI 5G RAN/Core Architecture and Configuration 
 
-OAI 5G RAN/Core architecture and configuration provide a framework for the core network node to manage radio resource management (RRM) functions, including mobility management, handover management, and quality of service (QoS) management.<br> The core network consists of several components, including the control element (CE), the user plane component (UCP), and the backhaul component (BC).
+## Key Components
+## Configuration Overview
+## Terminology
+## Conclusion
+# System Overview
+
+# System Overview
 
 # OAI 5G RAN/Core Architecture and Configuration: The section title is missing a space between the hash symbol and the text.
 

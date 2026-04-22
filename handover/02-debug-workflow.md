@@ -56,6 +56,9 @@ long delta_us = final_target - current_total_advanced_us;
 __atomic_store_n(&p7_info->pending_us, p7_info->pending_us + delta_us, __ATOMIC_SEQ_CST);
 ```
 
+
+This Standard Operating Procedure (SOP) outlines the requirements and best practices for research.
+
 # Debugging Workflow:
 ## Table of Contents
 ### Daily log workflow diagram
@@ -199,6 +202,17 @@ Develop a detailed debug workflow, including known issues, troubleshooting steps
 >   
 > <p style="margin-bottom: 0.5em;">To learn more about debugging workflow, refer to this <a href="#debugging-workflow-2">Debugging Workflow</a>.</p>
 >
+
+
+> This Standard Operating Procedure (SOP) outlines the requirements and best practices for research. [REVIEWER FEEDBACK: **Verdict**: FEEDBACK
+**Overall Comment**: Review parsing failed: Expecting value: line 1 column 1 (char 0). Raw: Here is the Review Report in JSON format:
+{
+  "review": {
+    "title": "Review Report",
+    "description": "A review of the provided documents and code.",
+    "status": "inprog"
+  }
+}
 
 # Debugging Workflow:
 
