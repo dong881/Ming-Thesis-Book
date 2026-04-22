@@ -497,3 +497,12 @@ OUTPUT FORMAT
 >
 > - Log immediately after completing each task
 > - Include a
+
+
+<exact heading string>
+
+## Note on prior transcript
+Re-enabling `generate_core_charts` did not cause this; the failure mode is duplicate `ds.label` keys in dict-based overlays after the Parquet/binary chart path.
+
+- Added `IPERF3_MAX_REPORT_INTERVAL_SEC = 60` and `_iperf_report_interval_sec(duration)` so `-i` is always within iperf3 limits.
+- For `duration >= 600` (including **10800**), use **`-i 60`** (largest valid coarse interval). Shorter tests keep **`-i 1`**.

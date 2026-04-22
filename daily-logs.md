@@ -50,6 +50,11 @@ create `./milestones.md` in your project repository.
 \n\n\n</li>
 </ul>
 
+
+<h1>## Project Milestones</h1><ul>
+<li><a href="milestones.md">Milestones</a></li>
+</ul><p>Refer to <a href="milestones.md">Milestones</a> for project details.</p>
+
 # Task 1
 ## Task Description
 

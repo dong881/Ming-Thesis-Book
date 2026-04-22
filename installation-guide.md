@@ -348,3 +348,9 @@ Return ONLY a JSON PatchResponse object. Do NOT return the full file.
 > Requirement 5.2.1.2 applies only to students who have not received approval for their *Chapter IV. Results and Analysis* from the Professor.
 
 - [ ] (Recognition Form for Academic Field o
+
+
+<exact heading string>
+
+Make the Installation Guide public after publishing the paper, as per reviewer feedback.
+Refer to <a href="https://www.example.com/paper" target="_blank">Paper for details.

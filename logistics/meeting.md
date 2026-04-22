@@ -94,81 +94,10 @@ The commit 956aea0e — 2026-04-09 enhances the timing configuration by adding d
 
 ## Enhance Timing Configuration by Adding Dynamic Timing Info Mode and Period
 
-When **both** are true:
--- `env_cfg.__slot_ahead_value__` is set (slot-ahead expanded environment), and
--- `env_cfg.__tc_cases__` is non-empty (TC sweep enabled),
-+ single-dataset plotting (existing behavior), and
-+ compare-mode plotting with **multiple datasets overlaid** on the same chart template.
+<h2>Enhance Timing Configuration by Adding Dynamic Timing Info Mode and Period</h2>
+<p>This section includes PNF timing window load-only PDF and segmentation analysis plots. <br>
 
-
-<img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram"><br><br>IG-A --> PD <br>IG-B --> PD <br>IG-C --> PD<br><br><br>
-
-
-Add detailed information on IG-A, IG-B, and IG-C timing configurations.
-
-IG-A:
-  - Add support for dynamic timing info mode
-  - Enhanced delay handling for multiple time units
-IG-B:
-  - Implement dynamic timing info period calculations
-  - Improve tolerance for rendering drift
-IG-C:
-  - Integrate with other modules for seamless integration
-
-
->### Enhance Timing Configuration by Adding Dynamic Timing Info Mode and Period
-> When **both** are true:
-> -- `env_cfg.__slot_ahead_value__` is set (slot-ahead expanded environment), and 
-> -- `env_cfg.__tc_cases__` is non-empty (TC sweep enabled),
-> + single-dataset plotting (existing behavior), and
-> + compare-mode plotting with **multiple datasets overlaid** on the same chart template.
-
-
-<h4>Behavior</h4>
-> When **both** are true:
-> -- `env_cfg.__slot_ahead_value__` is set (slot-ahead expanded environment), and 
-> -- `env_cfg.__tc_cases__` is non-empty (TC sweep enabled),
-> + single-dataset plotting (existing behavior), and
-> + compare-mode plotting with **multiple datasets overlaid** on the same chart template.
-
-
-<img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram"><br><br>IG-A --> PD <br>IG-B --> PD <br>IG-C --> PD<br><br><br><img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram"><br><br>IG-A --> PD < br>IG-B --> PD < br>IG-C --> PD<br><br><br><img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram"> Dynamic timing configuration allows you to specify the timing information for your system. This includes the timing period, mode, and other parameters.
-
-The commit 956aea0e — 2026-04-09 enhances the timing configuration by adding dynamic timing info mode and period. The author dong881 <minghunghsu.taiwan@gmail.com> fixes the following issues:
-\*   Improves delay handling in _tc_status_has_expected_delay function to support multiple time units and enhance tolerance for rendering drift.
-\*   Enhance timing configuration by adding dynamic timing info mode and period
-
-
-<p>As per BMW Lab Meeting Guideline, we need to enhance timing configuration by adding dynamic timing info mode and period. The enhanced timing configuration will support the addition of dynamic timing info mode and period as mentioned in the BMW Lab Meeting Guideline. This will enable more precise control over the timing of our systems.</p>
-
-
->### Enhance Timing Configuration by Adding Dynamic Timing Info Mode and Period
-> When **both** are true:
-> -- `env_cfg.__slot_ahead_value__` is set (slot-ahead expanded environment), and 
-> -- `env_cfg.__tc_cases__` is non-empty (TC sweep enabled),
-> + single-dataset plotting (existing behavior), and
-> + compare-mode plotting with **multiple datasets overlaid** on the same chart template.
->
-</h4>Behavior</h4>
-When **both** are true:
-> -- `env_cfg.__slot_ahead_value__` is set (slot-ahead expanded environment), and 
-> -- `env_cfg.__tc_cases__` is non-empty (TC sweep enabled),
-> + single-dataset plotting (existing behavior), and
-> + compare-mode plotting with **multiple datasets overlaid** on the same chart template.
->
-</h4>Enhance Timing Configuration by Adding Dynamic Timing Info Mode and Period
-When **both** are true:
--- `env_cfg.__slot_ahead_value__` is set (slot-ahead expanded environment), and 
--- `env_cfg.__tc_cases__` is non-empty (TC sweep enabled),
-+ single-dataset plotting (existing behavior), and
-+ compare-mode plotting with **multiple datasets overlaid** on the same chart template.
->
-</h4>Behavior
-When **both** are true:
--- `env_cfg.__slot_ahead_value__` is set (slot-ahead expanded environment), and 
--- `env_cfg.__tc_cases__` is non-empty (TC sweep enabled),
-+ single-dataset plotting (existing behavior), and
-+ compare-mode plotting with **multiple datasets overlaid** on the same chart template.
+The code change is based on the feedback from the automator.</p>
 
 # Dynamic Timing Configuration
 # Dynamic Timing Configuration

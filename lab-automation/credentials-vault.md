@@ -41,6 +41,11 @@ By following these guidelines, you can maintain a secure credentials vault that 
 
 ## Security Protocols for Credentials Vault
 
+
+<p>The encryption protocol used for storing sensitive data in the credentials vault is AES-256-CBC. For more information on this protocol, please refer to [OWASP: Understanding the OPAQUE project documentation](https://opaquedocs.org/).</p>
+
+<p>Implement role-based access control (RBAC) to limit user access to sensitive information.</p>
+
 ## Encryption Protocol<br>Use AES-256-CBC to protect stored credentials. For more information, refer to [OWASP: Understanding the OPAQUE project documentation](https://opaquedocs.org/).
 
 <BR>
