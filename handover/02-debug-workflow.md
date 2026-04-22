@@ -1,19 +1,21 @@
 # Debugging Workflow 
 
-### Debugging Workflow
+## Debugging Workflow
 
-To ensure the correctness of the debugging workflow, it is essential to follow best practices.
+### Introduction
+This section covers the debugging workflow for the open-air interface 5G implementation. It outlines the steps to follow when encountering issues during testing or deployment.
 
-### Best Practices
+### Troubleshooting Steps
+1. **Identify the issue**: Clearly define the problem you are experiencing and gather relevant information.
+2. **Review logs**: Check the log files generated during the test or deployment process to identify any patterns or clues that may help in resolving the issue.
+3. **Consult documentation**: Refer to the official documentation for the specific component or module causing issues.
+4. **Reach out to support**: Contact the support team or community forums for guidance and assistance.
 
-1.  Regularly review and update the code for any issues or improvements.
-2.  Implement automated testing to catch errors early in the development process.
-3.  Use version control systems to track changes and collaborate with team members.
-4.  Follow established coding standards and guidelines.
-
-
-Known Issue: The section title is missing a space between the hash symbol and the text.
-Troubleshooting Step: Ensure that there is at least one space after the `#` symbol in the section title.
+### Example Use Case
+Suppose you are experiencing issues with the UE IP health check during iperf runs. Follow these steps:
+1. Check the log files to identify any errors or warnings related to the UE IP health check.
+2. Consult the documentation for the `rapp/src/auto_tester.py` script to understand how the UE IP health check is implemented.
+3. Reach out to the support team for guidance on resolving the issue.
 
 # Debugging Workflow:
 ## Table of Contents

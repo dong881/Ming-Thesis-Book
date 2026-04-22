@@ -11,6 +11,24 @@ The OAI 5G RAN core architecture also includes the S1AP (S1 Application Protocol
 
 In this section, we will provide an overview of the key components of the OAI 5G RAN/core architecture and their respective functions.
 
+
+# OAI 5G RAN/Core Architecture and Configuration
+
+## Overview
+
+The Open AirInterface (OAI) 5G RAN/Core architecture provides a comprehensive platform for developing, testing, and deploying 5G network components.
+
+## Architecture Components
+
+default: LTE
+
+*   eNodeB: the base station that communicates with user equipment (UE)
+*   UE: the device that connects to the network
+
+5GS: New Radio (NR) based system
+
+*   eMR: Evolved Multimedia Relay functionality
+
 # System Overview
 
 # System Overview
@@ -209,3 +227,34 @@ ssh user@<IP address>
 NR MAC gNB scheduler improvements
 
 Added a check to abort DL retransmission if the number of rounds exceeds the maximum allowed, reducing allocation failures.
+
+
+Debugging Workflow
+
+> [!NOTE]
+> Our servers are put in the server room. Please contact the admin for VPN access.
+
+```shell
+Host: <IP address>
+User: <username>
+``>
+
+```shell
+ssh user@<IP address>
+
+# The authenticity of host '192.168.1.100 (192.168.1.100)' can't be established.
+# ECDSA key fingerprint is SHA256:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+# 5G NR Physical Layer (E-UTRA and E-UTRAN) Specifications
+
+- [!NOTE]
+> Our servers are put in the server room. Please contact the admin for VPN access.
+
+
+> ·[!NOTE]
+> Our servers are put in the server room. Please contact the admin for VPN access.
+
+
+> ·[!NOTE]
+> Our servers are put in the server room. Please contact the admin for VPN access.
