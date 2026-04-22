@@ -1,30 +1,13 @@
 # Debugging Workflow 
 
->## Debugging Workflow
->
->### What was implemented
->
->\`rapp/src/auto_tester.py` now supports **both**:
->\n>\+ Legend is no longer hardcoded to \`8 slots ahead`.\n>\+ Legend now auto-parses session/dataset name:\n>\n>\- `7-slots-ahead` / `slot-ahead-7` => `7 slots ahead`
->\- names containing `proposed` or `dynamic` => `proposed`
->\- otherwise fallback to original label text.
->\n>\+ Chart titles are removed from TC sweep plots (`mean/p50/p95`).
->
 
->### Key changes
->
->- Refactored data extraction into reusable helpers:
->\  - \_collect_tc_sweep_points_from_summary(...)\n>\  - \_collect_tc_sweep_points_from_iperf(...)\n>\  - \_build_tc_sweep_series(...)\n>
->- Added shared plot renderer:\n>\  - \_plot_tc_sweep_series(...)\n>\  - Uses the same TC sweep template (`mean` / `p50` / `p95`, same axis/title style)
->\  - Draws one line per dataset for compare analysis
->\  - Keeps `x` markers for non-OK rows from summary data
->
->- Extended target function signature:\n>\  - \_analyze_tc_iperf_rx_by_suffix(session_raw_dir, session_fig_dir, dataset_suffix, compare_inputs=None, output_tag=None)
->\  - \_collect_tc_sweep_points_from_summary(summary_path)
->\  - \_plot_tc_sweep_series(session_fig_dir, output_tag, title_tag, series_list)
->\  - \_build_tc_sweep_series(session_raw_dir, dataset_suffix, label=None)
->
->
+### Debugging Workflow
+
+#### Known Issues and Troubleshooting Steps
+
+1. Ensure proper initialization of the vnf-pnf latency logger.
+2. Review code for duplicate lines with the same text and remove them.
+3. Verify that the timing window is correctly configured.
 
 # Debugging Workflow
 ## Example Solution

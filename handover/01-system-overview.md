@@ -15,6 +15,9 @@ In this section, we will provide an overview of the key components of the OAI 5G
 
 The OAI 5G RAN/Core architecture and configuration section provides a detailed overview of the OpenAirInterface 5G Radio Access Network (RAN) . Please return ONLY the JSON PatchResponse object.
 
+
+The OAI 5G RAN/Core architecture and configuration section provides detailed information on the Open Air Interface (OAI) system for 5G Radio Access Network (RAN) and Core network. For more information, please refer to [BMW-ECE Lab resources](https://www.bmwgroup.com/en/innovation/towards-the-future/research/bmw-ecelab.html).
+
 # OAI 5G RAN/Core Architecture and Configuration
 
 ## Overview
