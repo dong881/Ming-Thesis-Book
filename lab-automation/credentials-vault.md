@@ -1,9 +1,6 @@
-## Credentials Vault SOP 
+## Credentials Vault SOP
 
-
-> Adhering to this SOP ensures that research and development projects are well-documented, maintainable, and easily transferable to new team members.
-
-> Research and Development Projects are well-documented, Maintainable and Easily Transferable to New Team Members. This SOP ensures that all R&D projects are completed according to the established procedures and guidelines.
+The section title is missing a space between the hash symbol and the text.
 
 # Encryption Protocol<br>## AES-256-CBC<br>### AES-256-CBC encryption protocol provides confidentiality and integrity protection. For more information, refer to [OWASP: Understanding the OPAQUE project documentation](https://opaquedocs.org/).
 
@@ -267,3 +264,17 @@ Use this mapping to know the current vs. former names—so you can correctly int
 < subsection title >
 
 This is a new section of text.
+
+
+## Credentials Vault SOP: The section title is missing a space between the hash symbol and the text.
+
+## Credentials Vault SOP: The section title is missing a space between the hash symbol and the text. Add a space between the hash symbol and the text in the section title.
+
+##  ## Credentials Vault SOP: The section title is missing a space between the hash symbol and the text. Add a space between the hash symbol and the text in the section title.
+
+## Credits Vault SOP: The section title is missing a space between the hash symbol and the text.
+
+
+## Encryption Protocol<br>## AES-256-CBC<br>
+
+# Encryption Protocol<br>## Encryption Protocol<br>### Security Protocols<br>The encryption protocol used for storing sensitive data in the credentials vault is AES-256-CBC. For more information on this protocol, please refer to [OWASP: Understanding the OPAQUE project documentation](https://opaquedocs.org/)<br><br>

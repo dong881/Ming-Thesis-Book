@@ -67,3 +67,32 @@ ssh user@<IP address>
 \n* Write clearly and concisely.\n* Use proper grammar and spelling.\n* Adhere to the formatting guidelines as specified in the style guide.\n
 \n## Tips for Effective Communication\n\n* Proper grammar and \n
 \n\n\n\n
+
+
+## Comprehensive Project Documentation Guideline
+
+## Guidelines for Authors
+
+* Write clearly and concisely.
+* Use proper grammar and spelling.
+* Adhere to the formatting guidelines as specified in the style guide.
+
+## Tips for Effective Communication
+
+* Proper grammar and 
+
+
+<h1 align="center">Project Documentation - Guideline</h1>
+
+### <a name="guidelines-for-authors"></a> Guidelines for Authors
+
+
+* Write clearly and concisely.
+* Use proper grammar and spelling.
+* Adhere to the formatting guidelines as specified in the style guide.
+
+<a id="tips-for-effective-communication"></a>
+
+### <a name="tips-for-effective-communication"></a> Tips for Effective Communication
+
+* Proper grammar and

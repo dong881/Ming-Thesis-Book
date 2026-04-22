@@ -16,7 +16,18 @@
 
 # Daily Plan & Logs
 
-<markdown for this section ONLY>
+<h1 align="center">Daily Log Template</h1><hr>
+
+> [!TIP]\ **Daily Log Template**: Include accurate start and end times for each task.
+
+**File**: Create `./daily-logs.md` in your project repository
+
+> [!TIP]\ **Best Practices**:
+
+> - Log immediately after completing each task
+> - Include accurate start and end times for each task
+> - Link every task to its study note section
+> - Set which project to be done as your daily short-term goal
 
 # Daily Plan & Logs
 

@@ -244,3 +244,6 @@ When **both** are true:
 
 <img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram"><br>IG-A --> PD<br>IG-B --> PD < br>IG-C --> PD<br><br>Preparing for meetings involves planning an agenda that covers all necessary topics, including TEEP preparation overview.</p><p>Additionally, consider the importance of effective communication and collaboration among team members to ensure successful meeting outcomes.</p><h2>Example</h2><p>This is an example of how to improve the timing configuration for better performance.</p>
 
+## IG-A --> PD
+
+<img src="https://example.com/valid-image.png" alt="Valid Image" />

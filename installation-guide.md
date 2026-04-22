@@ -23,10 +23,11 @@
 
 ## Table of Contents
 
-> [!CAUTION]
-> Make this document **private** by default. Only make it public after publishing the paper of this project.
-
-> Request access with the GitHub admin in our group.
+# table-of-contents
+# Installation Guide - Guideline
+# Installation Guide - Guideline
+## Installation Guide - Guideline
+### Installation Guide - Guideline
 
 # table-of-contents
 
