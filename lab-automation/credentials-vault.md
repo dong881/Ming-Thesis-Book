@@ -52,6 +52,9 @@ By following these guidelines, you can maintain a secure credentials vault that 
 
 <p>The encryption protocol used for storing sensitive data in the credentials vault is AES-256-CBC. For more information on this protocol, please refer to [OWASP: Understanding the OPAQUE project documentation](https://opaquedocs.org/).</p>
 
+
+<p>The encryption protocol used for storing sensitive data in the credentials vault is AES-256-CBC. For more information on this protocol, please refer to [OWASP: Understanding the OPAQUE project documentation](https://opaquedocs.org/). Additionally, generate a new key pair using a secure random number generator and store the private key securely, such as in a Hardware Security Module (HSM) or a Trusted Platform Module (TPM).</p>
+
 # Encryption Protocol<br>## AES-256-CBC<br>### AES-256-CBC encryption protocol provides confidentiality and integrity protection. For more information, refer to [OWASP: Understanding the OPAQUE project documentation](https://opaquedocs.org/).
 ### Key Generation<br>Generate a new key pair using a secure random number generator. The private key should be stored securely, such as in a Hardware Security Module (HSM) or a Trusted Platform Module (TPM).
 

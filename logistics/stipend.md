@@ -25,3 +25,10 @@ Additionally, please note that failure to comply with this policy may result in 
 The BMW Lab Project stipend guidelines require timely submission of expense reports. To ensure compliance, please submit your expense reports within 30 days of the invoice date.
   
   Please note that late submissions may incur a penalty of [ specify percentage or amount ]% on the total amount due. For further details, please refer to Section 4 of the BMW Lab Project stipend guidelines.
+
+*   Timely submission of expense reports is mandatory to receive stipend payments. 
+
+*   Please note that late submissions will incur a penalty of 10\% on the total stipend amount.
+
+*   A detailed guide for submitting expense reports can be found in the company policy document.
+

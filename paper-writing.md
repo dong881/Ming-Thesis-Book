@@ -517,3 +517,10 @@ RULES FOR JSON STRINGS:\1. Escape double-quotes as \\"2. Escape newlines as \\n3
 > **Rephrase guidance:"
 
 - Use the new names by default.\n  - Explain the rebranding briefly if it helps the user’s understanding.
+
+
+New Source Code / Commits to Document
+
+### Repo: openairint. Please return ONLY the JSON PatchResponse object.
+RULES FOR JSON STRINGS:
+1. Escape double-quotes as \"\n2. Escape newlines as \\n3. Escape backslashes as \\4. Do NOT over-escape backticks or symbols. ` should be .
