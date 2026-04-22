@@ -79,6 +79,9 @@ PD[Project Documentation]
 
 Add clear instructions on how to use the user guide template, including formatting and content requirements. Review existing format and add necessary information for a complete user guide.
 
+
+<h1>User Guide Template</h1><p>The user guide template is a crucial component of any software or system. It provides an overview of the product's features, usage instructions, and troubleshooting steps.</p><h2>Formatting Requirements:</h2><ul><li>Use Markdown format for headings and text.</li><li>Include a clear table of contents at the top of each section.</li></ul>
+
 ## Table of Contents 
 
 > [!TIP] 

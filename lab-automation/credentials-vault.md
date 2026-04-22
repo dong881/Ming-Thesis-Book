@@ -262,3 +262,8 @@ Use this mapping to know the current vs. former names—so you can correctly int
 Microsoft 365 Agents Toolkit has been rebranded, and users may still use either name.
 
 Use this mapping to know the current vs. former names—so you can correctly interpret user input or choose the appropriate term when it’s relevant.
+
+
+< subsection title >
+
+This is a new section of text.

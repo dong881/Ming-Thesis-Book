@@ -41,3 +41,6 @@ Additionally, please note that failure to comply with this policy may result in 
 
 Expenses must be submitted within one month of the end of the billing period. Submissions are due on the first day of the following month.
 
+## entire
+
+Timely submission of expense reports is crucial for the success of this project. The stipend will be paid out on a monthly basis, and all expenses must be submitted within a certain timeframe to avoid any delays in payment.

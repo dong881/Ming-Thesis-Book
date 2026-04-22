@@ -16,14 +16,7 @@
 
 # Daily Plan & Logs
 
-&lt;Your Full Name&gt;\n&amp; Student ID: \&lt;Your ID&gt;\n\&amp;Enrollment:
-\&amp;- Program: M.S./. Please return ONLY the JSON PatchResponse object.
-
-
-<h2>Lab Formatting Guidelines (excerpt)</h2>
-
-\> Lab Formatting Guidelines (excerpt)\
-\n\n
+<markdown for this section ONLY>
 
 # Daily Plan & Logs
 
