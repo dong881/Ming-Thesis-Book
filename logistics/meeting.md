@@ -43,6 +43,12 @@ IG-A --> PD
 IG-B --> PD
 IG-C --> PD
 
+
+<img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram"><br><br>IG-A --> PD <br>IG-B --> PD <br>IG-C --> PD<br><br><br><img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram"><br><br>IG-A --> PD <br>IG-B --> PD <br>IG-C --> PD<br><br><br><img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram"><br><br>IG-A --> PD <br>IG-B --> PD <br>IG-C --> PD<br><br><br><img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram">
+
+
+<img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram"><br><br>IG-A --> PD <br>IG-B --> PD <br>IG-C --> PD<br><br><br><img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram"><br><br>IG-A --> PD < br>IG-B --> PD < br>IG-C --> PD<br><br><br><img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram"><br><br>IG-A --> PD < br>IG-B --> PD < br>IG-C --> PD<br><br><br><img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram">
+
 # Dynamic Timing Configuration
 
 Dynamic timing configuration allows you to specify the timing information for your system. This includes the timing period, mode, and other parameters.
@@ -100,6 +106,9 @@ IG-C --> PD
 IG-A --> PD
 IG-B --> PD
 IG-C --> PD
+
+
+<img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram"><br><br>IG-A --> PD <br>IG-B --> PD <br>IG-C --> PD<br><br><br><img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram"><br><br>IG-A --> PD < br>IG-B --> PD < br>IG-C --> PD<br><br><br><img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram"><br><br>IG-A --> PD < br>IG-B --> PD < br>IG-C --> PD<br><br><br><img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram">
 
 # Dynamic Timing Configuration
 Dynamic timing configuration allows you to specify the timing information for your system. This includes the timing period, mode, and other parameters.

@@ -43,6 +43,13 @@ There are 2 types of project repositories:
 
 ## Guidelines for Authors
 
+# Consistent indentation: The code uses ]
+# Add tip for proper grammar and spelling usage.
+
+# Proper Grammar and Spelling Usage
+## Guidelines for Authors
+# Add tip for proper grammar and spelling usage.
+
 # Add tip for proper grammar and spelling usage.
 \# Proper Grammar and Spelling Usage
 

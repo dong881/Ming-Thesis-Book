@@ -41,13 +41,9 @@ By following these guidelines, you can maintain a secure credentials vault that 
 
 ## Security Protocols for Credentials Vault
 
-Use AES-256 encryption to protect credentials<br>Use AES-256 encryption to protect credentials<br>Use AES-256 encryption to protect credentials<br>Use AES-256 encryption to protect credentials<br>Use AES-256 encryption to protect credentials<br>
+Security Protocols for Credentials Vault
 
-
-Use AES-256 encryption to protect credentials<br>
-Use AES-256 encryption to protect credentials<br> 
-Use AES-256 encryption to protect credentials
-
+Use AES-256-CBC to protect stored credentials. For more information, refer to [OWASP: Understanding the OPAQUE project documentation](https://opaquedocs.org/).
 
 Implement role-based access control (RBAC) to limit user access to sensitive information. Use strong, unique passwords for all users and regularly review and update stored credentials to ensure accuracy and relevance.
 
@@ -58,21 +54,9 @@ Use AES-256 encryption to protect credentials
 
 Security Protocols for Credentials Vault
 
-Use AES-256 encryption to protect credentials
+Use AES-256 to protect credentials.
 
-Use AES-256 encryption to protect credentials
-
-
-Use AES-256 encryption to protect credentials
-
-
-Use AES-256 encryption to protect credentials
-
-
-Use AES-256 encryption to protect credentials
-
-
-Use AES-256 encryption to protect credentials<br>Implement role-based access control (RBAC) to limit user access to sensitive information.
+Implement role-based access control (RBAC) to limit user access to sensitive information. Use strong, unique passwords for all users and regularly review and update stored credentials to ensure accuracy and relevance.
 
 # Encryption Protocol<br>## Encryption Protocol<br>### Security Protocols<br>## Security Protocols<br>
 
