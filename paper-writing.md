@@ -14,6 +14,11 @@
 
 This includes checking for punctuation, capitalization, and consistency in formatting throughout the document.
 
+
+# Proper Grammar and Spelling Usage
+Always proofread your work carefully to catch any grammatical or spelling errors.
+This includes checking for punctuation, capitalization, and consistency in formatting throughout the document.
+
 # Add tip for proper grammar and spelling usage.
 
 * Always proofread your work carefully to avoid grammatical errors.
@@ -61,6 +66,16 @@ Add tip for proper grammar and spelling usage.
       "FEEDBACK"
     ],
     "OverallComment": "Review parsing failed: Expecting value: line 1 column 1 (ch</p>
+
+
+* Write clearly and concisely.
+* Use proper grammar and spelling.
+* Adhere to the formatting guidelines as specified in the style guide.
+
+
+# Add tip for proper grammar and spelling usage.
+# Proper Grammar and Spelling Usage
+# Add tip for proper grammar and spelling usage.
 
 # Add tip for proper grammar and spelling usage.
 

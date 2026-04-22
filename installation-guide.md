@@ -10,48 +10,42 @@ To set up the system, follow these steps:
 # Installation Guide - Guideline
 
 > Make this document **private** by default. Only make it public after publishing the paper of this project.
->
+
 > Request access with the GitHub admin in our group.
 
----
 
-> [!NOTE]
-> **Purpose of Installation, Integration, and User Guide**:
->
-> - **Installation Guide**: Focuses on setup, configuration, and getting the system running.
-> - **User Guide**: Focuses on how to **use** the system once it's installed and running.
-> - **Project Documentation**: Define `System Architecture` & attach the installation guide link, `use case diagram`, `message-sequence chart (MSC)`, `class diagram`, `flowchart`.
-
-Correlation between Installation, User Guides, and Project documentation:
-
-```mermaid
-graph TD
-
-PD[Project Documentation]
-  subgraph "Component A"
-        IG-A[Installation Guide A]
-        UG-A[User Guide A]
-    end
-
-    subgraph "Component B"
-        IG-B[Installation Guide B]
-        UG-B[User Guide B]
-    end
-
-    subgraph "Component C"
-        IG-C[Installation Guide C]
-        UG-C[User Guide C]
-    end
-
-IG-A --> PD
-IG-B --> PD
-IG-C --> PD
-```
+# Installation Guide - Guideline
 
 ## Table of Contents
 
-<h1>Installation Guide - Guideline</h1>
-<p>Git clone https://github.com/openairinterface5g/openairinterface.git</p>
+# Instructions for Copilot
+# Installation Guide - Guideline
+## Installation Guide - Guideline
+## Table of Contents
+# Installation Guide - Guideline
+## Installation Guide - Guideline
+# Installation Guide - Guideline
+# Installation Guide - Guideline
+# Installation Guide - Guideline
+## Installation Guide - Guideline
+### OUTPUT FORMAT
+## Installation Guide - Guideline
+# Installation Guide - Guideline
+## Installation Guide - Guideline
+# Installation Guide - Guideline
+## Installation Guide - Guideline
+# Installation Guide - Guideline
+## TOC
+# Installation Guide - Guideline
+## Installation Guide - Guideline
+### Installation Guide - Guideline
+# Installation Guide - Guideline
+## Installation Guide - Guideline
+# Installation Guide - Guideline
+## Table of Contents
+# Instructions for Copilot
+## Installation Guide - Guideline
+### Installation Guide - Guideline
 
 # Instructions for Copilot
 - Apps and agents for Microsoft 365 or Microsoft 365 Copilot refers to applications for products in Microsoft 365, agents for Microsoft 365 Copilot, including Teams app, Office addin, declarative agent, customer engine agent, etc.
@@ -133,3 +127,8 @@ Git clone https://github.com/openairinterface5g/openairinterface.git
 ...
 ### Installation Guide - Guideline
 ...
+
+
+> Make this document **private** by default. Only make it public after publishing the paper of this project.
+
+> Request access with the GitHub admin in our group.

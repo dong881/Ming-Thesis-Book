@@ -35,4 +35,8 @@ The commit 956aea0e — 2026-04-09 enhances the timing configuration by adding d
 
 ## Enhance Timing Configuration by Adding Dynamic Timing Info Mode and Period
 
-Enhance timing configuration to include dynamic timing info mode and period for improved reliability and performance.
+IG-A --> PD
+IG-B --> PD
+IG-C --> PD
+target content added here
+
