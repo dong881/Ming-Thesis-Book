@@ -1,32 +1,131 @@
-# Debugging Workflow
+# Debugging Workflow 
 
-> **Formatting Standards**:
+>## Debugging Workflow
 >
-> 1. Dates: `yyyy-mm-dd` format (e.g., `2025-10-18`)
-> 2. Time: `hh:mm–hh:mm` format (e.g., `09:00–11:30`)
-> 3. Auto-generate Table of Contents using [VS Code Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one#table-of-contents)
+>### What was implemented
+>
+>\`rapp/src/auto_tester.py` now supports **both**:
+>\n>\+ Legend is no longer hardcoded to \`8 slots ahead`.\n>\+ Legend now auto-parses session/dataset name:\n>\n>\- `7-slots-ahead` / `slot-ahead-7` => `7 slots ahead`
+>\- names containing `proposed` or `dynamic` => `proposed`
+>\- otherwise fallback to original label text.
+>\n>\+ Chart titles are removed from TC sweep plots (`mean/p50/p95`).
+>
 
-**Document Structure**: Link your study notes with milestones and daily logs as shown below:
+>### Key changes
+>
+>- Refactored data extraction into reusable helpers:
+>\  - \_collect_tc_sweep_points_from_summary(...)\n>\  - \_collect_tc_sweep_points_from_iperf(...)\n>\  - \_build_tc_sweep_series(...)\n>
+>- Added shared plot renderer:\n>\  - \_plot_tc_sweep_series(...)\n>\  - Uses the same TC sweep template (`mean` / `p50` / `p95`, same axis/title style)
+>\  - Draws one line per dataset for compare analysis
+>\  - Keeps `x` markers for non-OK rows from summary data
+>
+>- Extended target function signature:\n>\  - \_analyze_tc_iperf_rx_by_suffix(session_raw_dir, session_fig_dir, dataset_suffix, compare_inputs=None, output_tag=None)
+>\  - \_collect_tc_sweep_points_from_summary(summary_path)
+>\  - \_plot_tc_sweep_series(session_fig_dir, output_tag, title_tag, series_list)
+>\  - \_build_tc_sweep_series(session_raw_dir, dataset_suffix, label=None)
+>
+>
+
+# Debugging Workflow
+## Example Solution
+Add four spaces at the beginning of each line to define indentation.
+```
+
+# Debugging Workflow 
+
+## What was implemented
+
+*   **both**:
+    *   Legend is no longer hardcoded to `8 slots ahead`. 
+    *   Legend now auto-parses session/dataset name:
+        
+          -   `7-slots-ahead` / `slot-ahead-7` => `7 slots ahead`
+          -   names containing `proposed` or `dynamic` => `proposed`
+          -   otherwise fallback to original label text.
+    *   Chart titles are removed from TC sweep plots (`mean/p50/p95`).
+
+## Key changes
+
+### 1. Refactored data extraction into reusable helpers:
+        
+     -   `_collect_tc_sweep_points_from_summary(...)`
+     -   `_collect_tc_sweep_points_from_iperf(...)`
+     -   `_build_tc_sweep_series(...)"
+
+### 2. Added shared plot renderer:
+        
+     -   `_plot_tc_sweep_series(...)`
+     -   Uses the same TC sweep template (`mean` / `p50` / `p95`, same axis/title style)
+     -   Draws one line per dataset for compare analysis
+     -   Keeps `x` markers for non-OK rows from summary data
+
+### 3. Extended target function signature:
+        
+     -   `analyze_tc_iperf_rx_by_suffix(session_raw_dir, session_fig_dir, dataset_suffix, compare_inputs=None, output_tag=None)`
+     -   `compare_inputs` format:
+        \n           \'\'['\'\{\'raw_dir:\ <Path>,\  'dataset_suffix:\ <str>,\  \'label:\ <str>\}\'\'\]
+
+# TC sweep legend/title adjustment
+
+## Purpose
+
+Updated `rapp/src/auto_tester.py` for TC sweep charts:
+
+| App Manifest                            | Teams app manifest     | Describes app capabilities.        |
+| Microsoft 365 Agents Playground         | Test Tool              | Test Environment.          |
+| `m365agents.yml`                        | `teamsapp.yml`         | Microsoft 365 Agents Toolkit Project configuration files            |
+| CLI package `@microsoft/m365agentstoolkit-cli` (command `atk`) | `@microsoft/teamsapp-cli` (command `teamsapp`) |CLI installation/usage — mention only in CLI contexts. |
+
+> **Rephrase guidance:**
+> - Use the new names by default.
+> - Explain the rebranding briefly if it helps the user’s understanding. 
+
+# Instructions for Copilot
+
+## Table of Contents
+
+### Milestones
+#### Project Title
+#### Milestone 1: Updated TC sweep legend/title handling for improved clarity in chart outputs
+##### Task 1: Refactored data extraction into reusable helpers
+\    -   _collect_tc_sweep_points_from_summary(...)\    -   _collect_tc_sweep_points_from_iperf(...)\    -   _build_tc_sweep_series(...)\
+#### Task 2: Added shared plot renderer
+\    -   _plot_tc_sweep_series(...)\
+##### Purpose
+
+*   Improve clarity in chart outputs by using a more descriptive legend title.
+*   Refactor data extraction into reusable helper functions for better maintainability and scalability.
+### Guidelines
+#### Formatting Standards
+> [!TIP]\n> **Formatting Standards**:\n\  1. Dates: `yyyy-mm-dd` format (e.g., `2025-10-18`)\n  2. Time: `hh:mm–hh:mm` format (e.g., `09:00–11:30`)\n  3. Auto-generate Table of Contents using [VS Code Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one#table-of-contents)
+
+#### Document Structure
+> [!TIP]\n> **Document Structure**:\n\    Link your study notes with milestones and daily logs as shown below:
 
 ![Daily log workflow diagram](./assets/daily-log.png)
 
-### Milestones
+#### Milestones
+> [!TIP]\n> **Key Principles**:\n\  - One project = One study note (installation/integration/user guide)\n  - Each task = One section in the study note\n  - Task title must match its section header exactly\n  - Link completed tasks to their documentation
 
-**Purpose**: Create a master checklist of all projects, their milestones, and individual tasks.
+## File
+Create `./milestones.md` in your project repository.
 
-> [!TIP]
-> **Key Principles**:
->
-> - One project = One study note (installation/integration/user guide)
-> - Each task = One section in the study note
-> - Task title must match its section header exactly
-> - Link completed tasks to their documentation
-
-**File**: Create `./milestones.md` in your project repository.
-
-**Template**:
-
+## Template\
 ```markdown
+# Milestones
+
+## Table of Contents
+
+<!-- Auto-generated by Markdown All in One -->
+
+## Project Title\
+### Milestone 1: <Milestone Name>
+#### Task 1: <Task Title>\n\    - [x] [1.1 Task Title](https://github.com/bmw-ece-ntust/<repo>/blob/<7-digit commit hash>/<study-note>.md#<task-section>)
+\    - [x] [1.2 Task Title](https://github.com/bmw-ece-ntust/<repo>/blob/<7-digit commit hash>/<study-note>.md#<task-section>)\
+### Milestone 2: <Milestone Name>
+#### Task 2: <Task Title>\n\    - [x] [2.1 Task Title](https://github.com/bmw-ece-ntust/<repo>/blob/<7-digit commit hash>/<study-note>.md#<task-section>)\n
+```
+
 # Milestones
 
 ## Table of Contents
@@ -231,3 +330,32 @@ User: <username>
 > Add an overall comment with instructions on how to proceed with the comprehensive assessment.
 
 This section provides guidelines for debugging workflow. Please refer to the [Lab Formatting Guidelines](https://labs.openairinterface.org/labs/doc/how-to/debugging-workflow/) for more information.
+
+# TC sweep legend/title adjustment
+
+Updated `rapp/src/auto_tester.py` for TC sweep charts:
+
+- Legend is no longer hardcoded to `8 slots ahead`.\n- Legend now auto-parses session/dataset name:\n  - `7-slots-ahead` / `slot-ahead-7` => `7 slots ahead`\n  - names containing `proposed` or `dynamic` => `proposed`\n  - otherwise fallback to original label text.\n- Chart titles are removed from TC sweep plots (`mean/p50/p95`).\n
+## Key changes
+
+### Refactored data extraction into reusable helpers:\n- `_collect_tc_sweep_points_from_summary(...)`
+- `_collect_tc_sweep_points_from_iperf(...)`
+- `_build_tc_sweep_series(...)`
+
+### Added shared plot renderer:\n- `_plot_tc_sweep_series(...)`
+  - Uses the same TC sweep template (`mean` / `p50` / `p95`, same axis/title style)\n  - Draws one line per dataset for compare analysis\n  - Keeps `x` markers for non-OK rows from summary data
+
+### Extended target function signature:\n- `analyze_tc_iperf_rx_by_suffix(session_raw_dir, session_fig_dir, dataset_suffix, compare_inputs=None, output_tag=None)`
+  - `compare_inputs` format:\n    ```python\n    [\n       {\n           "raw_dir": <Path>, \n           "dataset_suffix": <str>, \n           "label": <str>},\n\n       ...\n\n       ]\n\n    ```
+- Wired compare-mode call sites to use it: \n  - CLI `mode == "compare"` now runs comparator, then generates overlaid TC sweep compare charts. \n  - Auto group compare path (`check_and_run_group_compare`) also does the same after comparator output.
+
+## Output behavior
+
+### Single mode output remains:\n-  - `figure/tc_sweep/tc_sweep_rx_mean_<dataset>.png`\n-  - `figure/tc_sweep/tc_sweep_rx_p50_<dataset>.png`\n-  - `figure/tc_sweep/tc_sweep_rx_p95_<dataset>.png`\n-  - `figure/tc_sweep/tc_sweep_rx_stats_<dataset>.json`\n
+### Compare mode output (using `output_tag`, typically compare folder name):
+-  - `figure/tc_sweep/tc_sweep_rx_mean_<compare_tag>.png`\n-  - `figure/tc_sweep/tc_sweep_rx_p50_<compare_tag>.png`\n-  - `figure/tc_sweep/tc_sweep_rx_p95_<compare_tag>.png`\n-  - `figure/tc_sweep/tc_sweep_rx_stats_<compare_tag>.json`
+
+## Validation
+
+### Validation:\n+- AST parse OK\n+- No linter errors on edited file
+
