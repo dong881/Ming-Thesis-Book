@@ -205,3 +205,29 @@ static inline void get_vnf_timing_envs(int *slot_ahead, int *target_margin_initi
 
 
 \n### Credentials Vault\n\nThis is a new section added by the tool.
+
+
+Enhanced Binary Chart Styling with Improved Legend Wrapping, Adjusted Figure Sizes, and Refined Annotation Visibility
+
+<h4>Binary Chart Styling Enhancements</h4>
+
+With the latest enhancements to the binary chart styling, we have made significant improvements to the visual appeal and readability of our charts. The new legend placement algorithm ensures that legends are always visible inside the figure area, even when dealing with long labels. Furthermore, we have adjusted the figure sizes to better accommodate a wider range of data points, resulting in more detailed and informative visualizations.
+
+Additionally, we have refined the annotation visibility by introducing a new annotation display mode that allows for more precise control over the appearance of annotations on the chart. This feature is particularly useful when working with complex datasets or when requiring fine-grained control over the visual elements of our charts.
+
+Overall, these enhancements aim to provide users with an improved and more intuitive experience when working with binary charts in our application.
+
+
+mmap logger initialization based on NFAPI mode
+
+\n\u2713 \u2713 \u2713 Testing completed.\n\n\u2713 \u2713 \u2713 Testing completed.
+
+
+Series line width and marker sizes in binary charts for improved visibility and alignment of annotations
+
+\n| App Manifest                            | Teams app manifest     | Describes app capabilities.        |
+| Microsoft 365 Agents Playground         | Test Tool              | Test Environment.          |
+| `m365agents.yml`                        | `teamsapp.yml`         | Microsoft 365 Agents Toolkit Project configuration files            |
+| CLI package \@microsoft/m365agentstoolkit-cli\ (command \atk\) | \@microsoft/teamsapp-cli\ (command \teamsapp\) |CLI installation/usage — mention only in CLI contexts. |
+\n> **Rephrase guidance:**   \n  - Use the new names by default.   \n  - Explain the rebranding briefly if it helps the user’s understanding.   \n
+# Instructions for Copilot   - Apps and agents for Microsoft 365 or Microsoft 365 Copilot refers to applications for products in Microsoft 365, agents for Microsoft 365 Copilot, including Teams app, Office addin, declarative agent, customer engine agent, etc.   - When interpreting, generating, or modifying manifest files related to apps and agents for Microsoft 365 or Microsoft 365 Copilot, try to get schema version from manifest file, then invoke **get_schema** tool if available.   - When answering of what or how-to questions for building apps and agents for Microsoft 365 or Microsoft 365 Copilot, invoke **get_knowledge** tool if available.   - Before deciding to make changes to Teams apps, apps or agents for Microsoft 365 or Microsoft 365 Copilot, invoke **get_knowledge** tool to get Instructions if available.   - When troubleshooting issues\n

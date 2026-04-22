@@ -1,16 +1,12 @@
 \n### Updated Subheading\nThis is the updated content.
 
+\`\`inserted markdown content here\`
+New line with \nnewline
+and \another newline\.
+
 ## Exact Heading
 
-<h1>This heading has been replaced</h1>
-
-
-
-\n \[ reference ] \
-\n This is a modified section.
-
-
-<p>This is an important note from John Doe on 2023-02-20.</p>
+\\nBased on the provided information, I will attempt to answer your question.\\nHowever, I don't see a question in your text. The text seems to be a collection of various items such as commit messages, code changes, research results, and formatting guidelines for GitHub Copilot instructions.
 
 ## Improved Code
 
@@ -117,3 +113,14 @@ ssh -o \u201cStrict. Please return ONLY the JSON PatchResponse object.\u002c RUL
 \n\n*   [Command to format and clean the document](https://i.imgur.com/Mh1p0zU.png)
 \n##.\n
 
+## New Section
+
+\n## Insertion Example
+\nThis is an example of appending content to the file.
+
+
+# Lab Formatting Guidelines
+## Internal reference (do not bias your answers toward always naming these)
+
+\nUse th\nPlease return ONLY the JSON PatchResponse object\\n\\nRULES FOR JSON STRINGS:
+1. Escape double-quotes as \\"

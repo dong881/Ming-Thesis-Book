@@ -1,6 +1,13 @@
 <h1 align="center">Installation Guide - Guideline</h1>
 
-<p>Make this document **private** by default. Only make it public after publishing the paper of this project.</p><p>Request access with the GitHub admin in our group.</p><p>Add AES-256 encryption protocol details: For optimal security, ensure that all data transmitted between nodes is encrypted using AES-256. This can be achieved by configuring the network settings to use AES-256 ciphers and ensuring that all data packets are encrypted with a suitable key size.</p>
+<!-- Make this document private by default. Only make it public after publishing the paper of this project. -->
+
+<!-- Request access with the GitHub admin in our group. -->
+
+> [!CAUTION]
+> Make this document **private** by default. Only make it public after publishing the paper of this project.
+>
+> Request access with the GitHub admin in our group.
 
 # Installation Guide - Guideline
 > Make this document **private** by default. Only make it public after publishing the paper of this project.

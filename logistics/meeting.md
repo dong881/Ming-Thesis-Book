@@ -1,69 +1,6 @@
 ## BMW Lab Meeting Guideline
 
-### Enhance Timing Configuration by Adding Dynamic Timing Info Mode and Period
-
-IG-A --> PD
-IG-B --> PD
-IG-C --> PD
-
-
-IG-A --> PD
-IG-B --> PD
-IG-C --> PD
-
-
-IG-A --> PD
-IG-B --> PD
-IG-C --> PD
-
-
-IG-A --> PD
-IG-B --> PD
-IG-C --> PD
-
-
-### Enhance Timing Configuration by Adding Dynamic Timing Info Mode and Period
-
-IG-A --> PD
-IG-B --> PD
-IG-C --> PD
-
-
-IG-A --> PD
-IG-B --> PD
-IG-C --> PD
-
-
-IG-A --> PD
-IG-B --> PD
-IG-C --> PD
-
-
-IG-A --> PD
-IG-B --> PD
-IG-C --> PD
-
-
-<img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram"><br><br>IG-A --> PD <br>IG-B --> PD <br>IG-C --> PD<br><br><br><img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram"><br><br>IG-A --> PD <br>IG-B --> PD <br>IG-C --> PD<br><br><br><img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram"><br><br>IG-A --> PD <br>IG-B --> PD <br>IG-C --> PD<br><br><br><img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram">
-
-
-<img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram"><br><br>IG-A --> PD <br>IG-B --> PD <br>IG-C --> PD<br><br><br><img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram"><br><br>IG-A --> PD < br>IG-B --> PD < br>IG-C --> PD<br><br><br><img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram"><br><br>IG-A --> PD < br>IG-B --> PD < br>IG-C --> PD<br><br><br><img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram">
-
-
-### Enhance Timing Configuration by Adding Dynamic Timing Info Mode and Period
-
-IG-A --> PD
-IG-B --> PD
-IG-C --> PD
-
-IG-A --> PD
-IG-B --> PD
-IG-C --> PD
-
-<img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram"><br><br>IG-A --> PD <br>IG-B --> PD <br>IG-C --> PD<br><br><br><img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram"><br><br>IG-A --> PD < br>IG-B --> PD < br>IG-C --> PD<br><br><br><img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram">
-
-
-<img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram"><br><br>IG-A --> PD<br>IG-B --> PD<br>IG-C --> PD<br><br><br><img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram"><br><br>IG-A --> PD<br>IG-B --> PD<br>IG-C --> PD<br><br><br><img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram"><br><br>IG-A --> PD<br>IG-B --> PD<br>IG-C --> PD<br><br><br><img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram">
+<html><body>IG-A --> PD<br>IG-B --> PD <br>IG-C --> PD<br><br><img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram"><br><br>IG-A --> PD<br>IG-B --> PD <br>IG-C --> PD<br><br><img src="https://example.com/TEEP-Preparation-Overview.png"></body></html>
 
 # Dynamic Timing Configuration
 
@@ -277,3 +214,9 @@ When **both** are true:
 
 \n## Timing Window Limitations\n
 The timing window limit is set to prevent the system from ad. Please return ONLY the JSON PatchResponse object.
+
+
+# 5.2.4 [slide](Google Slides or Overleaf link)
+
+> [!TIP]
+> Present your **thesis slide** & **handover progress** in weekly meeting report since the beginning of 2nd year.
