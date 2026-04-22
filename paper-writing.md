@@ -13,6 +13,77 @@
 * Use proper grammar and spelling.
 * Adhere to the formatting guidelines as specified in the style guide.
 
+
+# Add tip for proper grammar and spelling usage.
+## Guidelines for Authors
+
+* Write clearly and concisely.
+* Use proper grammar and spelling.
+* Adhere to the formatting guidelines as specified in the style guide.
+
+
+### Guidelines for Authors
+
+
+# Add tip for proper grammar and spelling usage.
+
+* Write clearly and concisely.
+* Use proper grammar and spelling.
+* Adhere to the formatting guidelines as specified in the style guide.
+
+# Add tip for proper grammar and spelling usage.
+
+## Guidelines for Authors
+
+# Add tip for proper grammar and spelling usage.
+\# Proper Grammar and Spelling Usage
+
+### Tips for Effective Communication
+
+### Guidelines for Authors
+
+## Guidelines for Authors
+\ # Add tip for proper grammar and spelling usage.
+\# Add tip for proper grammar and spelling usage.
+\# Proper Grammar and Spelling Usage
+\ 
+
+### Tips for Effective Writing
+
+### Guidelines for Authors
+\ # Add tip for proper grammar and spelling usage.
+\# Add tip for proper grammar and spelling usage.
+\# Add tip for proper grammar and spelling usage.
+\# Proper Grammar and Spelling Usage
+\ 
+
+### Tips for Effective Communication
+\# Tips for Effective Writing
+
+## Guidelines for Authors
+\ # Add tip for proper grammar and spelling usage.
+\# Add tip for proper grammar and spelling usage.
+\# Add tip for proper grammar and spelling usage.
+\# Proper Grammar and Spelling Usage
+\ 
+
+### Tips for Effective Communication
+\# Tips for Effective Writing
+## Guidelines for Authors
+\ # Add tip for proper grammar and spelling usage.
+\# Add tip for proper grammar and spelling usage.
+\# Add tip for proper grammar and spelling usage.
+\# Proper Grammar and Spelling Usage
+\ 
+
+### Guidelines for Authors
+\# Tips for Effective Writing## Guidelines for Authors
+
+# Add tip for proper grammar and spelling usage.
+# Proper Grammar and Spelling Usage
+## Guidelines for Authors
+# Add tip for proper grammar and spelling usage.
+
 # Add tip for proper grammar and spelling usage.
 
 Proper Grammar and Spelling Usage
