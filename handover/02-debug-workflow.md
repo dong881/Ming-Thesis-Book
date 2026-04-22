@@ -1,13 +1,14 @@
 # Debugging Workflow 
 
-
-### Debugging Workflow
-
-#### Known Issues and Troubleshooting Steps
-
-1. Ensure proper initialization of the vnf-pnf latency logger.
-2. Review code for duplicate lines with the same text and remove them.
-3. Verify that the timing window is correctly configured.
+>## Debugging Workflow
+> Add a space after the `#` symbol in the section title
+>
+> 
+> 
+> feat(rlc): add logging for RLC hold delay and average time to transmit
+> 
+> 
+>
 
 # Debugging Workflow
 ## Example Solution

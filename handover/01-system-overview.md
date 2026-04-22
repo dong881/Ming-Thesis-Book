@@ -18,6 +18,17 @@ The OAI 5G RAN/Core architecture and configuration section provides a detailed o
 
 The OAI 5G RAN/Core architecture and configuration section provides detailed information on the Open Air Interface (OAI) system for 5G Radio Access Network (RAN) and Core network. For more information, please refer to [BMW-ECE Lab resources](https://www.bmwgroup.com/en/innovation/towards-the-future/research/bmw-ecelab.html).
 
+
+The section title is missing a space between the hash symbol and the text. The OAI 5G RAN/Core architecture and configuration provide detailed information on the system components, protocols, and procedures used in the 5G network. This includes the radio interface management entity (RIME), the logical control element (LCE), and the radio bearer management entity (RBME). Additionally, this section covers the configuration of the radio access network (RAN) and the control and user plane separation (CUPS).
+
+In the 5G network, the OAI architecture is used to provide a standardized interface for radio interface management, logical control element management, and radio bearer management. The OAI system provides a set of interfaces and protocols that enable efficient communication between the RIME, LCE, RBME, and other network elements.
+
+The OAI 5G RAN/Core architecture is designed to provide a scalable and flexible solution for managing the 5G radio access network. It includes components such as the radio interface manager (RIM), the logical control element manager (LCEM), and the radio bearer manager (RBEM). These components work together to manage the radio interface, manage the logical control elements, and manage the radio bearers.
+
+The OAI 5G Core architecture provides a standardized interface for managing the logical control elements. It includes components such as the logical control element manager (LCEM), the logical control element router (LCER), and the logical control element switch (LCES). These components work together to manage the logical control elements, route the traffic, and switch the packets.
+
+In this section, we will provide a detailed overview of the OAI 5G RAN/Core architecture and configuration. We will cover topics such as the system components, protocols, procedures, and configuration of the radio access network.
+
 # OAI 5G RAN/Core Architecture and Configuration
 
 ## Overview
