@@ -147,3 +147,11 @@ Under `settings.tc_sweep`:
 
 ## Plots
 -- AST parse check passed for `rapp/src/auto_tester.py`. -- IDE lint check reported no errors for the edited file.
+
+
+Packed log 拆分公式
+
+raw_value = signed 64-bit
+sfn = (raw_value >> 48) & 0xFFFF
+slot = (raw_value >> 32) & 0xFFFF
+payload = (int32_t)(raw_value & 0xFFFFFFFF)
