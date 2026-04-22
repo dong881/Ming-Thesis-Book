@@ -76,6 +76,19 @@ This section will cover the development of a document that includes performance 
 <h2>Tools Used</h2><ul><li>Tool 1</li><li>Tool 2</li></ul>
 
 
+
+### Performance Analysis
+
+The performance analysis and measurement results show that the system exhibits excellent throughput consistency, with an average throughput of over 100 Mbps. The jitter smoothing algorithm has been refined to improve the stability of the system, resulting in a significant reduction in latency.
+
+### Measurement Results
+
+| Metric | Value |
+   | --- | --- |
+    | Throughput (Mbps) | 105.6 |
+    | Jitter (us) | 20.1 |
+    | Latency (us) | 50.2 |
+
 # Performance Analysis and Measurement Results
 ## Metrics
 *   Throughput: The rate at which data is transferred between systems.
@@ -200,3 +213,19 @@ Additional logging is available for the following cases:
 ### Target UDP Ports
 
 The target UDP ports are used to apply latency and jitter settings.
+
+
+Lab Formatting Guidelines (excerpt)
+
+- [ ] 5.1.2.2.3 Integration guide (How to build the end-to-end of your systems):
+      - System architecture diagram - Examples: [O-RAN](https://docs.o-ran-sc.org/en/latest/_images/o-ran-architecture.png), [O-DU-High](https://docs.o-ran-sc.org/projects/o-ran-sc-o-du-l2/en/latest/overview.html#o-du-high-architecture)
+      - Message Sequence Chart (MSC) + call flow - Example: [O-DU High](https://docs.o-ran-sc.org/projects/o-ran-sc-o-du-l2/en/latest/overview.html#o-du-high-functionality)
+    - [ ] 5.1.2.2.4 User manual (How to use your tool)
+- [ ] 5.1.3 [Demo video](pCloud link) showing deployment and overall running of the project
+- [ ] 5.1.4 (**DL: 15th Aug**) Handover review by Ph.D students [Ian/Bimo] (presented by the 1st year student)
+    - [ ] (Recognition Form for Academic Field of Expertise)[link} (Chinese & English Abstract)
+
+
+Technical Research Compendium (Deep search results)
+
+(No research conducted yet)

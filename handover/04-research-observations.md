@@ -311,3 +311,9 @@ The BMW-ECE Lab's research methodology focuses on [insert methodology here].
 * Experimental setup: [Insert experimental setup details]
 * Measurement parameters: [Insert measurement parameters details]
 * Results analysis: [Insert results analysis details]
+
+
+== Research Observations and Experiment Logs ==
+
+# Research Observations and Experiment Logs
+This section is for documenting any research-related observations or experiment logs.

@@ -1,16 +1,60 @@
 # Debugging Workflow
 
-Develop a detailed debug workflow, including known issues, troubleshooting steps, and error handling procedures.
+### Known Issues and Troubleshooting Steps
+#### Asymmetric Jitter Smoothing (AEMA filter)
+- Maintain your original design.
+- Use PNF reported jitter as the base, avoiding single period range underestimation.
+- Apply EWMA smoothing to node jitter.
 
+#### Ideal Target Advance Calculation
+- Calculate peak max + minimal safety headroom for a strict deadline.
+- Clamp target advance within absolute maximum allowed advance.
+- Apply slew-rate limiter with maximum advance and retreat steps.
 
-### Debugging Workflow
+#### Slew-Rate Limiter
+- Prevent over-shooting by applying slew-rate limits.
+- Use final target to ensure no overshoot or undershoot.
 
-#### Known Issues and Troubleshooting Steps
+### Updated Code Snippet
 
-*   [Git Commit](https://github.com/openairinterface5g/drivers/commit/7e4eba99)
-    -   Fixed segment size in PNF and VNF configuration to ensure correct timing window usage.
-*   [Git Commit](https://github.com/ming-oai-debug-rapp/commit/933cacab)
-    -   Adjusted slot-ahead value handling in auto_tester.py to prevent early stopping on VNF marker during UE re-attach retries.
+```c
+// PNF already reports smoothed jitter (RFC3550 EMA). Do not re-apply another EWMA here.
+int32_t node_jitter = (int32_t)stats->pnf_reported_jitter;
+
+if (node_jitter < 50) node_jitter = 50;
+
+// Ideal Target Advance Calculation
+int32_t IDEAL_TARGET_ADVANCE_US = PEAK_MAX_LATENCY + (node_jitter);
+
+const int32_t SAFETY_HEADROOM_US = 150; // Reserve 150us of safety space.
+int32_t MAX_ALLOWED_TARGET = ABSOLUTE_MAX_ADVANCE_US - SAFETY_HEADROOM_US;
+
+if (IDEAL_TARGET_ADVANCE_US > MAX_ALLOWED_TARGET) {
+    IDEAL_TARGET_ADVANCE_US = MAX_ALLOWED_TARGET;
+}
+
+// Slew-Rate Limiter
+const int32_t MAX_ADVANCE_STEP = 200; // Maximum advance step.
+const int32_t MAX_RETREAT_STEP = -15; // Maximum retreat step.
+
+if (shift_us > MAX_ADVANCE_STEP) {
+    shift_us = MAX_ADVANCE_STEP;
+} else if (shift_us < MAX_RETREAT_STEP) {
+    shift_us = MAX_RETREAT_STEP;
+}
+
+// Apply slew-rate limiting
+long final_target = current_total_advanced_us + shift_us;
+
+if (final_target > ABSOLUTE_MAX_ADVANCE_US) {
+    final_target = ABSOLUTE_MAX_ADVANCE_US;
+} else if (final_target < 0) {
+    final_target = 0;
+}
+
+long delta_us = final_target - current_total_advanced_us;
+__atomic_store_n(&p7_info->pending_us, p7_info->pending_us + delta_us, __ATOMIC_SEQ_CST);
+```
 
 # Debugging Workflow:
 ## Table of Contents

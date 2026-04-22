@@ -159,3 +159,19 @@ TARGET_PORTS=(
 <!-- ========================================== -->
 
 ACTION=$1
+
+
+# BMW-ECE Lab overview and introduction to the manual, including lab SOP compliance and coding standards.
+
+Lab SOP compliance ensures that experiments are conducted under controlled conditions, adhering to established protocols. This section will delve into these guidelines, covering essential aspects of maintaining a compliant lab environment.
+
+Coding standards play a vital role in ensuring consistency and readability across the project's codebase. It is crucial for effective collaboration and scalability. The BMW-ECE Lab adheres to standard coding practices, which include:
+
+*   Follow the [PEP8 style guide](https://www.python.org/dev/peps/pep-0002/) for Python
+*   Adhere to the [Google C++ Style Guide](https://google.github.io/styleguide/cpp.html) and [Java Code Conventions](https://www.google.com/java/docs/style.html) for C++
+*   Utilize version control best practices, including meaningful commit messages and frequent commits.
+*   Regularly remove unused code and files to maintain a clean and organized repository.
+
+By embracing these coding standards, we can ensure a cohesive project structure and make it more accessible to team members. This will ultimately contribute to the overall quality of our deliverables and enhance collaboration across different skill sets.
+
+For further information on lab SOP compliance and coding standards, please refer to the BMW-ECE Lab's [project repository](https://github.com/bmw-ece-ntust/template). You can find detailed documentation on our guidelines, including installation instructions for the project and user guides to facilitate smooth integration with other tools and systems.
