@@ -419,3 +419,8 @@ The manual performance analysis is a crucial step in ensuring the reliability an
 ### Commit d2d86642 — 2026-04-22
 **Author**: dong881 <minghunghsu.taiwan@gmail.com>
 **Message**: fix: enhance plot labels with P1 percentile and improve legend positioning
+
+
+> Performance Analysis and Measurement Results
+
+The BMW-ECE Lab documentation provides guidance on performance analysis and measurement results for 5G systems. This section will outline the key metrics and methodologies used to evaluate system performance.

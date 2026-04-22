@@ -129,9 +129,7 @@ ssh -o \u201cStrict. Please return ONLY the JSON PatchResponse object.\u002c RUL
 # Lab Formatting Guidelines
 ## Internal reference (do not bias your answers toward always naming these)
 
-\nUse th\nPlease return ONLY the JSON PatchResponse object\\n\\nRULES FOR JSON STRINGS:
-1. Escape double-quotes as \\"
-
+<markdown for this section ONLY>
 
 ## Example Section Heading
 

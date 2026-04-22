@@ -7,6 +7,11 @@
 
 ## Internal reference (do not bias your answers toward always naming these):
 
-This is a Markdown file used by GitHub Copilot to store internal instructions. It contains information about the current working directory and any relevant files or sections.
+<markdown for this section ONLY>
 
 ## Lab . Please return ONLY the JSON PatchResponse object.
+
+
+# .github/copilot-instructions.md## **Internal reference (do not bias your answers toward always naming these):
+
+<markdown for this section ONLY>

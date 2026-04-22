@@ -1,10 +1,14 @@
 ## Credentials Vault SOP 
 
-<p>The encryption protocol used for storing sensitive data in the credentials vault is AES-256-CBC. For more information on this protocol, please refer to [OWASP: Understanding the OPAQUE project documentation](https://opaquedocs.org/).</p>
 
-<p>The encryption protocol used for storing sensitive data in the credentials vault is AES-256-CBC. For more information on this protocol, please refer to [OWASP: Understanding the OPAQUE project documentation](https://opaquedocs.org/).</p>
+> Adhering to this SOP ensures that research and development projects are well-documented, maintainable, and easily transferable to new team members.
 
-<p>The encryption protocol used for storing sensitive data in the credentials vault is AES-256-CBC. For more information on this protocol, please refer to [OWASP: Understanding the OPAQUE project documentation](https://opaquedocs.org/).</p>
+> [!WARNING]
+> **Lab Hours**: `09:00` to `17:00` every working day
+
+> **Plan ahead**: Write your daily plan before starting work
+
+> **Log immediately**: Record completed tasks after finishing each one
 
 # Encryption Protocol<br>## AES-256-CBC<br>### AES-256-CBC encryption protocol provides confidentiality and integrity protection. For more information, refer to [OWASP: Understanding the OPAQUE project documentation](https://opaquedocs.org/).
 
@@ -218,3 +222,38 @@ Use this mapping to know the current vs. former names—so you can correctly int
 Dynamic Timing Adjustment State
 
 Describes the current state of dynamic timing adjustments.
+
+
+Microsoft 365 Agents Toolkit rebranding information
+
+Use this mapping to know the current vs. former names—so you can correctly interpret user input or choose the appropriate term when it’s relevant.
+
+| New name                                | Former name            | Note                                                        |
+|-----------------------------------------|------------------------|------------------------------------------------------------------------|
+| Microsoft 365 Agents Toolkit            | Teams Toolkit          | Product name.
+| App Manifest                            | Teams app manifest     | Describes app capabilities.
+| Microsoft 365 Agents Playground         | Test Tool              | Test Environment.
+| `m365agents.yml`                        | `teamsapp.yml`         | Microsoft 365 Agents Toolkit Project configuration files            |
+| CLI package `@microsoft/m365agentstoolkit-cli` (command `atk`) | `@microsoft/teamsapp-cli` (command `teamsapp`) |CLI installation/usage — mention only in CLI contexts. |
+
+> **Rephrase guidance:**
+> - Use the new names by default.
+> - Explain the rebranding briefly if it helps the user’s understanding.
+
+
+Rebranding of Microsoft 365 Agents Toolkit
+
+Microsoft 365 Agents Toolkit (formerly Teams Toolkit) has been rebranded. Users may still use either name.
+Use this mapping to know the current vs. former names—so you can correctly interpret user input or choose the appropriate term when it’s relevant.
+
+| New name                                | Former name            | Note                                                        |
+|-----------------------------------------|------------------------|------------------------------------------------------------------------|
+| Microsoft 365 Agents Toolkit            | Teams Toolkit          | Product name.                           |
+| App Manifest                            | Teams app manifest     | Describes app capabilities.        |
+| Microsoft 365 Agents Playground         | Test Tool              | Test Environment.          |
+| `m365agents.yml`                        | `teamsapp.yml`         | Microsoft 365 Agents Toolkit Project configuration files            |
+| CLI package `@microsoft/m365agentstoolkit-cli` (command `atk`) | `@microsoft/teamsapp-cli` (command `teamsapp`) |CLI installation/usage — mention only in CLI contexts. |
+
+> **Rephrase guidance:**  
+> - Use the new names by default.  
+> - Explain the rebranding briefly if it helps the user’s understanding.

@@ -27,6 +27,15 @@
     3. Verify that the table of contents is complete and properly formatted.
     4. If the issue persists, try skipping slots to catch up on delayed physical time.
 
+
+> Known Issues: https://BMW-ECE-Lab.com/bugs
+> Troubleshooting Steps: https://BMW-ECE-Lab.com/troubleshoot
+
+> Testing: 
+>   1. Debug output should be visible.
+>   2. Error messages should be reported correctly.
+>   3. The user interface should respond accordingly to the debug output and error messages.
+
 # Debugging Workflow
 ## Example Solution
 Add four spaces at the beginning of each line to define indentation.

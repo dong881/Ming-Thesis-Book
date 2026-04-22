@@ -2,6 +2,16 @@
 
 This Standard Operating Procedure (SOP) outlines the requirements and best practices for research and development (R&D) projects in the lab. All developers and researchers must adhere to the following guidelines to ensure quality, reproducibility, and smooth handover.
 
+
+- Laboratory:
+
+This Standard Operating Procedure (SOP) outlines the requirements and best practices for research and development (R&D) projects in the lab. All developers and researchers must adhere to the following guidelines to ensure quality, reproducibility, and smooth handover.
+
+- [Laboratory](#laboratory)
+  - [1. Daily Progress and Plan](#1-daily-progress-and-plan)
+  - [2. Project Repository Standard](#2-project-repository-standard)
+  - [3. Documenta
+
 # Laboratory
 
 This Standard Operating Procedure (SOP) outlines the requirements and best practices for research and development (R&D) projects in the lab. All developers and researchers must adhere to the following guidelines to ensure quality, reproducibility, and smooth handover.

@@ -253,6 +253,10 @@ Commit d031e2d2 — 2026-04-15
 
 \n> Adhering to this SOP ensures that research and development projects are well-documented, maintainable, and easily transferable to new team members.
 \n## daily-logs.md
+
+<p>Adhering to this SOP ensures that research and development projects are well-documented, maintainable, and easily transferable to new team members.</p>
+<p></p>
+
 # Daily Plans and Logs
 \n> [!WARNING]\n> **Lab Hours**: `09:00` to `17:00` every working day \n> **Plan ahead**: Write your daily plan before starting work \n> **Log immediately**: Record completed tasks after finishing each one
 \n## Purpose

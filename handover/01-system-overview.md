@@ -47,6 +47,9 @@ The OpenAirInterface (OAI) is a software framework that provides the necessary t
 
 In this section, we will cover the OAI 5G RAN/Core architecture and configuration, which includes the key components and their interactions.
 
+
+BMW-ECE Lab documentation provides detailed information on OAI 5G RAN/Core architecture and configuration.
+
 # OAI 5G RAN/Core Architecture and Configuration
 
 ## Overview
