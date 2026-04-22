@@ -1,13 +1,10 @@
 ## BMW Lab Meeting Guideline
 
-A clear and concise version of the meeting guideline.
+### Enhance Timing Configuration by Adding Dynamic Timing Info Mode and Period
 
-The meeting will be held on \[insert date] at \[insert time].
-
-Agenda:
-1. Introduction to new project features
-2. Testing and validation procedures
-3. Future plans and milestones
+IG-A --> PD
+IG-B --> PD
+IG-C --> PD
 
 # Dynamic Timing Configuration
 
@@ -36,3 +33,6 @@ The commit 956aea0e — 2026-04-09 enhances the timing configuration by adding d
 *   Enhance timing configuration by adding dynamic timing info mode and period
 *   Request access with the GitHub admin in our group to make this document **private** by default.
 
+## Enhance Timing Configuration by Adding Dynamic Timing Info Mode and Period
+
+Enhance timing configuration to include dynamic timing info mode and period for improved reliability and performance.

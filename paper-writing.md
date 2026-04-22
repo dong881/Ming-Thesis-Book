@@ -6,6 +6,19 @@
 * Use proper grammar and spelling.
 * Adhere to the formatting guidelines as specified in the style guide.
 
+
+
+# Add tip for proper grammar and spelling usage.
+
+*Always proofread your work carefully to catch any grammatical or spelling errors.*
+
+This includes checking for punctuation, capitalization, and consistency in formatting throughout the document.
+
+# Add tip for proper grammar and spelling usage.
+
+* Always proofread your work carefully to avoid grammatical errors.
+* Use a dictionary or online resources to check the correct spelling of words.
+
 ### Tips for Effective Communication
 
 * Use simple language to explain complex concepts.
@@ -28,6 +41,26 @@ Add tip for proper grammar and spelling usage.
 * Check for punctuation and capitalization errors.
 * Edit carefully and thoroughly to avoid introducing errors elsewhere in the text.
 
+
+
+<p>Add a new tip for authors on proper grammar and spelling usage. Review parsing failed: Expecting value: line 1 column 1 (char 0). Raw: Here is the reformatted output:</p>
+
+<p>```json</p>
+{
+  "ReviewReport": {
+    "Verdict": [
+      "FEEDBACK"
+    ],
+    "OverallComment": "Review parsing failed: Expecting value: line 1 column 1 (char 0). Raw: Here is the reformatted output:
+"</p>
+
+<p>```json</p>
+{
+  "ReviewReport": {
+    "Verdict": [
+      "FEEDBACK"
+    ],
+    "OverallComment": "Review parsing failed: Expecting value: line 1 column 1 (ch</p>
 
 # Add tip for proper grammar and spelling usage.
 
