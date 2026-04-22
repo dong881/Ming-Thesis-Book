@@ -290,15 +290,11 @@ After cloning, follow the installation instructions to set up your environment.
 > [!CAUTION] Make this document **private** by default. Only make it public after publishing the paper of this project.
 
 <h1 align="center">Installation Guide - Guideline</h1>
-> <a href="https://example.com/paper" target="_blank">Paper Link</a> | \u2705 <a href="#" onclick="showTOC('toc')">Table of Contents</a>
-
-
-
+<hr>
+> [!CAUTION]
 > Make this document **private** by default. Only make it public after publishing the paper of this project.
 
 > Request access with the GitHub admin in our group.
-
-<h2 id="toc"></h2>
 
 # Project description
 <p>

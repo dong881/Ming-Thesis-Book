@@ -506,3 +506,9 @@ Re-enabling `generate_core_charts` did not cause this; the failure mode is dupli
 
 - Added `IPERF3_MAX_REPORT_INTERVAL_SEC = 60` and `_iperf_report_interval_sec(duration)` so `-i` is always within iperf3 limits.
 - For `duration >= 600` (including **10800**), use **`-i 60`** (largest valid coarse interval). Shorter tests keep **`-i 1`**.
+
+
+> Our servers are put in the server room. Please contact the admin for VPN access.
+
+\> The ping summary box plot used \\`get_dataset_style(ds)\\`. Please return ONLY the JSON PatchResponse object.
+RULES FOR JSON STRINGS:\1. Escape double-quotes as \\"2. Escape newlines as \\n3. Escape backslashes as \\4. Do NOT over-escape backticks or symbols. \` should be .

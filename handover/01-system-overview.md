@@ -304,3 +304,14 @@ Date: 2026-04-06
 Refine late storm evacuation logic to enhance timing adjustments during high traffic.
 
 https://github.com/openairinterface5g/nfapi/commit/0e837ac8
+
+
+# OAI 5G RAN/Core Architecture and Configuration 
+
+OAI 5G RAN/Core architecture is designed to provide a scalable, flexible, and secure solution for 5G networks. It consists of several components.
+
+This section will cover the details of OAI 5G RAN Core Architecture and Configuration, including its design principles, system components, and configuration options.
+
+Refer to [OpenAirInterface5G Documentation](https://github.com/openairinterface5g/oaisdk) for more information on OAI 5G RAN/Core architecture and configuration.
+
+Example usage of the OpenAirInterface5G toolchain can be found in our [example usage guide](https://github.com/openairinterface5g/example-usage).
