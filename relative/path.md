@@ -50,3 +50,10 @@ This Standard Operating Procedure (SOP) outlines the requirements and best pract
 
 "**Milestones**:\n\nTrack your daily progress and ensure systematic completion of project milestones through two essential documents:\n\n1. **Milestones**: Project roadmap with all tasks, deadlines, and completion status\n2. **Daily Logs**: Time-stamped record
 "
+
+
+Repo: ming-oai-debug-rapp
+
+Commit f0725da2 — 2026-04-11
+Author: dong881 <minghunghsu.taiwan@gmail.com>
+Message: feat: add cursor response documentation and implement iPerf/ping preprocessing methodology for improved latency analysis
