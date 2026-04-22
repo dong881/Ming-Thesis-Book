@@ -9,6 +9,14 @@ OAI 5G RAN/Core Architecture and Configuration Overview
 
 > The section title is missing a space between the hash symbol and the text.
 
+
+OAI 5G RAN/Core architecture and configuration section to be added here.
+
+This section will describe the detailed architecture and configuration of OAI 5G RAN Core.
+
+
+> This section will cover the OAI 5G RAN/Core architecture and configuration. It is missing a space between the hash symbol and the text in its current form.
+
 # System Overview
 
 # System Overview
@@ -202,3 +210,8 @@ ssh user@<IP address>
 # The authenticity of host '192.168.1.100 (192.168.1.100)' can't be established.
 # ECDSA key fingerprint is SHA256:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
+
+
+NR MAC gNB scheduler improvements
+
+Added a check to abort DL retransmission if the number of rounds exceeds the maximum allowed, reducing allocation failures.

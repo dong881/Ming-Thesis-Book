@@ -195,3 +195,77 @@ This Standard Operating Procedure (SOP) outlines the requirements and best pract
   - [1. Daily Progress and Plan](#1-daily-progress-and-plan)
   - [2. Project Repository Standard](#2-project-repository-standard)
   - [3. Documenta
+
+
+Lab SOP Compliance and Coding Standards
+
+## Laboratory
+
+This Standard Operating Procedure (SOP) outlines the requirements and best practices for research and development (R&D) projects in the lab. All developers and researchers must adhere to the following guidelines to ensure quality, reproducibility, and smooth handover.
+
+### [Laboratory](#laboratory)
+
+#### 1. Daily Progress and Plan
+
+*   The daily progress will be updated on this page.
+*   Please include a brief description of your work done during the day.
+*   This includes any issues encountered or challenges overcome.
+
+#### 2. Project Repository Standard
+
+*   All projects must adhere to the standard repository structure provided by the lab.
+*   The repository should contain all necessary files, documentation, and metadata.
+*   A detailed explanation of the repository structure can be found in the project repository guidelines document.
+
+#### 3. Documentation
+
+*   All documents and reports must follow the required documentation style guide.
+*   This includes but is not limited to lab notes, meeting minutes, and technical reports.
+*   A detailed explanation of the documentation style guide can be found in the lab documentation guidelines document.
+
+## README.md
+# Laboratory
+
+This Standard Operating Procedure (SOP) outlines the requirements and best practices for research and development (R&D) projects in the lab. All developers and researchers must adhere to the following guidelines to ensure quality, reproducibility, and smooth handover.
+
+- [Laboratory](#laboratory)
+  - [1. Daily Progress and Plan](#1-daily-progress-and-plan)
+  - [2. Project Repository Standard](#2-project-repository-standard)
+  - [3. Documenta
+
+
+## Laboratory
+
+This Standard Operating Procedure (SOP) outlines the requirements and best practices for research and development (R&D) projects in the lab. All developers and researchers must adhere to the following guidelines to ensure quality, reproducibility, and smooth handover.
+
+
+### Lab Formatting Guidelines
+
+- When interpreting, generating, or modifying manifest files related to apps and agents for Microsoft 365 or Microsoft 365 Copilot, try to get schema version from manifest file, then invoke \*\*get\_schema\*\* tool if available.
+- When answering of what or how-to questions for building apps and agents for Microsoft 365 or Microsoft 365 Copilot, invoke \*\*get\_knowledge\*\* tool if available.
+- Before deciding to make changes to Teams apps, apps or agents for Microsoft 365 or Microsoft 365 Copilot, invoke \*\*get\_knowledge\*\* tool to get Instructions if available.
+- When troubleshooting issues, invoke \*\*troubleshoot\*\* tool if available.
+- Before generating or modifying code or configuration files for apps and agents for Microsoft 365 or Microsoft 365 Copilot, invoke \*\*get\_code\_snippets\*\* with API name, configuration file name, or code comments every time you need to generate or modify code or configuration files for apps and agents for Microsoft 365 or Microsoft 365 Copilot.
+
+## README.md
+# Laboratory
+
+This Standard Operating Procedure (SOP) outlines the requirements and best practices for research and development (R&D) projects in the lab. All developers and researchers must adhere to the following guidelines to ensure quality, reproducibility, and smooth handover.
+
+
+4. Technical Research Compendium (Deep search results)
+
+None conducted yet.
+
+
+Laboratory
+
+- When interpreting, generating, or modifying manifest files related to apps and agents for Microsoft 365 or Microsoft 365 Copilot, try to get schema version from manifest file, then invoke **get_schema** tool if available.
+
+- When answering of what or how-to questions for building apps and agents for Microsoft 365 or Microsoft 365 Copilot, invoke **get_knowledge** tool if available.
+
+- Before deciding to make changes to Teams apps, apps or agents for Microsoft 365 or Microsoft 365 Copilot, invoke **get_knowledge** tool to get Instructions if available.
+
+- When troubleshooting issues, invoke **troubleshoot** tool if available.
+
+- Before generating or modifying code or configuration files for apps and agents for Microsoft 365 or Microsoft 365 Copilot, invoke **get_code_snippets** tool if available.
