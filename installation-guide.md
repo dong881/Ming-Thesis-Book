@@ -213,6 +213,15 @@ Run the following command to clone the repository:
 
 After cloning, follow the installation instructions to set up your environment.
 
+
+<p>Add AES-256 encryption protocol details: <br> For optimal security, ensure that all data transmitted between nodes is encrypted using AES-256. This can be achieved by configuring the network settings to use AES-256 ciphers and ensuring that all data packets are encrypted with a suitable key size.</p>
+
+
+Add AES-256 encryption protocol details: For optimal security, ensure that all data transmitted between nodes is encrypted using AES-256. This can be achieved by configuring the network settings to use AES-256 ciphers and ensuring that all data packets are encrypted with a suitable key size.
+
+
+<p>Add AES-256 encryption protocol details: For optimal security, ensure that all data transmitted between nodes is encrypted using AES-256. This can be achieved by configuring the network settings to use AES-256 ciphers and ensuring that all data packets are encrypted with a suitable key size.</p>
+
 # Installation Guide - Guideline
 Git clone https://github.com/openairinterface5g/openairinterface.git
 ## Table of Contents

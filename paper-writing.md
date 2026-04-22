@@ -43,7 +43,19 @@ There are 2 types of project repositories:
 
 ## Guidelines for Authors
 
+> [!NOTE]
+> Our servers are put in the server room. Please contact the admin for VPN access.
 
+```shell
+Host: <IP address>
+User: <username>
+```
+
+```shell
+ssh user@<IP address>
+
+# The authenticity of host '192.168.1.100 (192.168.1.100)' can't be established.
+# ECDSA key fingerprint is SHA256:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 # Add tip for proper grammar and spelling usage.
 # Consistent indentation: The code uses ]
