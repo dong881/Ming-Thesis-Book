@@ -14,6 +14,8 @@ This is a new line added to the content \nand this is another one.
 
 This is a new line.
 
+<markdown for this section ONLY>
+
 ## Exact Heading
 
 <markdown for this section ONLY>
@@ -99,16 +101,9 @@ To ensure a smooth and productive collaboration process i.
 [Feature 1: Brief description\nFeature 2: Brief description\nFeature 3: Brief description]
 
 
-## Project Description
+# Project Description
 
-<h1>Project Name: [Replace with actual project name]</h1>
-<h2>Description:</h2>
-<p>A comprehensive solution for <em>[specific use case]</em>. This project provides <strong>[key functionality]</strong> and enables users to <em>[main benefits]</em>.</p>
-
-<h2>Key Features:</h2>
-<ul>
-  <li>Feature 1: \[Brie</li>
-</ul>
+<markdown for this section ONLY>
 
 # The authenticity of host 
 
@@ -168,3 +163,15 @@ Search rules: file name contains `plot` and contains `vX` (number)
 \n## Exact Heading\n
 
 \n<markdown for this section ONLY>\n
+
+
+## .github/copilot-instructions.md
+
+\n\n## Internal reference (do not bias your answers toward always naming these):\n
+Microsoft 365 Agents Toolkit (formerly Teams Toolkit) has been rebranded, and users may still use either name.
+\nUse this mapping to know the current vs..
+
+
+## **Internal reference (do not bias your answers toward always naming these):
+
+<markdown for this section ONLY>

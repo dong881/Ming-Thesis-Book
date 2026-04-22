@@ -18,7 +18,7 @@ Additionally, please note that failure to comply with this policy may result in 
 
 ## Expense Report Submission Deadlines
 
-Timely submission of expense reports is crucial for the success of this project. The stipend will be paid out on a monthly basis, and all expenses must be submitted within a certain timeframe to avoid any delays in payment.
+<html><body><h2>Expense Report Submission Deadlines</h2><p>Please submit your expense report within the following deadlines:</p><ul><li>Weekly: <em>Every Thursday at 5 PM PST</em></li><li>Monthly: By the last day of each month.</li></ul></body></html>
 
 # BMW Lab Project Stipend Guidelines
 
