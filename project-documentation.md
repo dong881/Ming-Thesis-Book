@@ -79,3 +79,10 @@ ssh user@<IP address>
 
 # The authenticity of host '192.168.1.100 (192.168.1.100)' can't be established.
 # ECDSA key fingerprint is SHA256:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+## Comprehensive Project Documentation Guideline
+
+<h1>Project Description</h1><p>This project provides a comprehensive solution for <em>software-defined networking (SDN) and network functions virtualization (NFV)</em></p>
+
+<h2>Target Users</h2><p>Developers and researchers interested in SDN and NFV.</p>

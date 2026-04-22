@@ -57,3 +57,8 @@ Repo: ming-oai-debug-rapp
 Commit f0725da2 — 2026-04-11
 Author: dong881 <minghunghsu.taiwan@gmail.com>
 Message: feat: add cursor response documentation and implement iPerf/ping preprocessing methodology for improved latency analysis
+
+
+## Function Documentation
+
+\n\"Every function and class must include a docstring or comment describing its purpose, parameters, return values, and exceptions." Use Doxygen \"\"

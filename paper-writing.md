@@ -524,3 +524,11 @@ New Source Code / Commits to Document
 ### Repo: openairint. Please return ONLY the JSON PatchResponse object.
 RULES FOR JSON STRINGS:
 1. Escape double-quotes as \"\n2. Escape newlines as \\n3. Escape backslashes as \\4. Do NOT over-escape backticks or symbols. ` should be .
+
+
+## 5.1 Projects Handover
+
+"- [ ] %s-
+"%- [ ] %s-
+", "\n[IEEE paper report](Overleaf link) - [guide](./paper-writing.md)
+", "\n[GitHub project repository](GitHub repo. Please return ONLY the JSON PatchResponse object.")

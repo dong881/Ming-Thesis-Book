@@ -6,6 +6,51 @@ git clone https://github.com/openairinterface5g/openairinterface.git
 
 ## User Guide Template
 
+<!CAUTION> Make this document **private** by default. Only make it public after publishing the paper of this project.
+
+> [!NOTE] 
+> **Purpose of Installation, Integration, and User Guide**: 
+>
+> - **Installation Guide**: Focuses on setup, configuration, and getting the system running.
+> - **User Guide**: Focuses on how to **use** the system once it's installed and running.
+> - **Project Documentation**: Define `System Architecture` & attach the installation guide link, `use case diagram`, `message-sequence chart (MSC)`, `class diagram`, `flowchart`. 
+
+Correlation between Installation, User Guides, and Project documentation:
+
+```mermaid
+graph TD
+PD[Project Documentation]
+  subgraph "Component A"
+        IG-A[Installation Guide A]
+        UG-A[User Guide A]
+    end
+
+    subgraph "Component B"
+        IG-B[Installation Guide B]
+        UG-B[User Guide B]
+    end
+
+    subgraph "Component C"
+        IG-C[Installation Guide C]
+        UG-C[User Guide C]
+    end
+
+IG-A --> PD
+IG-B --> PD
+IG-C --> PD
+``
+
+## Table of Contents 
+
+> [!TIP] 
+> Generate the Table of Contents automatically using [Markdown All in One extension in VS Code](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one#table-of-contents).
+>
+- [Table of Contents](\#\#table-of-contents)
+- [Project description](\#\#project-description)
+- [Execution Status](\#\#execution-status)
+- [System Architecture](\#\#system-architecture)
+- [\#\#repository-structure]("")
+
 # User Guide
 The user guide is a crucial component of any software or system. It provides an overview of the product's features, usage instructions, and troubleshooting steps.
 

@@ -22,5 +22,5 @@ Additionally, please note that failure to comply with this policy may result in 
 
 ## Expense Report Submission Deadlines
 
-<html><body><h2>Expense Report Submission Deadlines</h2><p>Please submit your expense report within the following deadlines:</p><ul><li>Weekly: <em>Every Thursday at 5 PM PST</em></li><li>Monthly: By the last day of each month.</li></ul></body></html>
+Timely submission of expense reports is mandatory. Please ensure compliance with company policy.
 

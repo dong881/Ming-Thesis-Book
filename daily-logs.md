@@ -16,6 +16,8 @@
 
 # Daily Plan & Logs
 
+<h1>Updated Daily Plan & Logs</h1><br/>\n\n<h2>Name:</h2><p>John Doe</p><h2>Student ID:</h2><p>1234567890</p><h2>Enrollment:</h2><ul><li>Program: M.S. / Ph.D.</li><li>Year: Fall/Spring 2024</li></ul>
+
 # Daily Plan & Logs
 
 **Name**: <Your Full Name>  
