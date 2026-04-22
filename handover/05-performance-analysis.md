@@ -67,3 +67,25 @@ This section will cover the development of a document that includes performance 
 > *   Continuous Integration and Continuous Deployment (CI/CD): A software delivery approach that focuses on rapid feedback, continuous improvement, and swift deployment of changes to production environments.
 >
 >
+
+
+<h2>Tools Used</h2><ul><li>Tool 1</li><li>Tool 2</li></ul>
+
+# Methods and Tools Used
+
+The BMW-ECE Lab employs several methods to analyze performance in our test environment. These include:
+*   Monte Carlo simulations for estimating traffic patterns
+*   CDF plotting using the `ming-oai-debug-rapp` repo,
+*   and more.
+
+# Performance Analysis and Measurement Results
+
+# Methods and Tools Used
+
+## Performance Analysis and Measurement Results
+
+This section will cover the development of a document that includes performance analysis and measurement results, including metrics, tools, and methodologies.
+
+## Metrics
+
+*   Throughput: The rate at which data is transferred between systems.

@@ -51,6 +51,33 @@ Track your daily progress and ensure systematic completion of project milestones
 
 ## Research Observations and Experiment Logs
 
+
+### Data Collection Methods
+#### Template 1: Basic Data Entry Form
+#### Template 2: Detailed Data Analysis Form
+
+### Creating a New Experiment Log Entry
+
+### Example Template for Data Entry Form
+
+
+### Data Collection Methods
+#### Template 1: Basic Data Entry Form
+#### Template 2: Detailed Data Analysis Form
+
+### Creating a New Experiment Log Entry
+### Example Template for Data Entry Form
+
+### Templates for Data Entry and Analysis
+#### Template 1: Basic Data Entry Form
+#### Template 2: Detailed Data Analysis Form
+
+### Research Observations and Experiment Logs
+## Data Collection Methods
+### Research Observations and Experiment Logs
+## Analysis Procedures
+## Conclusion
+
 # Research Observations and Experiment Logs
 \
 
@@ -90,3 +117,50 @@ We used a combination of sensors and data loggers to collect data during the exp
 The data was analyzed using statistical methods to determine any trends or patterns in the data. We also used machine learning algorithms to identify any correlations between the different variables measured during the experiment.
 
 In conclusion, this research project demonstrated the effectiveness of using sensors and data loggers to collect data and analyze it. The results showed that there was a significant correlation between the temperature and humidity readings, which had a positive impact on the performance of the system.
+
+
+
+## Research Observations and Experiment Logs
+
+### Templates for Data Entry and Analysis
+
+This document outlines the process for collecting, organizing, and analyzing data from research experiments related to OAI 5G RAN/Core Architecture.
+
+#### Template 1: Basic Data Entry Form
+
+| Field Name | Description |
+| --- | --- | 
+| Experiment ID | Unique identifier for the experiment | 
+| Date Conducted | Date of the experiment | 
+| Time Conducted | Time of day the experiment was conducted | 
+| Number of Participants | Number of participants in the experiment | 
+| Session Duration | Length of the session in minutes | 
+|
+
+#### Template 2: Detailed Data Analysis Form
+
+| Field Name | Description | 
+| --- | --- | 
+| Experiment ID | Unique identifier for the experiment | 
+| Data Type | Type of data collected (e.g., sensor readings, survey responses) | 
+| Collection Method | Method used to collect the data (e.g., online survey, in-person observation) | 
+| Sample Size | Number of samples collected | 
+| Analysis Method | Statistical method used to analyze the data | 
+|
+
+### Creating a New Experiment Log Entry
+
+To create a new experiment log entry, follow these steps:
+1. Fill out the basic data entry form with the required information.
+2. Complete the detailed data analysis form and attach any relevant supporting documents or files.
+3. Submit the completed forms to the designated review team for approval.
+
+### Example Template for Data Entry Form
+
+| Experiment ID | Date Conducted | Time Conducted | Number of Participants | Session Duration |
+| --- | --- | --- | --- | --- |
+| EXP-001 | 2022-01-01 | 10:00 AM | 5 | 60 |
+| EXP-002 | 2022-01-15 | 2:00 PM | 3 | 30 |
+
+
+<markdown content for this section only>

@@ -40,14 +40,57 @@ In conclusion, the OAI 5G RAN/Core architecture provides a comprehensive platfor
 
 
 
-# OAI 5G RAN/Core Architecture and Configuration: The section title is missing a space between the hash symbol and the text.
+
+OAI 5G RAN/Core architecture and configuration can be found in the BMW-ECE Lab resources. For more information, refer to the official documentation.
+
+This section will outline the key components and configurations of the OAI 5G RAN/Core architecture, including the NR (New Radio) physical layer and the control and user plane. Additionally, it will cover the configuration options and parameters that can be used to optimize the performance of the system.
+
+The BMW-ECE Lab provides a comprehensive set of resources for the OAI 5G RAN/Core architecture, including documentation, simulations, and test cases. These resources can be used to help engineers design, develop, and test their systems.
+
+By following this section, you will gain a deeper understanding of the OAI 5G RAN/Core architecture and configuration, which is essential for designing and developing next-generation wireless communication systems.
+
 
 The OpenAirInterface (OAI) 5G RAN/Core architecture is designed to provide a comprehensive platform for the development and testing of 5G wireless systems. The architecture consists of several key components, including the radio unit (RU), the distributed unit (DU), and the central unit (CU).
+
+
+
+
 
 ## Key Components
 
 * **Radio Unit (RU):** The RU is responsible for transmitting and receiving data to/from the base station. It consists of a transceiver and a processing unit.
+
 * **Distributed Unit (DU):** The DU is responsible for processing and forwarding data between the RU and the central unit. It consists of a processing unit and a memory module.
+
+# OAI 5G RAN/Core Architecture and Configuration: The section title is missing a space between the hash symbol and the text.
+
+> [!WARNING]
+> **Lab Hours**: `09:00` to `17:00` eve]
+
+# OAI 5G RAN/Core Architecture and Configuration
+## Key Components
+## Configuration Overview
+## Terminology
+## Conclusion
+
+# OAI 5G RAN/Core Architecture and Configuration: The section title is missing a space between the hash symbol and the text.
+## Key Components
+# System Overview
+# OAI 5G RAN/Core Architecture and Configuration
+# OAI 5G RAN/Core Architecture and Configuration: The section title is missing a space between the hash symbol and the text.
+## Key Components
+## Configuration Overview
+## Terminology
+## Conclusion
+# OAI 5G RAN/Core Architecture and Configuration
+# OAI 5G RAN/Core Architecture and Configuration
+## Key Components
+## Configuration Overview
+## Terminology
+# OAI 5G RAN/Core Architecture and Configuration: The section title is missing a space between the hash symbol and the text.
+## Key Components
+## Configuration Overview
+## Terminology
 
 # System Overview 
 
