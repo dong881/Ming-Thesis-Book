@@ -512,3 +512,8 @@ Re-enabling `generate_core_charts` did not cause this; the failure mode is dupli
 
 \> The ping summary box plot used \\`get_dataset_style(ds)\\`. Please return ONLY the JSON PatchResponse object.
 RULES FOR JSON STRINGS:\1. Escape double-quotes as \\"2. Escape newlines as \\n3. Escape backslashes as \\4. Do NOT over-escape backticks or symbols. \` should be .
+
+
+> **Rephrase guidance:"
+
+- Use the new names by default.\n  - Explain the rebranding briefly if it helps the user’s understanding.

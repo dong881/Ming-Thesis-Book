@@ -107,6 +107,9 @@ When **both** are true:
 + single-dataset plotting (existing behavior), and
 + compare-mode plotting with **multiple datasets overlaid** on the same chart template.
 
+
+<p>IG-A --> PD, IG-B --> PD, and IG-C --> PD</p>
+
 # Dynamic Timing Configuration
 # Dynamic Timing Configuration
 ### Enhance Timing Configuration by Adding Dynamic Timing Info Mode and Period

@@ -131,3 +131,10 @@ Asn1_verbosity = "none";
 
 # Encryption Protocol<br>## Encryption Protocol<br>
 ### Security Protocols<br>The encryption protocol used for storing sensitive data in the credentials vault is AES-256-CBC. For more information on this protocol, please refer to [OWASP: Understanding the OPAQUE project documentation](https://opaquedocs.org/).
+
+
+> [!TIP]
+> **Best Practices**:
+>
+> - Log immediately after completing each task
+> - Include accurate start and end times.
