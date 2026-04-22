@@ -226,3 +226,16 @@ Technical Research Compendium (Deep search results)
 \> \u0020\u0020Technical Research Compendium (Deep search results)
 
 \(No research conducted yet\)
+
+
+<h2>Enhance Timing Configuration by Adding Dynamic Timing Info Mode and Period</h2>
+
+<# Dynamic Timing Configuration 
+
+## Enhance Timing Configuration by Adding Dynamic Timing Info Mode and Period 
+### Description of the new configuration 
+## VNF P7 Convergence Optimization & Adaptive Jitter Buffer Control 
+### REFERENCES: 
+* WebRTC NetEQ / Adaptive Jitter Buffer (Ramjee et al., IEEE INFOCOM 1994): 
+* TCP RTO Jacobson/Karels Algorithm (RFC 6298):
+### Challenges \& Proposed Methods:

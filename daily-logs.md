@@ -200,6 +200,28 @@ Daily Plan & Logs
 > - Include accurate start and end times for each task
 > - Link every task to its study note section
 
+
+# Daily Plan & Logs
+## Table of Contents
+
+## 2025-10-18
+
+### Short-term Goal: VNF P7 Convergence Optimization & Adaptive Jitter Buffer Control 
+### Daily Logs:
+
+- `09:00–11:30`: Implement adaptive jitter buffer control for improved convergence optimization
+- `13:00–15:45`: Review PNF implementation of WebRTC NetEQ 
+- `16:00–17:00`: Optimize VNF P7 architecture
+
+
+> [!TIP]
+> **Best Practices**:
+>
+> - Log immediately after completing each task
+> - Include accurate start and end times for each task
+> - Link every task to its study note section
+> - Set which project to be done as your daily short-term goal
+
 ## Table of Contents
 
 ## Daily Plan & Logs
