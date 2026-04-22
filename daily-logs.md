@@ -222,6 +222,21 @@ Daily Plan & Logs
 > - Link every task to its study note section
 
 
+
+<h2>2025-10-18</h2>
+
+**Short-term Goal**: [Project Title](https://github.com/bmw-ece-ntust/<repo>/blob/<7-digit commit hash>/<study-note>.md)
+
+**Daily Logs**:
+- `09:00–11:30`: [Task 1 Title](https://github.com/bmw-ece-ntust/<repo>/blob/<7-digit commit hash>/<study-note>.md#task-1-section)
+- `13:00–15:45`: [Task 2 Title](https://github.com/bmw-ece-ntust/<repo>/blob/<7-digit commit hash>/<study-note>.md#task-2-section)
+
+<h2>installation-guide.md</h2>
+h1 align="center">Installation Guide - Guideline<hr>
+
+> [!CAUTION]
+> Make this document **private** by default. Only make it public after publishing the paper of this project.
+
 # Daily Plan & Logs
 ## Table of Contents
 
