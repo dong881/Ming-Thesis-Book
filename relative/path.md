@@ -8,6 +8,8 @@ This is a new line added to the content \nand this is another one.
 
 \nThis is a new line in the content.
 
+<new markdown for this section ONLY>
+
 ## Exact Heading
 
 <markdown for this section ONLY>
@@ -95,9 +97,14 @@ To ensure a smooth and productive collaboration process i.
 
 ## Project Description
 
-* **Project Name:** [Replace with actual project name]
-* **Description:** A comprehensive solution for [specific use case]. This project provides [key functionality] and enables users to [main benefits]
+<h1>Project Name: [Replace with actual project name]</h1>
+<h2>Description:</h2>
+<p>A comprehensive solution for <em>[specific use case]</em>. This project provides <strong>[key functionality]</strong> and enables users to <em>[main benefits]</em>.</p>
 
+<h2>Key Features:</h2>
+<ul>
+  <li>Feature 1: \[Brie</li>
+</ul>
 
 # The authenticity of host 
 

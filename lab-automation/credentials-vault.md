@@ -3,12 +3,7 @@
 
 > Adhering to this SOP ensures that research and development projects are well-documented, maintainable, and easily transferable to new team members.
 
-> [!WARNING]
-> **Lab Hours**: `09:00` to `17:00` every working day
-
-> **Plan ahead**: Write your daily plan before starting work
-
-> **Log immediately**: Record completed tasks after finishing each one
+> Research and Development Projects are well-documented, Maintainable and Easily Transferable to New Team Members. This SOP ensures that all R&D projects are completed according to the established procedures and guidelines.
 
 # Encryption Protocol<br>## AES-256-CBC<br>### AES-256-CBC encryption protocol provides confidentiality and integrity protection. For more information, refer to [OWASP: Understanding the OPAQUE project documentation](https://opaquedocs.org/).
 
