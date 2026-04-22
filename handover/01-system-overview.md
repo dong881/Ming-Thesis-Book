@@ -2,20 +2,14 @@ OAI 5G RAN/Core Architecture and Configuration Overview
 
 # OAI 5G RAN/Core Architecture and Configuration 
 
-## Key Components
-## Configuration Overview
-## Terminology
-## Conclusion
+## OAI 5G RAN/Core Architecture and Configuration
+This section provides an overview of the OAI 5G RAN/core architecture and configuration.
 
-> The section title is missing a space between the hash symbol and the text.
+The OAI 5G RAN core architecture is designed to support the evolution of the current radio access technology to 5G. It includes the EPC (Evolved Packet Core), which is responsible for managing user data, and the MEC (Multimedia Enhancer) server, which provides enhanced multimedia services.
 
+The OAI 5G RAN core architecture also includes the S1AP (S1 Application Protocol) and S11AP (S1 Application Protocol with Enhanced Signaling), which are used for signaling between the different components of the system.
 
-OAI 5G RAN/Core architecture and configuration section to be added here.
-
-This section will describe the detailed architecture and configuration of OAI 5G RAN Core.
-
-
-> This section will cover the OAI 5G RAN/Core architecture and configuration. It is missing a space between the hash symbol and the text in its current form.
+In this section, we will provide an overview of the key components of the OAI 5G RAN/core architecture and their respective functions.
 
 # System Overview
 

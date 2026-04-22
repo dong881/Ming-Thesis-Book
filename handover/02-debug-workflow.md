@@ -11,6 +11,10 @@ To ensure the correctness of the debugging workflow, it is essential to follow b
 3.  Use version control systems to track changes and collaborate with team members.
 4.  Follow established coding standards and guidelines.
 
+
+Known Issue: The section title is missing a space between the hash symbol and the text.
+Troubleshooting Step: Ensure that there is at least one space after the `#` symbol in the section title.
+
 # Debugging Workflow:
 ## Table of Contents
 ### Daily log workflow diagram

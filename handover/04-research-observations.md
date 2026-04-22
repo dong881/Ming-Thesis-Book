@@ -51,6 +51,9 @@ The OpenAirInterface5G has recently implemented Linux TC mode enhancements for f
 
 **Target Users:** Developers/Researchers/System Administrators/etc.
 
+
+Research Observations: <insert findings>
+
 # Daily Plans and Logs
 
 > [!WARNING]

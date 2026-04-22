@@ -355,3 +355,8 @@ The system has been designed with performance analysis and measurement results i
 5.1.2.2.3 Integration guide (How to build the end-to-end of your systems): System architecture diagram - Examples: [O-RAN](https://docs.o-ran-sc.org/en/latest/_images/o-ran-architecture.png), [O-DU-High](https://docs.o-ran-sc.org/projects/o-ran-sc-o-du-l2/en/latest/overview.html#o-du-high-architecture)
 
 <ul><li>System architecture diagram - Examples: [O-RAN](https://docs.o-ran-sc.org/en/latest/_images/o-ran-architecture.png), [O-DU-High](https://docs.o-ran-sc.org/projects/o-ran-sc-o-du-l2/en/latest/overview.html#o-du-high-architecture)</li><li>Message Sequence Chart (MSC) + call flow - Example: [O-DU High](https://docs.o-ran-sc.org/projects/o-ran-sc-o-du-l2/en/latest/overview.html#o-du-high-functionality)</li></ul>
+
+
+Performance Analysis Results: <insert data>
+
+<add performance analysis and measurement results section here>
