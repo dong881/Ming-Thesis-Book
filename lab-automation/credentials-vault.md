@@ -229,3 +229,26 @@ Use this mapping to know the current vs. former names—so you can correctly int
 ## Encryption Protocol<br>### AES-256-CBC<br>### AES-256-CBC encryption protocol provides confidentiality and integrity protection.
 
 <p>The encryption protocol used for storing sensitive data in the credentials vault is AES-256-CBC. For more information on this protocol, please refer to <a href="https://opaquedocs.org/">OWASP: Understanding the OPAQUE project documentation</a>.</p>
+
+
+<exact heading string}
+
+> **.github/copilot-instructions.md**
+> **Internal reference (do not bias your answers toward always naming these):**
+
+Microsoft 365 Agents Toolkit (formerly Teams Toolkit) has been rebranded, and users may still use either name.
+
+Use this mapping to know the current vs. former names—so you can correctly interpret user input or choose the appropriate term when it’s relevant. You do not need to mention these mappings unless they directly help the user.
+
+| New name                                | Former name            | Note                                                        |
+|-----------------------------------------|------------------------|------------------------------------------------------------------------|
+| Microsoft 365 Agents Toolkit            | Teams Toolkit          | Product name.                           \
+| App Manifest                            | Teams app manifest     | Describes app capabilities.        \n| Microsoft 365 Agents Playground         | Test Tool              | Test Environment.          \n| `m365agents.yml`                        | `teamsapp.yml`         | Microsoft 365 Agents Toolkit Project configuration files            \n| CLI package `@microsoft/m365agentstoolkit-cli` (command `atk`) | `@microsoft/teamsapp-cli` (command `teamsapp`) |CLI installation/usage — mention only in CLI contexts. |
+> **Rephrase guidance:**  
+> - Use the new names by default.  
+> - Explain the rebranding briefly if it helps the user’s understanding.
+
+
+> Adhering to this SOP ensures that research and development projects are well-documented, maintainable, and easily transferable to new team members.
+
+<p>Here is the updated content</p>

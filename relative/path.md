@@ -10,9 +10,7 @@ This is a new line added to the content \nand this is another one.
 
 ## Exact Heading
 
-\n\n\nThe code snippet provided is a collection of changes made to the OpenAir2C++ implementation, specifically in the NR MAC gNB module. The changes include improvements to chart styling, fixes to improve readability, and additions to log entries.
-\n\nHere\'s a brief summary of the changes:
-\n*   Improved cha.
+\n\nThis is the reformatted content\nwith proper escape sequences\n
 
 # This is a comment
 ```

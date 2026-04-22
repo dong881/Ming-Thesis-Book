@@ -366,3 +366,8 @@ TOC
 This document includes the following additional sections:
 * Technical Research Compendium (Deep search results)
 * Lab Formatting Guidelines (excerpt)
+
+
+Log File Parameters
+
+\#\ Define SPLIT_LOG_SIZE (50 * 1024 * 1024)
