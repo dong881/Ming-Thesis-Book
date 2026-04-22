@@ -28,6 +28,14 @@ Add tip for proper grammar and spelling usage.
 * Check for punctuation and capitalization errors.
 * Edit carefully and thoroughly to avoid introducing errors elsewhere in the text.
 
+
+# Add tip for proper grammar and spelling usage.
+
+### Guidelines for Authors
+### Tips for Effective Writing
+## Guidelines for Authors
+# Add tip for proper grammar and spelling usage.
+
 # Add tip for proper grammar and spelling usage.
 
 *Use a dictionary or grammar guide to check your work.*
@@ -67,6 +75,12 @@ Add a tip for proper grammar and spelling usage. Use tools like Grammarly or Gin
 
 
 Add a tip for proper grammar and spelling usage, e.g., use Grammarly or other tools to improve your writing.
+
+
+Write clearly and concisely, use proper grammar and spelling, adhere to the formatting guidelines as specified in the style guide.
+
+
+Write clearly and concisely, use proper grammar and spelling, adhere to the formatting guidelines as specified in the style guide.
 
 # Tips for Effective Writing## Guidelines for Authors
 

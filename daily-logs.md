@@ -53,3 +53,9 @@ Daily Plans and Logs
 
 <p>Start work at 09:00.</p><p>Log immediately</p>
 
+
+<p>Write your daily plan before starting work, Log immediately</p><p>Start work at 09:00.</p><p>Log immediately</p>
+
+
+<p>Write your daily plan before starting work, Log immediately</p><p>Start work at 09:00.</p><p>Log immediately</p>
+

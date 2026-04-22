@@ -50,17 +50,8 @@ IG-C --> PD
 
 ## Table of Contents
 
-> [!TIP]
-> Generate the Table of Contents automatically using [Markdown All in One extension in VS Code](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one#table-of-contents).
-
-- [Table of Contents](#table-of-contents)
-- [Project description](#project-description)
-- [Execution Status](#execution-status)
-  - [System Architecture](#system-architecture)
-  - [Repository Structure](#repository-structure)    - [Configuration](#configuration)
-    - [Installation Steps](#installation-steps)
-- [Post-Installation Verification](#post-installation-verification)
-- [Troubleshooting](#troubleshooting)    - [Common Issues and Solutions](#common-issues-and-solutions)
+<h1>Installation Guide - Guideline</h1>
+<p>Git clone https://github.com/openairinterface5g/openairinterface.git</p>
 
 # Instructions for Copilot
 - Apps and agents for Microsoft 365 or Microsoft 365 Copilot refers to applications for products in Microsoft 365, agents for Microsoft 365 Copilot, including Teams app, Office addin, declarative agent, customer engine agent, etc.
@@ -123,3 +114,22 @@ User: <username>\n\n# The authenticity of host `<IP address>` (\'<IP address\>' 
 ### Installation Guide - Guideline
 # Installation Guide - Guideline
 ## Installation Guide - Guideline
+
+
+Installation Guide - Guideline
+
+Run the following command to clone the repository:
+
+`git clone https://github.com/openairinterface5g/openairinterface.git`
+
+After cloning, follow the installation instructions to set up your environment.
+
+# Installation Guide - Guideline
+Git clone https://github.com/openairinterface5g/openairinterface.git
+## Table of Contents
+# Instructions for Copilot
+...
+## Installation Guide - Guideline
+...
+### Installation Guide - Guideline
+...
