@@ -93,6 +93,13 @@ A review of the lab's standard operating procedures (SOPs) to ensure they are al
 
 A review of the lab's standard operating procedures (SOPs) to ensure they are aligned with the BMW-ECE Lab guidelines.
 
+
+Our lab SOP compliance will be ensured through regular audits and checks. We should regularly review and update our SOP document, implement checklists and workflows for routine tasks, and conduct periodic safety inspections and risk assessments.
+
+We will also adhere to industry-standard best practices and guidelines for coding, testing, and documentation.
+
+For more information on our lab SOP compliance and coding standards, please refer to the relevant sections of this document.
+
 # Lab SOP Compliance and Coding Standards
 
 This document outlines the lab SOP compliance and coding standards for our project.
@@ -166,3 +173,25 @@ We will adhere to industry-standard best practices and guidelines for coding, te
 Lab SOP Compliance
 
 A review of the lab's standard operating procedures (SOPs) to ensure they are aligned with the BMW-ECE Lab guidelines.
+
+
+Lab SOP compliance and coding standards
+
+## Laboratory
+
+This Standard Operating Procedure (SOP) outlines the requirements and best practices for research and development (R&D) projects in the lab. All developers and researchers must adhere to the following guidelines to ensure quality, reproducibility, and smooth handover.
+
+- [Laboratory](#laboratory)
+  - [1. Daily Progress and Plan](#1-daily-progress-and-plan)
+  - [2. Project Repository Standard](#2-project-repository-standard)
+  - [3. Documentation and Communication](#3-documentation-and-communication)
+
+## README.md
+# Laboratory
+
+This Standard Operating Procedure (SOP) outlines the requirements and best practices for research and development (R&D) projects in the lab. All developers and researchers must adhere to the following guidelines to ensure quality, reproducibility, and smooth handover.
+
+- [Laboratory](#laboratory)
+  - [1. Daily Progress and Plan](#1-daily-progress-and-plan)
+  - [2. Project Repository Standard](#2-project-repository-standard)
+  - [3. Documenta

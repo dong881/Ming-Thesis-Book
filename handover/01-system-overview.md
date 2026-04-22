@@ -6,6 +6,9 @@ OAI 5G RAN/Core Architecture and Configuration Overview
 ## Configuration Overview
 ## Terminology
 ## Conclusion
+
+> The section title is missing a space between the hash symbol and the text.
+
 # System Overview
 
 # System Overview
@@ -181,3 +184,21 @@ Coding standards play a vital role in ensuring consistency and readability acros
 By embracing these coding standards, we can ensure a cohesive project structure and make it more accessible to team members. This will ultimately contribute to the overall quality of our deliverables and enhance collaboration across different skill sets.
 
 For further information on lab SOP compliance and coding standards, please refer to the BMW-ECE Lab's [project repository](https://github.com/bmw-ece-ntust/template). You can find detailed documentation on our guidelines, including installation instructions for the project and user guides to facilitate smooth integration with other tools and systems.
+
+
+> Lab Formatting Guidelines (excerpt)
+
+> [!NOTE]
+> Our servers are put in the server room. Please contact the admin for VPN access.
+
+```
+> Host: <IP address>
+> User: <username>
+```
+
+```
+ssh user@<IP address>
+
+# The authenticity of host '192.168.1.100 (192.168.1.100)' can't be established.
+# ECDSA key fingerprint is SHA256:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+```

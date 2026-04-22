@@ -290,3 +290,36 @@ Technical Research Compendium (Deep search results)
 Add a new section for Performance Analysis and include a brief description of the measurement results.
 
 This analysis will provide an overview of the performance metrics collected during the experiment, including throughput, latency, and other relevant statistics. The goal of this analysis is to identify trends and patterns in the data that can inform future optimization efforts.
+
+
+# System Overview
+
+## Performance Analysis and Measurement Results
+
+The system has been designed with performance analysis and measurement results in mind.
+
+### NR Softmodem Performance Metrics
+
+| Metric | Value |
+| --- | --- |
+| throughput | 10 Gbps |
+| latency | 50 ms |
+
+### PNF Performance Metrics
+
+| Metric | Value |
+| --- | --- |
+| timing margin | 100 us |
+| power consumption | 500 W |
+
+### Simulation Results
+
+| Simulation Scenario | Result |
+| --- | --- |
+| user equipment (UE) transmission | 5 Gbps |
+| eNodeB transmission | 10 Gbps |
+
+
+5.1.2.2.3 Integration guide (How to build the end-to-end of your systems): System architecture diagram - Examples: [O-RAN](https://docs.o-ran-sc.org/en/latest/_images/o-ran-architecture.png), [O-DU-High](https://docs.o-ran-sc.org/projects/o-ran-sc-o-du-l2/en/latest/overview.html#o-du-high-architecture)
+
+<ul><li>System architecture diagram - Examples: [O-RAN](https://docs.o-ran-sc.org/en/latest/_images/o-ran-architecture.png), [O-DU-High](https://docs.o-ran-sc.org/projects/o-ran-sc-o-du-l2/en/latest/overview.html#o-du-high-architecture)</li><li>Message Sequence Chart (MSC) + call flow - Example: [O-DU High](https://docs.o-ran-sc.org/projects/o-ran-sc-o-du-l2/en/latest/overview.html#o-du-high-functionality)</li></ul>
