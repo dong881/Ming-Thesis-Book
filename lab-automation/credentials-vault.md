@@ -16,3 +16,16 @@ To ensure the security and integrity of credentials, follow these protocols:
 3. **Monitor access logs**: Closely monitor access logs to detect potential security breaches.
 
 By following these guidelines, you can maintain a secure credentials vault that protects sensitive information.
+
+
+## Security Protocols for Credentials Vault 
+
+Use AES-256 encryption to protect credentials
+
+
+Security Protocols for Credentials Vault
+
+Use AES-256 encryption to protect credentials
+
+Use AES-256 encryption to protect credentials
+
