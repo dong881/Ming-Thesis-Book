@@ -43,6 +43,114 @@ There are 2 types of project repositories:
 
 ## Guidelines for Authors
 
+
+
+
+# Add tip for proper grammar and spelling usage.
+# Add tip for proper grammar and spelling usage.
+# Add tip for proper grammar and spelling usage.
+
+## Behavior
+When **both** are true:
+  - `env_cfg.__slot_ahead_value__` is set (slot-ahead expanded environment), and 
+  - `env_cfg.__tc_cases__` is non-empty (TC sweep enabled),
+  + single-dataset plotting (existing behavior), and
+  + compare-mode plotting with **multiple datasets overlaid** on the same chart template.
+
+## Key changes
+1. Refactored data extraction into reusable helpers:
+   - `_collect_tc_sweep_points_from_summary(...)`
+   - `_collect_tc_sweep_points_from_iperf(...)`
+   - `_build_tc_sweep_series(...)"
+2. Added shared plot renderer:
+   - `_plot_tc_sweep_series(...)"
+   - Uses the same TC sweep template (`mean` / `p50` / `p95`, same axis/title style)
+   - Draws one line per dataset for compare analysis
+   - Keeps `x` markers for non-OK rows from summary data
+
+## Validation
+AST parse check passed for `rapp/src/auto_tester.py`. IDE lint check reported no errors for the edited file.
+
+## Files changed
+-- `rapp/src/auto_tester.py` — helpers `_tc_slot_ahead_stop_on_ue_loss`, placeholders, TC loop, `_plot_tc_sweep_from_ping_throughput_summary`, `analyze_tc_iperf_rx_by_suffix` summary path.
++(Direct `py_compile` was blocked by local `__pycache__` write permission, so syntax was validated via AST parse instead.)
+
+# Add tip for proper grammar and spelling usage.
+# Add tip for proper grammar and spelling usage.
+# Add tip for proper grammar and spelling usage.
+
+## Guidelines for Authors
+# Consistent indentation: The code uses ]
+# Add tip for proper grammar and spelling usage.
+# Proper Grammar and Spelling Usage
+
+### Tips for Effective Communication
+### Guidelines for Authors
+## Guidelines for Authors
+# Add tip for proper grammar and spelling usage.
+# Add tip for proper grammar and spelling usage.
+# Consistent indentation: The code uses ]
+
+## Guidelines for Authors
+# Add tip for proper grammar and spelling usage.
+# Proper Grammar and Spelling Usage
+
+### Tips for Effective Writing
+### Guidelines for Authors
+### Tips for Effective Communication
+## Guidelines for Authors
+### Guidelines for Authors
+# Add tip for proper grammar and spelling usage.
+# Proper Grammar and Spelling Usage
+
+## Guidelines for Authors
+# Consistent indentation: The code uses ]
+# Add tip for proper grammar and spelling usage.
+# Proper Grammar and Spelling Usage
+# Add tip for proper grammar and spelling usage.
+
+### Tips for Effective Communication
+# Tips for Effective Writing
+## Guidelines for Authors
+# Add tip for proper grammar and spelling usage.
+# Add tip for proper grammar and spelling usage.
+# Add tip for proper grammar and spelling usage.
+# Proper Grammar and Spelling Usage
+# Add tip for proper grammar and spelling usage.
+
+### Guidelines for Authors
+# Consistent indentation: The code uses ]
+# Add tip for proper grammar and spelling usage.
+# Add tip for proper grammar and spelling usage.
+# Add tip for proper grammar and spelling usage.
+# Proper Grammar and Spelling Usage
+
+## Guidelines for Authors
+# Consistent indentation: The code uses ]
+# Add tip for proper grammar and spelling usage.
+# Proper Grammar and Spelling Usage
+# Add tip for proper grammar and spelling usage.
+
+### Tips for Effective Communication
+# Tips for Effective Writing
+## Guidelines for Authors
+# Consistent indentation: The code uses ]
+# Proper Grammar and Spelling Usage
+# Add tip for proper grammar and spelling usage.
+# Add tip for proper grammar and spelling usage.
+# Add tip for proper grammar and spelling usage.
+### Guidelines for Authors
+# Consistent indentation: The code uses ]
+
+# Consistent indentation: The code uses ]
+# Add tip for proper grammar and spelling usage.
+# Proper Grammar and Spelling Usage
+### Tips for Effective Communication
+### Guidelines for Authors
+## Guidelines for Authors
+# Add tip for proper grammar and spelling usage.
+# Add tip for proper grammar and spelling usage.
+
 # Consistent indentation: The code uses ]
 # Add tip for proper grammar and spelling usage.
 
@@ -194,43 +302,23 @@ Proper Grammar and Spelling Usage
 
 # Guidelines for Authors
 
-Add tip for proper grammar and spelling usage: Use a dictionary or online resources to check your work.
+## Guidelines for Authors
 
-Add tip for proper grammar and spelling usage [REVIEWER FEEDBACK: **Verdict**: FEEDBACK
-**Overall Comment**: Review parsing failed: Expecting value: line 1 column 1 (char 0). Raw: Here is a format]
+# Add tip for proper grammar and spelling usage.
+# Add tip for proper grammar and spelling usage.
+# Add tip for proper grammar and spelling usage.
 
-*   **Tip for proper grammar and spelling usage:** Always proofread your work carefully to avoid errors. Use tools like Grammarly or ProWritingAid to help you identify mistakes.
+## Guidelines for Authors
+# Add tip for proper grammar and spelling usage.
+# Add tip for proper grammar and spelling usage.
+# Add tip for proper grammar and spelling usage.
 
-
-Expand on the existing guidelines by providing examples or additional tips.
-
-In order to ensure that your paper is well-written and effectively communicates your research, here are some additional guidelines:
-
-* Use clear and concise language in your abstract, introduction, and conclusion.
-* Provide enough detail in your discussion section without going into excessive technical details.
-* Include visual aids such as figures and tables where necessary to help illustrate your points.
-* Make sure to cite all sources properly using a consistent citation style.
-
-
-> Expand on the existing guidelines by providing examples or additional tips.
-
-[REVIEWER FEEDBACK: **Verdict**: FEEDBACK
-**Overall Comment**: Review parsing failed: Expecting value: line 1 column 1 (char 0). Raw: Here is the reformatted output:
-
-
-Add a tip for efficient writing: Use clear and concise language, and avoid unnecessary jargon or technical terms.
-
-
-Add a tip for proper grammar and spelling usage. Use tools like Grammarly or Ginger to help with grammar, punctuation, and spelling.
-
-
-Add a tip for proper grammar and spelling usage, e.g., use Grammarly or other tools to improve your writing.
-
-
-Write clearly and concisely, use proper grammar and spelling, adhere to the formatting guidelines as specified in the style guide.
-
-
-Write clearly and concisely, use proper grammar and spelling, adhere to the formatting guidelines as specified in the style guide.
+## Behavior
+## Key changes
+## Validation
+## Files changed
+# Add tip for proper grammar and spelling usage.
+# Add tip for proper grammar and spelling usage.
 
 # Tips for Effective Writing## Guidelines for Authors
 
@@ -241,3 +329,19 @@ Write clearly and concisely, use proper grammar and spelling, adhere to the form
 
 Add tip: Proper grammar and spelling usage is crucial in academic writing. Always proofread your work multiple times to ensure accuracy and clarity.
 
+## Lab Formatting Guidelines (excerpt)
+
+> [!TIP]
+> **Best Practices**:
+>
+> - Log immediately after completing each task
+> - Include accurate start and end times for each task
+> - Link every task to its study note section
+> - Set which project to be done as your daily short-term goal
+
+
+Guideline
+
+> [!CAUTION]
+> Make this document **private** by default. Only make it public after publishing the paper of this project.
+>

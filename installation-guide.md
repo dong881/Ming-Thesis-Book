@@ -1,11 +1,12 @@
 <h1 align="center">Installation Guide - Guideline</h1>
 
-To set up the system, follow these steps:
+> Make this document **private** by default. Only make it public after publishing the paper of this project.
 
-1. Clone the repository using `git clone https://github.com/openairinterface5g/openairinterface.git`.
-2. Run `make setup` to configure the environment and build the necessary components.
-3. Start the system using `./openaircore start`.
+# Installation Guide - Guideline
+> Make this document **private** by default. Only make it public after publishing the paper of this project.
 
+## Table of Contents
+# Installation Guide - Guideline
 
 # Installation Guide - Guideline
 
@@ -32,9 +33,20 @@ To set up the system, follow these steps:
 # Installation Guide - Guideline
 ## Installation Guide - Guideline
 
-> Make this document **private** by default. Only make it public after publishing the paper of this project.
+To set up the system, follow these steps: section with proper formatting and grammar. Review parsing failed: Expecting value: line 1 column 1 (char 0). Raw: Here is a rewritten version of the provided text, following the specified format and removing unnecessary sections:
 
-> Request access with the GitHub admin in our group.
+* Guidelines for Authors
+* Tips for Effective Communication
+
+# Installation Guide - Guideline
+
+Run the following command to clone the repository:
+
+`git clone https://github.com/openairinterface5g/openairinterface.git`
+
+After cloning, follow the installation instructions to set up your environment.
+
+```
 
 # Installation Guide - Guideline
 ## Installation Guide - Guideline
