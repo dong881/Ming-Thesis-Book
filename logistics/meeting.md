@@ -94,10 +94,19 @@ The commit 956aea0e — 2026-04-09 enhances the timing configuration by adding d
 
 ## Enhance Timing Configuration by Adding Dynamic Timing Info Mode and Period
 
+<h4>Behavior</h4>
 When **both** are true:
-\u00a2-- `env_cfg.__slot_ahead_value__` is set (slot-ahead expanded environment), and \\u00a0-- `env_cfg.__tc_cases__` is non-empty (TC sweep enabled),\
+-- `env_cfg.__slot_ahead_value__` is set (slot-ahead expanded environment), and 
+-- `env_cfg.__tc_cases__` is non-empty (TC sweep enabled),
 + single-dataset plotting (existing behavior), and
 + compare-mode plotting with **multiple datasets overlaid** on the same chart template.
+<h4>Behavior</h4>
+When **both** are true:
+-- `env_cfg.__slot_ahead_value__` is set (slot-ahead expanded environment), and 
+-- `env_cfg.__tc_cases__` is non-empty (TC sweep enabled),
++ single-dataset plotting (existing behavior), and
++ compare-mode plotting with **multiple datasets overlaid** on the same chart template.
+<br>
 
 ## Behavior
 When **both** are true:

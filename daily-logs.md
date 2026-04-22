@@ -19,6 +19,12 @@
 &lt;Your Full Name&gt;\n&amp; Student ID: \&lt;Your ID&gt;\n\&amp;Enrollment:
 \&amp;- Program: M.S./. Please return ONLY the JSON PatchResponse object.
 
+
+<h2>Lab Formatting Guidelines (excerpt)</h2>
+
+\> Lab Formatting Guidelines (excerpt)\
+\n\n
+
 # Daily Plan & Logs
 
 **Name**: <Your Full Name>  

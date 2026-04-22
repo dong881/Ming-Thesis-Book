@@ -108,3 +108,15 @@ Here is the reformatted text, following standard Markdown formatting:
 **Project Name:** \[Replace with actual project name\]
 
 **Description:** A comprehensive solution for \[specific use case\]. This project provid
+
+
+**Installation Guide**
+h1 align="center" Installation Guide - Guideline
+<hr>
+> [!CAUTION]
+> Make this document **private** by default. Only make it public after publishing the paper of this project.
+> Request access with the GitHub admin in ou.
+
+## Installation Guide
+
+Make sure to set the file permissions accordingly.

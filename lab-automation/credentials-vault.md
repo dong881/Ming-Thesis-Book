@@ -170,3 +170,8 @@ Asn1_verbosity = "none";
 ## Encryption Protocol<br>Use AES-256-CBC to protect stored credentials. For more information, refer to [OWASP: Understanding the OPAQUE project documentation](https://opaquedocs.org/)
 
 <p>The use of AES-256-CBC encryption provides confidentiality and integrity protection for stored credentials.</p><p>For more information on this protocol, please refer to [OWASP: Understanding the OPAQUE project documentation](https://opaquedocs.org/).</p>
+
+
+Technical Research Compendium (Deep search results)
+
+
