@@ -15,6 +15,43 @@
 **Template**:
 
 ```markdown
+
+> [!TIP]
+**Daily Log Template**: Include accurate start and end times for each task.
+
+**File**: Create `./daily-logs.md` in your project repository
+
+> [!TIP]
+**Best Practices**: 
+>
+> - Log immediately after completing each task
+> - Include accurate start and end times for each task
+> - Link every task to its study note section
+> - Set which project to be done as your daily short-term goal
+
+
+> [!TIP]
+**Daily Log Template**: Include accurate start and end times for each task.
+
+**File**: Create `./daily-logs.md` in your project repository
+
+> [!TIP]
+**Best Practices**: 
+>
+> - Log immediately after completing each task
+> - Include accurate start and end times for each task
+> - Link every task to its study note section
+> - Set which project to be done as your daily short-term goal
+
+# Daily Plan & Logs
+
+## Table of Contents
+
+# Daily Plans and Logs
+
+### Open Action Items 
+  [a7d82a41] daily-logs.md/entire: Reviewer could not parse its own output. → Raw LLM output: { "verdict": "FEEDBACK", "passed_sections": [], "issues": [["file":"installation-guide.md","section":"TOC","problem":"Missing closing \u2019##\u2019 header after table of contents","suggestion":"Add a closing \u2019##\u2019 header after the table of contents"]], "suggestion": "Add a closing \u2019##\u2019 header after the table of contents"}]
+
 # Daily Plan & Logs
 
 **Name**: <Your Full Name>  

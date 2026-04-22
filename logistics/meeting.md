@@ -49,6 +49,19 @@ IG-C --> PD
 
 <img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram"><br><br>IG-A --> PD <br>IG-B --> PD <br>IG-C --> PD<br><br><br><img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram"><br><br>IG-A --> PD < br>IG-B --> PD < br>IG-C --> PD<br><br><br><img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram"><br><br>IG-A --> PD < br>IG-B --> PD < br>IG-C --> PD<br><br><br><img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram">
 
+
+### Enhance Timing Configuration by Adding Dynamic Timing Info Mode and Period
+
+IG-A --> PD
+IG-B --> PD
+IG-C --> PD
+
+IG-A --> PD
+IG-B --> PD
+IG-C --> PD
+
+<img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram"><br><br>IG-A --> PD <br>IG-B --> PD <br>IG-C --> PD<br><br><br><img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram"><br><br>IG-A --> PD < br>IG-B --> PD < br>IG-C --> PD<br><br><br><img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram">
+
 # Dynamic Timing Configuration
 
 Dynamic timing configuration allows you to specify the timing information for your system. This includes the timing period, mode, and other parameters.
@@ -101,6 +114,13 @@ The new feature introduces a plot that displays the traffic pattern and timing p
 ### Files changed
 -   `rapp/src/auto_tester.py` — helpers `_tc_slot_ahead_stop_on_ue_loss`, placeholders, TC loop, `_plot_tc_sweep_from_ping_throughput_summary`, `analyze_tc_iperf_rx_by_suffix` summary path.
 
+
+
+IG-A --> PD
+IG-B --> PD
+IG-C --> PD
+
+<img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram"><br><br>IG-A --> PD <br>IG-B --> PD <br>IG-C --> PD<br><br><br><img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram"><br><br>IG-A --> PD < br>IG-B --> PD < br>IG-C --> PD<br><br><br><img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram"><br><br>IG-A --> PD < br>IG-B --> PD < br>IG-C --> PD<br><br><br><img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram">
 
 # Dynamic Timing Configuration
 # Dynamic Timing Configuration

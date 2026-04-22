@@ -44,6 +44,17 @@ There are 2 types of project repositories:
 ## Guidelines for Authors
 
 # Add tip for proper grammar and spelling usage.
+# Consistent indentation: The code uses ]
+
+# Consistent indentation: The code uses ]
+### Tips for Effective Communication
+### Guidelines for Authors
+### Tips for Effective Writing
+### Guidelines for Authors
+#### Guidelines for Authors
+# Add tip for proper grammar and spelling usage.
+
+# Add tip for proper grammar and spelling usage.
 # Consistent indentation: The code uses ].
 
 ### Tips for Effective Communication
@@ -375,3 +386,22 @@ Guideline
 > [!CAUTION]
 > Make this document **private** by default. Only make it public after publishing the paper of this project.
 >
+
+
+TC sweep runtime diagnosis and fixes# Response (TC sweep metrics)
+
+# Response (TC sweep metrics)
+
+## Changes
+ 1. **Throughput (`samples`, p50, p95)**  
+    - Added `extract_iperf_rx_interval_mbps_list()` in `rapp/src/analyzers/parsers/io_parsers.py` to collect one Mb/s sample per iperf3 JSON `intervals[]` entry (uses `sum_received` or `sum`, skips `omitted`, derives bps from bytes/seconds if needed).
+    - `_iperf_rx_mbps_samples()` in `auto_tester.py` now uses those per-second samples; if intervals are empty it falls back to the previous single end-to-end mean.
+
+## Ping  
+    - TC sweep was calling `_collect_tc_case_metrics()` before `collect_logs()`, so `ping-*-load.log` files were never on disk locally.
+    - Added `_fetch_tc_case_ping_logs()` to SCP `/tmp/ping-{case_suffix}*.log` from the CN server into `session_raw_dir` before parsing.
+    - `_collect_tc_case_metrics` now takes `config` as the first argument.
+
+## Exports  
+  When interpreting, generating, or modifying manifest files related to apps and agents for Microsoft 365 or Microsoft 365 Copilot, try to get schema version from manifest file, then invoke **get_schema** tool if available.
+  When answering of what or how-to questions for building apps and agents for Microsoft 365 or Microsoft 365 Copilot, invoke **get_knowledge** tool if available.
