@@ -258,3 +258,14 @@ ssh user@<IP address>
 
 > ·[!NOTE]
 > Our servers are put in the server room. Please contact the admin for VPN access.
+
+
+# OAI 5G RAN/Core Architecture and Configuration:
+
+OAI 5G RAN/Core architecture and configuration section to be added here.
+
+Author: dong881 <minghunghsu.taiwan@gmail.com>
+Date: 2026-04-06
+Refine late storm evacuation logic to enhance timing adjustments during high traffic.
+
+https://github.com/openairinterface5g/nfapi/commit/0e837ac8

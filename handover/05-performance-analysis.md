@@ -386,3 +386,8 @@ The system has been designed with performance analysis and measurement results i
 Performance Analysis Results: <insert data>
 
 <add performance analysis and measurement results section here>
+
+
+<h2>Performance analysis and measurement results</h2>
+
+<p>The following is a summary of the performance analysis and measurement results for the O-RAN project.</p><p>Results include:</p>
