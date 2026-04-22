@@ -70,14 +70,9 @@ ssh user@<IP address>
 <h2>Target Users</h2><p>Developers and researchers interested in SDN and NFV.</p>
 
 
+## Project Documentation - Guideline
+
 <h1 align="center">Project Documentation - Guideline</h1>
-
-\n## Comprehensive Project Documentation Guideline\n
-\n## Guidelines for Authors
-\n* Write clearly and concisely.\n* Use proper grammar and spelling.\n* Adhere to the formatting guidelines as specified in the style guide.\n
-\n## Tips for Effective Communication\n\n* Proper grammar and \n
-\n\n\n\n
-
 
 ## Comprehensive Project Documentation Guideline
 

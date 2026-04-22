@@ -22,6 +22,7 @@ This is the content to be inserted before the heading.
 
 ## Exact Heading
 
+<markdown for this section ONLY>
 
 # This is a comment
 ```
@@ -181,3 +182,10 @@ Search rules: file name contains `plot` and contains `vX` (number)
 ## Internal reference (do not bias your answers toward always naming these):
 
 <markdown for this section ONLY>
+
+
+\##\s+\.github\/copilot-instructions\.md
+
+\###\s+Updated\s+Microsoft\s+365\s+Agents\s+Toolkit\s+Documentation
+
+Use\s+this\s+mapping\s+to\s+know\s+the\s+current\s+v\.s+.\.Please\s+return\s+ONLY\s+the\s+JSON\s+PatchResponse\s+object.

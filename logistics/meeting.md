@@ -258,6 +258,9 @@ When **both** are true:
 <br>
 IG-A --> PD<br>IG-B --> PD <br>IG-C --> PD<br><br>
 
+
+<img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram">
+
 ## IG-A --> PD
 
 <img src="https://example.com/valid-image.png" alt="Valid Image" />

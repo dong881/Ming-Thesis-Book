@@ -315,18 +315,10 @@ After cloning, follow the installation instructions to set up your environment.
 
 > Request access with the GitHub admin in our group.
 
-# Project description
-<p>
-**Project Name:** \[Replace with actual project name]
+Project description
 
-**Description:** A comprehensive solution for \[specific use case]. This project provides \[key functionality] and enables users to \[main benefits].
+A comprehensive solution for [specific use case]. This project provides [key functionality] and enables users to [main benefits].
 
-**Key Features:**
-- Feature 1: \[Brief description]
-- Feature 2: \[Brief description]
-- Feature 3: \[Brief description]
-
-**Target Users:** \[Developers/Researchers/System Administrators/etc.]
 # Access Method (if any)
 
 > [!NOTE]
