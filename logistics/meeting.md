@@ -91,36 +91,11 @@ The commit 956aea0e — 2026-04-09 enhances the timing configuration by adding d
 
 ## Enhance Timing Configuration by Adding Dynamic Timing Info Mode and Period
 
-Enhance Timing Configuration by Adding Dynamic Timing Info Mode and Period
-===========================================================
-
-The new feature adds a dynamic timing info mode to the existing timing configuration. This enhancement improves the overall performance and reliability of the system.
-
-### Behavior
-
-When both slot-ahead and TC sweep modes are enabled, the system will analyze the traffic pattern and adjust the timing parameters accordingly. This results in better resource utilization and reduced latency.
-
-### Config
-
-Under **settings.tc_sweep**, you can configure the dynamic timing info mode:
-
-*   `slot_ahead_stop_session_on_ue_loss`: Set to `false` to restore full-session retry on UE loss even in slot-ahead + TC sweep mode.
-*   `compare_mode_output`: Use this option to customize the output of the compare-mode call sites.
-
-### Plots
-
-The new feature introduces a plot that displays the traffic pattern and timing parameters. This visualization helps users understand the system's performance and make informed decisions.
-
-### Files changed
--   `rapp/src/auto_tester.py` — helpers `_tc_slot_ahead_stop_on_ue_loss`, placeholders, TC loop, `_plot_tc_sweep_from_ping_throughput_summary`, `analyze_tc_iperf_rx_by_suffix` summary path.
-
-
-
-IG-A --> PD
-IG-B --> PD
-IG-C --> PD
-
-<img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram"><br><br>IG-A --> PD <br>IG-B --> PD <br>IG-C --> PD<br><br><br><img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram"><br><br>IG-A --> PD < br>IG-B --> PD < br>IG-C --> PD<br><br><br><img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram"><br><br>IG-A --> PD < br>IG-B --> PD < br>IG-C --> PD<br><br><br><img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram">
+When **both** are true:
+-- `env_cfg.__slot_ahead_value__` is set (slot-ahead expanded environment), and
+-- `env_cfg.__tc_cases__` is non-empty (TC sweep enabled),
++ single-dataset plotting (existing behavior), and
++ compare-mode plotting with **multiple datasets overlaid** on the same chart template.
 
 # Dynamic Timing Configuration
 # Dynamic Timing Configuration

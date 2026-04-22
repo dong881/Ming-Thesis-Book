@@ -1,5 +1,68 @@
 ## Daily Plans and Logs
 
+
+
+### Purpose
+Track your daily progress and ensure systematic completion of project milestones through two essential documents:
+1. **Milestones** (`milestones.md`): Project roadmap with all tasks, deadlines, and completion status
+2. **Daily Logs** (`daily-logs.md`): Time-stamped record of work performed, linking tasks to study notes
+
+### Table of Contents
+- [Daily Plans and Logs](#daily-plans-and-logs)
+  - [Purpose](#purpose)
+  - [Table of Contents](#table-of-contents)
+  - [Guidelines](#guidelines)
+    - [Milestones](#milestones)
+    - [Daily Logs](#daily-logs)
+
+### Guidelines
+> [!TIP]
+> **Formatting Standards**:
+>
+> 1. Dates: `yyyy-mm-dd` format (e.g., `2025-10-18`)\n> 2. Time: `hh:mm–hh:mm` format (e.g., `09:00–11:30`)\n> 3. Auto-generate Table of Contents using [VS Code Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one#table-of-contents)
+
+**Document Structure**: Link your study notes with milestones and daily logs as shown below:
+![Daily log workflow diagram](./assets/daily-log.png)
+
+### Milestones
+
+#### Purpose
+Create a master checklist of all projects, their milestones, and individual tasks.
+> [!TIP]
+> **Key Principles**:
+>
+> - One project = One study note (installation/integration/user guide)
+> - Each task = One section in the study note
+> - Task title must match its section header exactly
+> - Link completed tasks to their documentation
+
+create `./milestones.md` in your project repository.
+
+#### Template
+```markdown
+# Task 1
+## Task Description
+
+# Task 2
+## Task Description
+
+...
+
+</markdown>
+
+# Daily Plan & Logs
+
+> [!TIP]
+> **Best Practices**:
+>
+> - Log immediately after completing each task
+> - Include accurate start and end times for each task
+> - Link every task to its study note section
+
+## Table of Contents
+
+- [Open Action Items](#open-action-items)
+
 # Daily Plan & Logs
 
 > [!TIP]
@@ -162,3 +225,17 @@ Daily Plan & Logs
 -ত‎ 09:00–11:30: 张不。 Task 1 Title (https://github.com/bmw-ece-ntust/<repo>/blob/<7-digit commit hash>/<study-note>.md#task-1-section)
 -ত‎ 13:00–15:45: 张不。 Task 2 Title (https://github.com/bmw-ece-ntust/<repo>/blob/<7-digit commit hash>/<study-note>.md#task-2-section)
 -ত‎ 16:00–17:00: 张不。 Task 3 Title (https://github.com/bmw-ece-ntust/<repo>/blob/<7-digit commit hash>/<study-note>.md#task-3-section)
+
+
+== Daily Plans and Logs ==
+
+> [!TIP]
+> **Best Practices**:
+>
+> - Log immediately after completing each task
+> - Include accurate start and end times for each task
+> - Link every task to its study note section
+
+## Table of Contents
+
+## Daily Plan & Logs

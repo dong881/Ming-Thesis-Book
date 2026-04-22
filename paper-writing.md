@@ -43,6 +43,26 @@ There are 2 types of project repositories:
 
 ## Guidelines for Authors
 
+
+
+# Add tip for proper grammar and spelling usage.
+# Consistent indentation: The code uses ]
+
+# Proper Grammar and Spelling Usage
+# Add tip for proper grammar and spelling usage.
+# Consistent indentation: The code uses ]
+
+### Tips for Effective Communication
+### Guidelines for Authors
+
+# Add tip for proper grammar and spelling usage.
+# Consistent indentation: The code uses ]
+# Proper Grammar and Spelling Usage
+# Add tip for proper grammar and spelling usage.
+# Consistent indentation: The code uses ]
+# Add tip for proper grammar and spelling usage.
+# Proper Grammar and Spelling Usage
+
 # Add tip for proper grammar and spelling usage.
 # Consistent indentation: The code uses ]
 
@@ -405,3 +425,19 @@ TC sweep runtime diagnosis and fixes# Response (TC sweep metrics)
 ## Exports  
   When interpreting, generating, or modifying manifest files related to apps and agents for Microsoft 365 or Microsoft 365 Copilot, try to get schema version from manifest file, then invoke **get_schema** tool if available.
   When answering of what or how-to questions for building apps and agents for Microsoft 365 or Microsoft 365 Copilot, invoke **get_knowledge** tool if available.
+
+
+# Adding guidelines for authors, including clear writing style and proper grammar and spelling
+
+# Add tip for proper grammar and spelling usage.
+# Consistent indentation: The code uses ]
+# Proper Grammar and Spelling Usage
+# Add tip for proper grammar and spelling usage.
+
+# Consistent indentation: The code uses ]
+# Add tip for proper grammar and spelling usage.
+# Proper Grammar and Spelling Usage
+
+# Add tip for proper grammar and spelling usage.
+# Consistent indentation: The code uses ]
+# Proper Grammar and Spelling Usage

@@ -108,6 +108,10 @@ To ensure the security and integrity of credentials, follow these protocols:
   <li>Secure Storage: Store credentials in a secure, tamper-evident container.</li>
 </ul>
 
+
+<p>Use AES-256-CBC to protect stored credentials. For more information, refer to [OWASP: Understanding the OPAQUE project documentation](https://opaquedocs.org/).</p>
+<p>Implement role-based access control (RBAC) to limit user access to sensitive information.</p>
+
 # Encryption Protocol<br>## Encryption Protocol<br>### Security Protocols<br>## Security Protocols<br>
 
 # Encryption Protocol

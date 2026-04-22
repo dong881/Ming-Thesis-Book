@@ -250,3 +250,24 @@ After cloning, follow the installation instructions to set up your environment.
 ...
 ### Installation Guide - Guideline
 ...
+
+
+> [!CAUTION] Make this document **private** by default. Only make it public after publishing the paper of this project.
+
+<h1 align="center">Installation Guide - Guideline</h1>
+
+> Make this document **private** by default. Only make it public after publishing the paper of this project.
+
+## Table of Contents
+# Installation Guide - Guideline
+
+
+> [!CAUTION]
+> Make this document **private** by default. Only make it public after publishing the paper of this project.
+
+> Request access with the GitHub admin in our group.
+
+> [!WARNING]
+> Requirement 5.2.1.2 applies only to students who have not received approval for their *Chapter IV. Results and Analysis* from the Professor.
+
+- [ ] (Recognition Form for Academic Field o
