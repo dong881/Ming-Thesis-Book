@@ -25,3 +25,8 @@ This document aims to provide a structured approach to preparing for TEEP (Techn
 *   Think about potential questions that may be asked during the meeting and prepare thoughtful responses.
 
 By following these steps, you can ensure a productive and successful TEEP meeting.
+
+Add detailed information on TEEP preparation steps and requirements.
+
+Refer to the OpenAirInterface5G documentation for implementation details.
+

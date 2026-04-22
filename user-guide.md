@@ -113,3 +113,27 @@ The user guide is a crucial component of any software or system. It provides an 
 To install and set up the software, follow these steps:
 1. Download the installation package from our website.
 2. Run the installer and follow the on-screen prompts.
+
+
+## entire
+
+<!--
+*   [Git Commit](https://github.com/openairinterface5g/drivers/commit/7e4eba99)
+*   Fixed segment si
+ -->
+> [!NOTE] 
+> **Purpose of Installation, Integration, and User Guide**: 
+>
+>
+> - **Installation Guide**: Focuses on setup, configuration, and getting the system running. 
+> - **Integration Guide**: Covers the integration of various components, including 
+>   PNFs, VNFs, and RLC layers. 
+> - **User Guide**: Provides step-by-step instructions for users to set up and operate the system. 
+>
+> 
+> <h2>System Architecture</h2>
+>
+> <p>The system architecture is based on a modular design, with each component optimized for performance and efficiency.</p>
+>
+> </p>
+>

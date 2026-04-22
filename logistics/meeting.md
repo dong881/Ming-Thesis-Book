@@ -156,6 +156,16 @@ When **both** are true:
 + single-dataset plotting (existing behavior), and
 + compare-mode plotting with **multiple datasets overlaid** on the same chart template.
 
+
+<h4>Behavior</h4>
+When **both** are true:
+-- `env_cfg.__slot_ahead_value__` is set (slot-ahead expanded environment), and 
+-- `env_cfg.__tc_cases__` is non-empty (TC sweep enabled),
++ single-dataset plotting (existing behavior), and
++ compare-mode plotting with **multiple datasets overlaid** on the same chart template.
+<br>
+</h4>
+
 # Enhance Timing Configuration by Adding Dynamic Timing Info Mode and Period
 
 ## Behavior

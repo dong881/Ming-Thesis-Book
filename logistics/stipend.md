@@ -22,5 +22,5 @@ Additionally, please note that failure to comply with this policy may result in 
 
 ## Expense Report Submission Deadlines
 
-Timely submission of expense reports is mandatory. Please ensure compliance with company policy.
+<h2>Expense Report Submission Deadlines</h2><p>Timely submission of expense reports is crucial for accurate financial tracking. Please ensure that all necessary documents are submitted on or before the deadline.</p>
 

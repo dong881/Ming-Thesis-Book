@@ -67,3 +67,15 @@ Message: feat: add cursor response documentation and implement iPerf/ping prepro
 
 
 <p>Implement the handover process as described in the IEEE paper report.</p>
+
+
+# Guidelines for Collaborative Research
+
+\n## Introduction\nCollaboration is an integral part of research, fostering innovation and progress. This guide outlines the guidelines for collaborative research projects among team members.
+\n### Purpose
+To ensure a smooth and productive collaboration process i.
+
+
+## Key Features
+
+[Feature 1: Brief description\nFeature 2: Brief description\nFeature 3: Brief description]
