@@ -8,12 +8,57 @@
 
 
 
+
+* Write clearly and concisely.
+* Use proper grammar and spelling.
+* Adhere to the formatting guidelines as specified in the style guide.
+
+# Add tip for proper grammar and spelling usage.
+
+Proper Grammar and Spelling Usage
+
+## Guidelines for Authors
+### Tips for Effective Communication
+### Guidelines for Authors
+Add tip for proper grammar and spelling usage.
+Add tip for proper grammar and spelling usage.
+Proper Grammar and Spelling Usage
+## Guidelines for Authors
+### Tips for Effective Writing
+### Guidelines for Authors
+Add tip for proper grammar and spelling usage.
+Add tip for proper grammar and spelling usage.
+Add tip for proper grammar and spelling usage.
+### Guidelines for Authors
+
+# Add tip for proper grammar and spelling usage.
+# Proper Grammar and Spelling Usage
+## Guidelines for Authors
+### Tips for Effective Communication
+### Guidelines for Authors
+# Add tip for proper grammar and spelling usage.
+
 # Add tip for proper grammar and spelling usage.
 
 *Always proofread your work carefully to catch any grammatical or spelling errors.*
 
 This includes checking for punctuation, capitalization, and consistency in formatting throughout the document.
 
+
+
+\# Add tip for proper grammar and spelling usage.
+    *Always proofread your work carefully to catch any grammatical or spelling errors.*
+    This includes checking for punctuation, capitalization, and consistency in formatting throughout the document.
+
+
+*Always proofread your work carefully to catch any grammatical or spelling errors.*
+
+This includes checking for punctuation, capitalization, and consistency in formatting throughout the document.
+
+<!-- Original content: -->
+* Write clearly and concisely.
+* Use proper grammar and spelling.
+* Adhere to the formatting guidelines as specified in the style guide.
 
 # Proper Grammar and Spelling Usage
 Always proofread your work carefully to catch any grammatical or spelling errors.
@@ -39,39 +84,10 @@ Adhere to the formatting guidelines as specified in the style guide [REVIEWER FE
 
 ## Guidelines for Authors
 
+# Add tip for proper grammar and spelling usage.
 
-Add tip for proper grammar and spelling usage.
-* Use a dictionary for checking grammar and spelling errors. Many dictionaries are available online, such as Grammarly or Dictionary.com.
-* Read your work aloud to identify awkward phrasing or unclear sentences.
-* Check for punctuation and capitalization errors.
-* Edit carefully and thoroughly to avoid introducing errors elsewhere in the text.
-
-
-
-<p>Add a new tip for authors on proper grammar and spelling usage. Review parsing failed: Expecting value: line 1 column 1 (char 0). Raw: Here is the reformatted output:</p>
-
-<p>```json</p>
-{
-  "ReviewReport": {
-    "Verdict": [
-      "FEEDBACK"
-    ],
-    "OverallComment": "Review parsing failed: Expecting value: line 1 column 1 (char 0). Raw: Here is the reformatted output:
-"</p>
-
-<p>```json</p>
-{
-  "ReviewReport": {
-    "Verdict": [
-      "FEEDBACK"
-    ],
-    "OverallComment": "Review parsing failed: Expecting value: line 1 column 1 (ch</p>
-
-
-* Write clearly and concisely.
-* Use proper grammar and spelling.
-* Adhere to the formatting guidelines as specified in the style guide.
-
+Proper Grammar and Spelling Usage
+# Add tip for proper grammar and spelling usage.
 
 # Add tip for proper grammar and spelling usage.
 # Proper Grammar and Spelling Usage

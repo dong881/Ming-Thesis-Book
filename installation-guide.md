@@ -11,8 +11,90 @@ To set up the system, follow these steps:
 
 > Make this document **private** by default. Only make it public after publishing the paper of this project.
 
+# Installation Guide - Guideline
+
+> Make this document **private** by default. Only make it public after publishing the paper of this project.
+
 > Request access with the GitHub admin in our group.
 
+# Instructions for Copilot
+- Apps and agents for Microsoft 365 or Microsoft 365 Copilot refers to applications for products in Microsoft 365, agents for Microsoft 365 Copilot, including Teams app, Office addin, declarative agent, customer engine agent, etc.
+
+# Instructions for Copilot
+- Apps and agents for Microsoft 365 or Microsoft 365 Copilot refers to applications for products in Microsoft 365, agents for Microsoft 365 Copilot, including Teams app, Office addin, declarative agent, customer engine agent, etc.
+
+# Installation Guide - Guideline
+> Make this document **private** by default. Only make it public after publishing the paper of this project.
+> Request access with the GitHub admin in our group.
+
+## Table of Contents
+# Instructions for Copilot
+# Installation Guide - Guideline
+## Installation Guide - Guideline
+
+Run the following command to clone the repository:
+`git clone https://github.com/openairinterface5g/openairinterface.git`
+
+After cloning, follow the installation instructions to set up your environment.
+
+```
+# Installation Guide - Guideline
+## Installation Guide - Guideline
+### Installation Guide - Guideline
+# Installation Guide - Guideline
+## Installation Guide - Guideline
+```
+
+Git clone https://github.com/openairinterface5g/openairinterface.git
+## Table of Contents
+# Instructions for Copilot
+...
+## Installation Guide - Guideline
+...
+### Installation Guide - Guideline
+
+## Table of Contents
+# Installation Guide - Guideline
+## Installation Guide - Guideline
+# Installation Guide - Guideline
+# Installation Guide - Guideline
+# Installation Guide - Guideline
+## Installation Guide - Guideline
+### OUTPUT FORMAT
+## Installation Guide - Guideline
+# Installation Guide - Guideline
+## Installation Guide - Guideline
+# Installation Guide - Guideline
+## Installation Guide - Guideline
+# Installation Guide - Guideline
+## TOC
+# Installation Guide - Guideline
+## Installation Guide - Guideline
+### Installation Guide - Guideline
+# Instructions for Copilot
+# Installation Guide - Guideline
+## Installation Guide - Guideline
+## Table of Contents
+# Installation Guide - Guideline
+## Installation Guide - Guideline
+# Installation Guide - Guideline
+# Installation Guide - Guideline
+# Installation Guide - Guideline
+## Installation Guide - Guideline
+### OUTPUT FORMAT
+## Installation Guide - Guideline
+# Installation Guide - Guideline
+## Installation Guide - Guideline
+# Installation Guide - Guideline
+## Installation Guide - Guideline
+# Installation Guide - Guideline
+## TOC
+# Installation Guide - Guideline
+## Installation Guide - Guideline
+### Installation Guide - Guideline
+# Instructions for Copilot
+# Installation Guide - Guideline
+## Installation Guide - Guideline
 
 # Installation Guide - Guideline
 

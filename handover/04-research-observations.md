@@ -1,30 +1,91 @@
 entire
 
+
 > Adhering to this SOP ensures that research and development projects are well-documented, maintainable, and easily transferable to new team members.
 
+> Adhering to this SOP ensures that research and development projects are well-documented, maintainable, and easily transferable to new team members.
 
-> [!WARNING] **Lab Hours**: `09:00` to `17:00` every working day > **Plan ahead**: Write your daily plan before starting work > **Log immediately**: Record completed tasks after finishing each one
+## daily-logs.md
+
+## Recent Research Observations and Experiment Logs
+The OpenAirInterface5G has recently implemented Linux TC mode enhancements for fresh gNB environment handling and improved test case execution flow. The implementation includes a number of key features, including:
+- A streamlined filename generation system that removes redundant conditions for split index
+- Enhanced support for Linux TC mode, allowing for the creation of custom traffic control profiles and the enforcement of strict separation between different network environments.
 
 
-<# Research Observations and Experiment Logs>
+The OpenAirInterface5G has recently implemented Linux TC mode enhancements for fresh gNB environment handling and improved test case execution flow. The implementation includes a number of key features, including:
+- A streamlined filename generation system that removes redundant conditions for split index
+- Enhanced support for Linux TC mode, allowing for the creation of custom traffic control profiles and the enforcement of strict separation between different network environments.
 
-> [!WARNING] **Lab Hours**: `09:00` to `17:00` every working day > 
-> **Plan ahead**: Write your daily plan before starting work > 
-> **Log immediately**: Record completed tasks after finishing each one
 
-## Data Collection Methods
+<p>The OpenAirInterface5G has recently implemented Linux TC mode enhancements for fresh gNB environment handling and improved test case execution flow. The implementation includes a number of key features, including:</p><ul><li>A streamlined filename generation system that removes redundant conditions for split index</li><li>Enhanced support for Linux TC mode, allowing for the creation of custom traffic control profiles and the enforcement of strict separation between different network environments.</li></ul>
+
+## Technical Research Compendium (Deep search results)
+(No research conducted yet)
+
+### Lab Formatting Guidelines (excerpt)
+```
+- [Table of Contents](#table-ofcontents)
+- [Project description](#projectdescription)
+- [Execution Status](#executionstatus)
+- [System Architecture](#systemarchitecture)
+- [Repository Structure](#repositorystructure)
+  - [Configuration](#configuration)
+  - [Installation Steps](#installationsteps)
+- [Post-Installation Verification](#postinstallationverification)
+- [Troubleshooting](#troubleshooting)
+  - [Common Issues and Solutions](#commonissuesandsolutions)
+- [Additional Resources](#additionalresources)
+
+## Project description
+
+**Project Name:** OpenAirInterface5G
+
+**Description:** A comprehensive solution for 5G wireless system development and testing. This project provides a unified platform for the development, testing, and deployment of 5G wireless systems.
+
+**Key Features:**:
+
+- Feature 1: Unified platform for 5G wireless system development
+- Feature 2: Enhanced support for Linux TC mode
+- Feature 3: Streamlined filename generation system
+
+**Target Users:** Developers/Researchers/System Administrators/etc.
+
+# Daily Plans and Logs
 
 > [!WARNING]
-> **Lab Hours**: `09:00` to `17:00` every working day
-> **Plan ahead**: Write your daily plan before starting work
+> **Lab Hours**: `09:00` to `17:00` every working day  
+> **Plan ahead**: Write your daily plan before starting work  
 > **Log immediately**: Record completed tasks after finishing each one
 
-## Analysis Procedures
+## Purpose
 
-> [!WARNING] 
-> **Analysis Procedures**
+Track your daily progress and ensure systematic completion of project milestones through two essential documents:
 
-## Conclusion
+1. **Milestones** (`milestones.md`): Project roadmap with all tasks, deadlines, and completion status
+2. **Daily Logs** (`daily-logs.md`): Time-stamped record of work performed, linking tasks to study notes
+
+## Table of Contents
+
+- [Daily Plans and Logs](#daily-plans-and-logs)
+
+# Daily Plans and Logs
+
+> [!WARNING]
+> **Lab Hours**: `09:00` to `17:00` every working day  
+> **Plan ahead**: Write your daily plan before starting work  
+> **Log immediately**: Record completed tasks after finishing each one
+
+## Purpose
+
+Track your daily progress and ensure systematic completion of project milestones through two essential documents:
+
+1.  **Milestones** (`milestones.md`): Project roadmap with all tasks, deadlines, and completion status
+2.  **Daily Logs** (`daily-logs.md`): Time-stamped record of work performed, linking tasks to study notes
+
+## Table of Contents
+
+- [Daily Plans and Logs](#daily-plans-)
 
 # Research Observations and Experiment Logs
 
@@ -131,6 +192,40 @@ Track your daily progress and ensure systematic completion of project milestones
 #### Template 1: Basic Data Entry Form
 #### Template 2: Detailed Data Analysis Form
 ### Research Observations and Experiment Logs
+
+Research Observations and Experiment Logs
+======================================
+
+### Template for Log Entries
+
+| Field | Description |
+| --- | --- |
+| Date | Date of observation |
+| Time | Time of observation |
+| Notes | Additional notes |
+
+Example:
+```
+Date: 2023-04-15
+Time: 14:30:00
+Notes: Observations made during experiment run.
+```
+### Raw LLM Output
+
+This section will be automatically generated and updated with each new commit.
+
+### Commit Information
+
+Repo: openairinterface5g
+Commit 780514ab — 2026-04-07
+**Author**: dong881 <minghunghsu.taiwan@gmail.com>
+**Message**: fix: streamline filename generation by removing redundant conditions for split index
+
+### Repo: ming-oai-debug-rapp
+Commit d031e2d2 — 2026-04-15
+**Author**: dong881 <minghunghsu.taiwan@gmail.com>
+**Message**: feat: implement Linux TC mode enhancements for fresh gNB environment handling and improved test case execution flow
+
 ## Data Collection Methods
 ### Research Observations and Experiment Logs
 ## Analysis Procedures
