@@ -245,3 +245,6 @@ When **both** are true:
 <img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram"> 
  IG-A --> PD<br>IG-B --> PD <br>IG-C --> PD
 
+
+<img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram">
+

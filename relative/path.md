@@ -10,7 +10,7 @@ This is a new line added to the content \nand this is another one.
 
 ## Exact Heading
 
-\n\nThis is the reformatted content\nwith proper escape sequences\n
+<markdown for this section ONLY>
 
 # This is a comment
 ```
@@ -141,3 +141,8 @@ ssh -o \u201cStrict. Please return ONLY the JSON PatchResponse object.\u002c RUL
 ## Daily Plan & Logs
 
 <p>Update daily plan with new tasks</p>
+
+
+# Microsoft 365 Agents Toolkit (formerly Teams Toolkit)
+
+<markdown for this section ONLY>
