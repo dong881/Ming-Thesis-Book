@@ -29,6 +29,9 @@ The OAI 5G Core architecture provides a standardized interface for managing the 
 
 In this section, we will provide a detailed overview of the OAI 5G RAN/Core architecture and configuration. We will cover topics such as the system components, protocols, procedures, and configuration of the radio access network.
 
+
+OAI 5G RAN/Core architecture and configuration section will be added here. This includes details on the 5G NR radio interface, RLC (Radio Resource Control) configuration, and core network architecture. The section will cover the key components and functionalities of the OAI 5G RAN/Core solution.
+
 # OAI 5G RAN/Core Architecture and Configuration
 
 ## Overview

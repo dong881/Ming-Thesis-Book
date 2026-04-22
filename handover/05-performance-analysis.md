@@ -9,6 +9,14 @@ Developing a document on performance analysis and measurement results, including
 
 The stale HARQ cleanup fix implements a new logic to prevent allocation failures in both DL and UL processes. This enhancement improves the system's reliability by handling HARQ timeouts more efficiently.
 
+
+## Performance Analysis and Measurement Results
+
+Here is a summary of the performance analysis results:
+
+- **RLC Runtime**: The RLC runtime logging has been implemented to track the processing time. This will help in enhancing performance tracking.
+- **IPERF Comparison Mode**: The compare mode color logic update has been applied to prevent accidental assignment of Proposed/red labels.
+
 # Performance Analysis and Measurement Results
 
 This section will cover the development of a document that includes performance analysis and measurement results, including metrics, tools, and methodologies.

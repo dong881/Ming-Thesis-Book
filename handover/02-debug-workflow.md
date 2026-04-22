@@ -10,6 +10,15 @@
 > 
 >
 
+
+## Debugging Workflow
+
+### Debug Workflow, known issues, and troubleshooting steps in this new file.
+
+- **Debug Workflow**: Add a space after the `#` symbol in the section title
+- **Known Issues**: Review the code and ensure it can be parsed correctly.
+- **Troubleshooting Steps**: Ensure the receiver path (UE in DL) did not see UDP payload, even if lower layers show traffic—control socket errors often follow.
+
 # Debugging Workflow
 ## Example Solution
 Add four spaces at the beginning of each line to define indentation.
