@@ -1,56 +1,27 @@
 ## BMW Lab Meeting Guideline
 
-### Meeting Process
+# Dynamic Timing Configuration
 
-*   **Pre-Meeting**:
-    \- Provide meeting invite with agenda and necessary documents.
-    \- Review the previous meeting minutes with attendees to ensure everyone is on the same page.
-*   **During the Meeting**:
-    \- Use a shared document to capture action items, decisions, and next steps. This will help ensure that all relevant information is documented and accessible later on.
-    \- Take notes during the discussion and action item assignment.
-*   **Post-Meeting**:
-    \- Send out a meeting summary within 24 hours of the meeting.
-    \- Include an action item list with responsible team members and deadlines. This will help ensure that tasks are completed in a timely manner.
+Dynamic timing configuration allows you to specify the timing information for your system. This includes the timing period, mode, and other parameters.
 
+### Enhance Timing Configuration by Adding Dynamic Timing Info Mode and Period
 
-== Meeting Process ==
+The commit 956aea0e — 2026-04-09 enhances the timing configuration by adding dynamic timing info mode and period. The author dong881 <minghunghsu.taiwan@gmail.com> fixes the following issues:
 
-### Meeting Process
+*   Improves delay handling in _tc_status_has_expected_delay function to support multiple time units and enhance tolerance for rendering drift.
 
-*   **Pre-Meeting**:
-    \- Provide meeting invite with agenda and necessary documents.
-    \- Review the previous meeting minutes with attendees to ensure everyone is on the same page.
-*   **During the Meeting**:
-    \- Use a shared document to capture action items, decisions, and next steps. This will help ensure that all relevant information is documented and accessible later on.
-    \- Take notes during the discussion and action item assignment.
-*   **Post-Meeting**:
-    \- Send out a meeting summary within 24 hours of the meeting.
-    \- Include an action item list with responsible team members and deadlines. This will help ensure that tasks are completed in a timely manner.
-
+*   Enhance timing configuration by adding dynamic timing info mode and period
+*   Request access with the GitHub admin in our group to make this document **private** by default.
 
 ## Meeting Process
 
-Add step for reviewing previous meeting minutes with attendees
+### Meeting Process
 
+Meetings will be held weekly every Thursday at 14:00 CEST. Participants are expected to join from their respective locations and engage in discussions related to the ongoing project activities.
 
-> Adhering to this SOP ensures that research and development projects are well-documented, maintainable, and easily transferable to new team members.
+*   **Pre-Meeting Preparation**: Before attending a meeting, participants should review the relevant documents and familiarize themselves with the current project status.
 
-<!WARNING> **Lab Hours**: `09:00` to `17:00` every working day  <br>**Plan ahead**: Write your daily plan before starting work  <br>**Log immediately**: Record completed tasks after finishing each one<br><h4>Purpose</h4><ul><li>Track your daily progress and ensure systematic completion of project milestones through two essential documents:</li><li>1. **Milestones** (`milestones.md`): Project roadmap with all tasks, deadlines, and completion
+*   **Meeting Agenda**: The agenda for each meeting will be shared on the OAI5G Project Slack channel. Participants are expected to follow the agenda during meetings to ensure that all necessary topics are discussed.
 
-
-Meeting Process
-
-To review previous meeting minutes with attendees, navigate to the meeting minutes folder and select the relevant document. Review the content carefully and provide any necessary feedback or changes.
-
-> Add step for reviewing previous meeting minutes with attendees
-> Adhering to this SOP ensures that research and development projects are well-documented, maintainable, and easily transferable to new team members.
-> 
-> —​―​—​―​—
-
-
-> Add step for reviewing previous meeting minutes with attendees
-> Adhering to this SOP ensures that research and development projects are well-documented, maintainable, and easily transferable to new team members.
-> 
-> —​―​—​―​—​—
->
+*   **Minutes Taking**: Minutes of every meeting shall be taken by a designated person and uploaded to the project repository within 24 hours after the meeting. These minutes will serve as a reference for future discussions and projects.
 

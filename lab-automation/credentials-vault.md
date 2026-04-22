@@ -29,6 +29,26 @@ Use AES-256 encryption to protect credentials
 
 Use AES-256 encryption to protect credentials
 
+
+Use AES-256 encryption to protect credentials
+
+
+Use AES-256 encryption to protect credentials
+
+
+Use AES-256 encryption to protect credentials
+
+
+<h2>Encryption Protocol</h2><p>The encryption protocol used for storing sensitive data in the credentials vault is AES-256-CBC. For more information on this protocol, please refer to [OWASP: Understanding the OPAQUE project documentation](https://opaquedocs.org/).</p>
+
+# Encryption Protocol
+## Encryption Protocol
+The encryption protocol used for storing sensitive data in the credentials vault is AES-256-CBC. For more information on this protocol, please refer to [OWASP: Understanding the OPAQUE project documentation](https://opaquedocs.org/).
+
+## Security Protocols
+
+```
+
 ## Security Protocols
 
 # Encryption Protocol

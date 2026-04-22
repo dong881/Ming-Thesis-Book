@@ -59,3 +59,12 @@ In order to ensure that your paper is well-written and effectively communicates 
 [REVIEWER FEEDBACK: **Verdict**: FEEDBACK
 **Overall Comment**: Review parsing failed: Expecting value: line 1 column 1 (char 0). Raw: Here is the reformatted output:
 
+
+Add a tip for efficient writing: Use clear and concise language, and avoid unnecessary jargon or technical terms.
+
+
+Add a tip for proper grammar and spelling usage. Use tools like Grammarly or Ginger to help with grammar, punctuation, and spelling.
+
+
+Add a tip for proper grammar and spelling usage, e.g., use Grammarly or other tools to improve your writing.
+

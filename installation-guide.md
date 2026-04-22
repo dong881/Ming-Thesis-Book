@@ -9,55 +9,69 @@ To set up the system, follow these steps:
 
 # Installation Guide - Guideline
 
-<h1 align="center">Installation Guide - Guideline</h1>
-To set up the system, follow these steps:
+> Make this document **private** by default. Only make it public after publishing the paper of this project.
+>
+> Request access with the GitHub admin in our group.
 
-1. Clone the repository using `git clone https://github.com/openairinterface5g/openairinterface.git`.
-2. Run `make setup` to configure the environment and build the necessary components.
-3. Start the system using `./openaircore start`.
-
-
-## Installation Guide - Guideline
-
-<!-- table of contents -->
-
+---
 
 > [!NOTE]
-> Our servers are put in the server room. Please contact the admin for VPN access.
+> **Purpose of Installation, Integration, and User Guide**:
+>
+> - **Installation Guide**: Focuses on setup, configuration, and getting the system running.
+> - **User Guide**: Focuses on how to **use** the system once it's installed and running.
+> - **Project Documentation**: Define `System Architecture` & attach the installation guide link, `use case diagram`, `message-sequence chart (MSC)`, `class diagram`, `flowchart`.
 
-Host: <IP address>
-User: <username>
+Correlation between Installation, User Guides, and Project documentation:
 
-```shell
-Host: <IP address>
-User: <username>
+```mermaid
+graph TD
+
+PD[Project Documentation]
+  subgraph "Component A"
+        IG-A[Installation Guide A]
+        UG-A[User Guide A]
+    end
+
+    subgraph "Component B"
+        IG-B[Installation Guide B]
+        UG-B[User Guide B]
+    end
+
+    subgraph "Component C"
+        IG-C[Installation Guide C]
+        UG-C[User Guide C]
+    end
+
+IG-A --> PD
+IG-B --> PD
+IG-C --> PD
 ```
 
-### OUTPUT FORMAT
-Return ONLY a JSON PatchResponse object. Do NOT return the full file.
-```json
-{
-  "file": "installation-guide.md",
-  "section_heading": "<exact heading string>",
-  "operation": "replace|append|insert_before|insert_after|create",
-  "content": "<markdown content for this section only>",
-  "reason": "<one-line explanation>"
-}
+## Table of Contents
+
+> [!TIP]
+> Generate the Table of Contents automatically using [Markdown All in One extension in VS Code](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one#table-of-contents).
+
+- [Table of Contents](#table-of-contents)
+- [Project description](#project-description)
+- [Execution Status](#execution-status)
+- [System Architecture](#system-architecture)
+- [Repository Structure](#repository-st
 ```
 
-## Installation Guide - Guideline
-
-<!-- TOC start -->
-
-
-| App Manifest                            | Teams app manifest     | Describes app capabilities.        |
-| Microsoft 365 Agents Playground         | Test Tool              | Test Environment.          |
-| `m365agents.yml`                        | `teamsapp.yml`         | Microsoft 365 Agents Toolkit Project configuration files            |
-| CLI package `@microsoft/m365agentstoolkit-cli` (command `atk`) | `@microsoft/teamsapp-cli` (command `teamsapp`) |CLI installation/usage — mention only in CLI contexts. |
-
-> **Rephrase guidance:**  
-> - Use the new names by default.  
-> - Explain the rebranding briefly if it helps the user’s understanding.  
+> [!WARNING]
+> Update the installation guide with the latest steps and instructions. Fix: enhance timing configuration by adding dynamic timing info mode and period.
+>
+> Repo: openairinterface5g
+>
+> Commit 956aea0e — 2026-04-09
+>
+> **Author**: dong881 <minghunghsu.taiwan@gmail.com>
+>
+> **Message**: fix: enhance timing configuration by adding dynamic timing info mode and period
+>
+> **Files changed**: nfapi/oai_integration/nfapi_vnf.c
 
 # Instructions for Copilot
 - Apps and agents for Microsoft 365 or Microsoft 365 Copilot refers to applications for products in Microsoft 365, agents for Microsoft 365 Copilot, including Teams app, Office addin, declarative agent, customer engine agent, etc.
@@ -68,11 +82,50 @@ Return ONLY a JSON PatchResponse object. Do NOT return the full file.
 
 # Installation Guide - Guideline
 ## Installation Guide - Guideline
-<!-- TOC end -->
 
-<!-- original section content -->
+Make this document **private** by default. Only make it public after publishing the paper of this project.
 
-(Section 'TOC' not found in this file)
+> Request access with the GitHub admin in our group.
+
+
+---
+> [!NOTE]
+> **Purpose of Installation, Integration, and User Guide**:
+>
+> - **Installation Guide**: Focuses on setup, configuration, and getting the system running.
+> - **User Guide**: Focuses on how to **use** the system once it's installed and running.
+> - **Project Documentation**: Define `System Architecture` & attach the installation guide link, `use case diagram`, `message-sequence chart (MSC)`, `class diagram`, `flowchart`. 
+
+Correlation between Installation, User Guides, and Project documentation:
+
+```mermaid
+graph TD
+
+PD[Project Documentation]
+  subgraph "Component A"
+        IG-A[Installation Guide A]
+        UG-A[User Guide A]
+    end
+
+    subgraph "Component B"
+        IG-B[Installation Guide B]
+        UG-B[User Guide B]
+    end
+
+    subgraph "Component C"
+        IG-C[Installation Guide C]
+        UG-C[User Guide C]
+    end
+
+group IG-A --> PD 
+ group IG-B --> PD 
+ group IG-C --> PD 
+```
+
+## Table of Contents 
+
+> [!TIP]
+> Generate the Table of Contents automatically using [Markdown All in One extension in VS Code](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one#table-of-contents).
 
 # Installation Guide - Guideline
 
