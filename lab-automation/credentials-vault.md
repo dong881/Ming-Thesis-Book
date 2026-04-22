@@ -231,3 +231,10 @@ Series line width and marker sizes in binary charts for improved visibility and 
 | CLI package \@microsoft/m365agentstoolkit-cli\ (command \atk\) | \@microsoft/teamsapp-cli\ (command \teamsapp\) |CLI installation/usage — mention only in CLI contexts. |
 \n> **Rephrase guidance:**   \n  - Use the new names by default.   \n  - Explain the rebranding briefly if it helps the user’s understanding.   \n
 # Instructions for Copilot   - Apps and agents for Microsoft 365 or Microsoft 365 Copilot refers to applications for products in Microsoft 365, agents for Microsoft 365 Copilot, including Teams app, Office addin, declarative agent, customer engine agent, etc.   - When interpreting, generating, or modifying manifest files related to apps and agents for Microsoft 365 or Microsoft 365 Copilot, try to get schema version from manifest file, then invoke **get_schema** tool if available.   - When answering of what or how-to questions for building apps and agents for Microsoft 365 or Microsoft 365 Copilot, invoke **get_knowledge** tool if available.   - Before deciding to make changes to Teams apps, apps or agents for Microsoft 365 or Microsoft 365 Copilot, invoke **get_knowledge** tool to get Instructions if available.   - When troubleshooting issues\n
+
+
+<exact heading string>
+
+> (No research conducted yet)
+
+\"Technical Research Compendium (Deep search results)\".

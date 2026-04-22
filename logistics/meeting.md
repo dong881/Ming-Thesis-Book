@@ -1,6 +1,6 @@
 ## BMW Lab Meeting Guideline
 
-<html><body>IG-A --> PD<br>IG-B --> PD <br>IG-C --> PD<br><br><img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram"><br><br>IG-A --> PD<br>IG-B --> PD <br>IG-C --> PD<br><br><img src="https://example.com/TEEP-Preparation-Overview.png"></body></html>
+<html><body>IG-A --> PD<br>IG-B --> PD <br>IG-C --> PD<br><br><img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram"><br><br>IG-A --> PD<br>IG-B --> PD < br>IG-C --> PD<br><br><img src="https://example.com/TEEP-Preparation-Overview.png"></body></html>
 
 # Dynamic Timing Configuration
 

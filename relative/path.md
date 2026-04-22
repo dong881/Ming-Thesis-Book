@@ -4,9 +4,23 @@
 New line with \nnewline
 and \another newline\.
 
+This is a new line added to the content \nand this is another one.
+
 ## Exact Heading
 
 \\nBased on the provided information, I will attempt to answer your question.\\nHowever, I don't see a question in your text. The text seems to be a collection of various items such as commit messages, code changes, research results, and formatting guidelines for GitHub Copilot instructions.
+
+
+\n\nThis is a line of code.
+
+And here's another one.
+
+
+This is a new section
+### New Subheading
+
+
+\n### Updated Section\nThis is the updated section with new information.
 
 ## Improved Code
 

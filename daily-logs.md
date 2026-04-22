@@ -334,3 +334,12 @@ Lab Formatting Guidelines (excerpt)
 > > ```
 > > 
 >
+
+
+Daily Activities
+
+<ul>
+  <li>Task 1: Completed</li>
+  <li>Task 2: In Progress</li>
+  <li>Task 3: Done</li>
+</ul>
