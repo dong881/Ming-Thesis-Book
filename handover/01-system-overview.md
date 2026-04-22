@@ -71,6 +71,9 @@ In this section, we will discuss the key components of the 5G RAN Core architect
 
 For more information, please refer to the [OpenAirInterface 5G RAN Core Architecture](https://openairinterface.org/wiki/index.php/5G_RAN_Core_Architecture) documentation.
 
+
+The OpenAirInterface repository provides detailed information on the 5G RAN/Core architecture and configuration. It is a valuable resource for researchers and developers working in this field.
+
 # OAI 5G RAN/Core Architecture and Configuration: The section title is missing a space between the hash symbol and the text.
 
 <h2> OAI 5G RAN/Core Architecture and Configuration: The section title is missing a space between the hash symbol and the text.</h2>
@@ -79,6 +82,12 @@ For more information, please refer to the [OpenAirInterface 5G RAN Core Architec
 
 * **Radio Unit (RU):** The RU is responsible for transmitting and receiving data to/from the base station. It consists of a transceiver and a processing unit.
 * **Distributed Unit (DU):** The DU is responsible for processing and forwarding data between the RU and the central unit. It consists of a processing unit and a memory module.
+
+
+<p>The OpenAirInterface (OAI) 5G RAN/Core architecture is designed to provide a comprehensive platform for the development and testing of 5G wireless systems. The architecture consists of several key components, including the radio unit (RU), the distributed unit (DU), and the central unit (CU).</p><p>## Key Components</p><p>* Radio Unit (RU):* The RU is responsible for transmitting and receiving data to/from the base station. It consists of a transceiver and a processing unit.* Distributed Unit (DU):* The DU is responsible for processing and forwarding data between the RU and the central unit. It consists of a processing unit and a memory module.</p><p>The OpenAirInterface (OAI) 5G RAN/Core architecture requires careful configuration to ensure optimal performance. This includes configuring the radio frequency (RF) parameters, setting up the network protocol stack, and implementing the necessary security measures.</p><p> OAI 5G RAN/Core architecture and configuration can be found in the BMW-ECE Lab resources. For more information, refer to the official documentation.</p><p>The section will outline the key components and configurations of the OAI 5G RAN/Core architecture, including the NR (New Radio) physical layer and the control and user plane. Additionally, it will cover the configuration options and parameters that can be used to optimize the performance of the system.</p><p>The BMW-ECE Lab provides a comprehensive set of resources for the OAI 5G RAN/Core architecture, including documentation, simulations, and test cases. These resources can be used to help engineers design, develop, and test their systems.</p><p>By following this section, you will gain a deeper understanding of the OAI 5G RAN/Core arc</p>
+
+
+<p>The OpenAirInterface (OAI) 5G RAN/Core architecture is designed to provide a comprehensive platform for the development and testing of 5G wireless systems. The architecture consists of several key components, including the radio unit (RU), the distributed unit (DU), and the central unit (CU).</p><p>## Key Components</p><p>* Radio Unit (RU):* The RU is responsible for transmitting and receiving data to/from the base station. It consists of a transceiver and a processing unit.* Distributed Unit (DU):* The DU is responsible for processing and forwarding data between the RU and the central unit. It consists of a processing unit and a memory module.</p>
 
 # OAI 5G RAN/Core Architecture and Configuration
 ## Key Components
