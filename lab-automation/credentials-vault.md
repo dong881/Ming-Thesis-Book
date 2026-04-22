@@ -47,6 +47,9 @@ By following these guidelines, you can maintain a secure credentials vault that 
 
 <p>The private key should be stored in an HSM or TPM. This ensures that only authorized personnel have access to the key and can use it to decrypt sensitive data.</p>
 
+
+\u003e [ ] 5.2.5 \u005bThesis book\u005b](Overleaf link) (full thesis document in Overleaf, ready for submission)
+
 # Encryption Protocol<br>## AES-256-CBC<br>### AES-256-CBC encryption protocol provides confidentiality and integrity protection. For more information, refer to [OWASP: Understanding the OPAQUE project documentation](https://opaquedocs.org/).
 
 # Encryption Protocol<br>## Encryption Protocol<br>### Security Protocols<br>The encryption protocol used for storing sensitive data in the credentials vault is AES-256-CBC. For more information on this protocol, please refer to [OWASP: Understanding the OPAQUE project documentation](https://opaquedocs.org/).

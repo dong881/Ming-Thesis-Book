@@ -279,3 +279,9 @@ When **both** are true:
 — `env_cfg.__tc_cases__` is non-empty (TC sweep enabled),
 + single-dataset plotting (existing behavior), and
 + compare-mode plotting with **multiple datasets overlaid** on the same chart template.</p>
+
+
+# <exact heading string> (e.g. "Timing Window Limitations")
+
+\n## Timing Window Limitations\n
+The timing window limit is set to prevent the system from ad. Please return ONLY the JSON PatchResponse object.
