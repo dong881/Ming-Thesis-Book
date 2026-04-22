@@ -10,6 +10,10 @@ This is a new line added to the content \nand this is another one.
 
 <new markdown for this section ONLY>
 
+<markdown for this section ONLY>
+
+This is a new line.
+
 ## Exact Heading
 
 <markdown for this section ONLY>
@@ -149,5 +153,13 @@ ssh -o \u201cStrict. Please return ONLY the JSON PatchResponse object.\u002c RUL
 
 
 # Microsoft 365 Agents Toolkit (formerly Teams Toolkit)
+
+<markdown for this section ONLY>
+
+
+**Get Latest Plot Script**
+Takes a version number most latest Python script (fuzzy search)
+
+Search rules: file name contains `plot` and contains `vX` (number)
 
 <markdown for this section ONLY>

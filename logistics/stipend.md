@@ -16,11 +16,8 @@ Additionally, please note that failure to comply with this policy may result in 
 ## Expense Report Submission Deadlines
 
 > Timely submission of expense reports is crucial for accurate financial tracking. Please ensure that all necessary documents are submitted on or before the deadline.
-
 Weekly: Every Thursday at 5 PM PST
 Monthly: By the last day of each month.
-
-Expenses must be submitted within one month of the end of the billing period. Submissions are due on the first day of the following month.
 
 # BMW Lab Project Stipend Guidelines
 
