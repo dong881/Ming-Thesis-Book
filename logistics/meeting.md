@@ -237,10 +237,7 @@ When **both** are true:
 
 ## IG-A --> PD<br>IG-B --> PD <br>IG-C --> PD
 
-### TEEP Preparation Overview
-Diagram and explanation of TEEP preparation process will be presented in this session.
+## TEEP Preparation Overview
 
-| Diagram | Description |
-| --- | --- |
-| TEEP Preparation Flowchart | Step-by-step guide to the TEEP preparation process. |
-| TEEP Preparation Table | Summary table of key parameters for TEEP preparation.
+<html><body>IG-A --> PD<br>IG-B --> PD <br>IG-C --> PD<br><br><img src="https://example.com/TEEP-Preparation-Overview.png" alt="TEEP Preparation Overview Diagram"><br><br>IG-A --> PD<br>IG-B --> PD < br>IG-C --> PD<br><br><img src="https://example.com/TEEP-Preparation-Overview.png"></body></html>
+
