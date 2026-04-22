@@ -39,6 +39,14 @@ OAI 5G RAN/Core architecture and configuration section will be added here. This 
 
 <p>enhance timing optimization with VNF-PNF latency logging and jitter control</p><p>The section title is missing a space between the hash symbol and the text. → Add a space after the `#` symbol in the section title</p>
 
+
+OAI 5G RAN/Core architecture and configuration
+=============================================
+
+The OpenAirInterface (OAI) is a software framework that provides the necessary tools for the development of Software Radio Systems. It supports a wide range of features and functionalities, including device management, network management, and radio resource management.
+
+In this section, we will cover the OAI 5G RAN/Core architecture and configuration, which includes the key components and their interactions.
+
 # OAI 5G RAN/Core Architecture and Configuration
 
 ## Overview

@@ -595,3 +595,40 @@ Technical Research Compendium (Deep search results)
 ## Technical Research Compendium (Deep search results)
 
 {"research":"Technical Research Compendium (Deep search results)","markdown":true,"doc_type":"compendium","text_color":"blue","link_color":"red"}
+
+
+entire
+
+## Technical Research Compendium (Deep search results)
+
+(No research conducted yet)
+
+### Lab Formatting Guidelines (excerpt)
+```
+**Application Deadline:** The date before the registration deadline for the next semester. (Please follow the school calendar.)
+
+- [ ] 6.11 Upload digital thesis and submit one printed copy to the library
+- [ ] 6.12 Download and complete the [School Leaving Application Form](https://www.academic.ntust.edu.tw/p/412-1048-8234.php?Lang=en) via the Student Information System
+- [ ] 6.13 Submit a soft and yellow cover of the thesis to the department office
+- [ ] 6.14 Submit a printed copy of the thesis and the signed e-Thesis Authorization Form (NTUST & NCL) to the library
+- [ ] 6.15 Complete all steps in the School Leaving Application Form and collect your diploma at the Office of Graduate Studies
+
+---
+> Adhering to this SOP ensures that research and development projects are well-documented, maintainable, and easily transferable to new team members.
+
+## daily-logs.md
+# Daily Plans and Logs
+
+> [!WARNING]
+> **Lab Hours**: `09:00` to `17:00` every working day  
+> **Plan ahead**: Write your daily plan before starting work  
+> **Log immediately**: Record completed tasks after finishing each one
+
+## Purpose
+Track your daily progress and ensure systematic completion of project milestones through two essential documents:
+1. **Milestones** (`milestones.md`): Project roadmap with all tasks, deadlines, and completion status
+2. **Daily Logs** (`daily-logs.md`): Time-stamped record of work performed, linking tasks to study notes
+
+## Table of Contents
+- [Daily Plans and Logs](#daily-plans-
+```

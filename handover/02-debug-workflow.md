@@ -251,14 +251,7 @@ To troubleshoot issues with the debugging workflow, follow these steps:
 
 ## Debugging Workflow: The section title is missing a space between the hash symbol and the text.
 
-Debugging Workflow
----------------------
-### Issues
-#### Stale HARQ process cleanup
-The stale HARQ process cleanup for DL and UL processes is not implemented correctly. This can cause allocation failures.
-### Duplicate lines with the same text
-There are duplicate lines with the same text in the debug workflow section.
-
+<p>Update debug workflow, known issues, and troubleshooting steps with recent reviewer feedback.</p><h2 id="Debugging-Workflow:"></h2>
 
 ## Table of Contents
 

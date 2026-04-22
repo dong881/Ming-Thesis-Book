@@ -345,3 +345,8 @@ This Standard Operating Procedure (SOP) outlines the requirements and best pract
 <p id="2-project-repository-standard">2. Project Repository Standard</p>
 
 <p id="3-documentation">3.</p><h1 id="4-research-tasks">4. Research Tasks</h1>
+
+
+# Lab SOP Compliance
+
+<h2>Lab SOP Compliance</h2><p>Ensure all experiments comply with standard operating procedures (SOPs) to maintain lab integrity and reproducibility. Refer to the OAI 5G RAN/Core architecture documentation for compliance guidelines.</p>
