@@ -350,3 +350,8 @@ This Standard Operating Procedure (SOP) outlines the requirements and best pract
 # Lab SOP Compliance
 
 <h2>Lab SOP Compliance</h2><p>Ensure all experiments comply with standard operating procedures (SOPs) to maintain lab integrity and reproducibility. Refer to the OAI 5G RAN/Core architecture documentation for compliance guidelines.</p>
+
+
+## Lab SOP compliance guidelines to the System Handover Manual & Research Notes
+
+The VNF timing thread runs at OAI_PRIORITY_RT, driven by clock_nanosleep(TIMER_ABSTIME), with a 5-step loop: sleep until next_slot_time, apply slot_adjustment from UL node sync, update sfn/slot, send periodic DL node sync, call phy_nr_slot_indication. The adaptive control loop gradually decays and applies correction via pending_us so the VNF sleeps slightly less and sends packets earlier.

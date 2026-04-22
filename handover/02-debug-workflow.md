@@ -149,29 +149,11 @@ Create `./milestones.md` in your project repository.
 - [x] [1.1 Task Title](https://github.com/bmw-ece-ntust/<repo>/blob/<7-digit commit hash>/<study-note>.md#<task-section>)
 - [x] [1.2 Task Title](https://github.com/bmw-ece-ntust/<repo>/blob/<7-digit commit hash>/<study-note>.md#<task-section>)
 
-# Debugging Workflow:
-## Table of Contents
-### Daily log workflow diagram
-![Daily log workflow diagram](./assets/daily-log.png)
+# Debugging Workflow: 
 
+<## Debugging Workflow: The section title is missing a space between the hash symbol and the text. The reviewer could not parse its own output. The table of contents is missing a closing `##` header after the table of contents.
 
-## Known Issues and Troubleshooting Steps
-
-### Duplicate Lines with the Same Text
-
-*   Remove duplicate lines by reviewing the content and removing any identical lines.
-*   Verify that all necessary information is included in the document.
-
-### PNF Message Age and Stale Segment Metrics
-
-*   Ensure that the PNF message age and stale segment metrics are recorded correctly.
-*   Review the code to ensure it can be parsed correctly, following the fix provided by dong881 <minghunghsu.taiwan@gmail.com> (commit 4439a580).
-*   Verify that the table of contents is accurate and complete.
-
-### Missing Closing ## Header After Table of Contents
-
-*   Add a closing `##` header after the table of contents to ensure proper formatting.
-*   Review the code to confirm that this change does not affect functionality.
+Add a space after the `#` symbol in the section title, ensure the table of contents has a closing `##` header, and review the code to ensure it can be parsed correctly.
 
 # Debugging Workflow:
 ## Table of Contents

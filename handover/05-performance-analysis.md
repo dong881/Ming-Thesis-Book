@@ -424,3 +424,25 @@ The manual performance analysis is a crucial step in ensuring the reliability an
 > Performance Analysis and Measurement Results
 
 The BMW-ECE Lab documentation provides guidance on performance analysis and measurement results for 5G systems. This section will outline the key metrics and methodologies used to evaluate system performance.
+
+
+## Introduction to Performance Analysis and Measurement Results
+
+Introduce a dedicated real-time VNF timing thread and an adaptive slot sleep adjustment mechanism based on P7 timing_info feedback. vnf_timing_thread (nfapi_vnf.c, vnf_p7.c): - Runs at OAI_PRIORITY_RT, driven by clock_nanosleep(TIMER_ABSTIME) - Per-slot 5-step loop: sleep until next_slot_time, apply slot_adjustment from UL node sync, update sfn/slot, send periodic DL node sync, call phy_nr_slot_indication
+- Three behind-schedule cases:
+  SKIP  : execution > 1 slot late -> skip ahead, reset next_slot_time
+  BORROW: partial late -> accumulate into pending_us time-bank
+  REPAY : enough slack -> repay pending_us up to (remaining - 50) us
+-vnfapi_vnf.c: threadCreate for vnf_timing_thread in configure_nr_p7_vnf
+handle_dynamic_timing_info / vnf_p7_convergence_optimization (vnf_p7.c):
+- vnf_p7_extract_timing_info: extract max_late per slot from timing_info using a SLOT_ARRAY_SIZE circular slot history buffer
+- vnf_p7_convergence_optimization: peak-hold envelope tracks worst-case delay per slot; gradually decays; applies correction via pending_us so VNF sleeps slightly less and sends packets earlier
+-handle_dynamic_timing_info: entry point called from vnf_nr_handle_timing_info to drive the adaptive control loop
+-vnf_p7.h additions:
+- next_slot_time, slot_duration_us, running, thread, mutex (timing thread)
+- pending_us, time_debt_us, timing_deficit_us (time-bank)
+- sleep_baseline_us, peak_envelope_us, baseline_envelope_us, decay_counter
+- slot_history[], margin_tolerance_us, jitter_ewma_us
+- exec_time_ewma_us, exec_time_peak_us, dynamic_min_sleep_us
+- vnf_timing_stats_t struct and function declarations
+-vnf_nr_handle_timing_info: call handle_dynamic_timing_info with the decoded timing_info indication

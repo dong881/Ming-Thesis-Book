@@ -252,3 +252,13 @@ Use this mapping to know the current vs. former names—so you can correctly int
 > **Rephrase guidance:**  
 > - Use the new names by default.  
 > - Explain the rebranding briefly if it helps the user’s understanding.
+
+
+## Exact Heading
+
+<markdown for this section ONLY>
+
+
+Microsoft 365 Agents Toolkit has been rebranded, and users may still use either name.
+
+Use this mapping to know the current vs. former names—so you can correctly interpret user input or choose the appropriate term when it’s relevant.
