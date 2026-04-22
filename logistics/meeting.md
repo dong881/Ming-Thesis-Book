@@ -155,3 +155,24 @@ raw_value = signed 64-bit
 sfn = (raw_value >> 48) & 0xFFFF
 slot = (raw_value >> 32) & 0xFFFF
 payload = (int32_t)(raw_value & 0xFFFFFFFF)
+
+
+Dynamic Config and SLOT_AHEAD Parameter
+
+> ### Dynamic Config and SLOT_AHEAD Parameter
+>
+> The SLOT_AHEAD parameter is used to pass a value with the VNF for dynamic config.
+>
+> It must be passed as a command line argument when starting the VNF.
+>
+> The default value of SLOT_AHEAD is 8, but it can be modified according to the specific use case.
+
+
+2. Lab Formatting Guidelines (excerpt)
+
+1. [Milestone 1: <Milestone Title>](<GitHub Plan Link>)
+
+**Daily Logs:**
+- `hh:mm–hh:mm`: [1.1 <Task 1 Title>](<GitHub Task Link>)
+- `hh:mm–hh:mm`: [1.2 <Task 2 Title>](<GitHub Task Link>)
+- `hh:mm–hh:mm`: [1.m <Task m Title>](<GitHub Task Link>)

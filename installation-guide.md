@@ -9,6 +9,14 @@
 > Make this document **private** by default. Only make it public after publishing the paper of this project.
 
 ## Table of Contents
+
+> [!CAUTION]
+> Make this document **private** by default. Only make it public after publishing the paper of this project.
+
+> Request access with the GitHub admin in our group.
+
+# table-of-contents
+
 # Installation Guide - Guideline
 
 # Installation Guide - Guideline
@@ -245,6 +253,18 @@ Git clone https://github.com/openairinterface5g/openairinterface.git
 
 <Installation Guide - Guideline>
 
+
+<h1 align="center">Installation Guide - Guideline</h1>
+
+> [!CAUTION]
+> Make this document **private** by default. Only make it public after publishing the paper of this project.
+
+> Request access with the GitHub admin in our group.
+
+<h2>Table of Contents</h2>
+
+# Installation Guide - Guideline
+
 # Installation Guide - Guideline
 Run the following command to clone the repository:
 
@@ -268,6 +288,54 @@ After cloning, follow the installation instructions to set up your environment.
 > Make this document **private** by default. Only make it public after publishing the paper of this project.
 
 ## Table of Contents
+
+<h1 align="center">Installation Guide - Guideline</h1>
+
+> [!NOTE]
+> Our servers are put in the server room. Please contact the admin for VPN access.
+
+Host: <IP address>
+User: <username>
+
+
+
+
+# Project description
+<p>
+**Project Name:** \[Replace with actual project name]
+
+**Description:** A comprehensive solution for \[specific use case]. This project provides \[key functionality] and enables users to \[main benefits].
+
+**Key Features:**
+- Feature 1: \[Brief description]
+- Feature 2: \[Brief description]
+- Feature 3: \[Brief description]
+
+**Target Users:** \[Developers/Researchers/System Administrators/etc.]
+# Access Method (if any)
+
+> [!NOTE]
+> Our servers are put in the server room. Please contact the admin for VPN access.
+
+Host: <IP address>
+User: <username>
+
+
+
+
+### OUTPUT FORMAT
+Return ONLY a JSON PatchResponse object. Do NOT return the full file.
+```json
+{
+  "file": "installation-guide.md",
+  "section_heading": "> \[!CAUTION] Make this document **private** by default. Only make it public after publishing the paper of this project.",
+  "operation": "append",
+  "content": "<h1 align="center">Installation Guide - Guideline</h1>
+\n
+> [!NOTE]\n> Our servers are put in the server room. Please contact the admin for VPN access.
+\nHost: <IP address>\nUser: <username>\n\n\n\n\n### OUTPUT FORMAT\nReturn ONLY a JSON PatchResponse object. Do NOT return the full file.
+```
+
 # Installation Guide - Guideline
 
 
