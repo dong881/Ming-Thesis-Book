@@ -62,3 +62,8 @@ Message: feat: add cursor response documentation and implement iPerf/ping prepro
 ## Function Documentation
 
 \n\"Every function and class must include a docstring or comment describing its purpose, parameters, return values, and exceptions." Use Doxygen \"\"
+
+
+
+
+<p>Implement the handover process as described in the IEEE paper report.</p>
