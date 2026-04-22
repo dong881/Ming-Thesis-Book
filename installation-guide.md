@@ -56,22 +56,11 @@ IG-C --> PD
 - [Table of Contents](#table-of-contents)
 - [Project description](#project-description)
 - [Execution Status](#execution-status)
-- [System Architecture](#system-architecture)
-- [Repository Structure](#repository-st
-```
-
-> [!WARNING]
-> Update the installation guide with the latest steps and instructions. Fix: enhance timing configuration by adding dynamic timing info mode and period.
->
-> Repo: openairinterface5g
->
-> Commit 956aea0e — 2026-04-09
->
-> **Author**: dong881 <minghunghsu.taiwan@gmail.com>
->
-> **Message**: fix: enhance timing configuration by adding dynamic timing info mode and period
->
-> **Files changed**: nfapi/oai_integration/nfapi_vnf.c
+  - [System Architecture](#system-architecture)
+  - [Repository Structure](#repository-structure)    - [Configuration](#configuration)
+    - [Installation Steps](#installation-steps)
+- [Post-Installation Verification](#post-installation-verification)
+- [Troubleshooting](#troubleshooting)    - [Common Issues and Solutions](#common-issues-and-solutions)
 
 # Instructions for Copilot
 - Apps and agents for Microsoft 365 or Microsoft 365 Copilot refers to applications for products in Microsoft 365, agents for Microsoft 365 Copilot, including Teams app, Office addin, declarative agent, customer engine agent, etc.
@@ -83,44 +72,13 @@ IG-C --> PD
 # Installation Guide - Guideline
 ## Installation Guide - Guideline
 
-Make this document **private** by default. Only make it public after publishing the paper of this project.
+<h1 align="center">Installation Guide - Guideline</h1>
 
-> Request access with the GitHub admin in our group.
+To set up the system, follow these steps:
 
-
----
-> [!NOTE]
-> **Purpose of Installation, Integration, and User Guide**:
->
-> - **Installation Guide**: Focuses on setup, configuration, and getting the system running.
-> - **User Guide**: Focuses on how to **use** the system once it's installed and running.
-> - **Project Documentation**: Define `System Architecture` & attach the installation guide link, `use case diagram`, `message-sequence chart (MSC)`, `class diagram`, `flowchart`. 
-
-Correlation between Installation, User Guides, and Project documentation:
-
-```mermaid
-graph TD
-
-PD[Project Documentation]
-  subgraph "Component A"
-        IG-A[Installation Guide A]
-        UG-A[User Guide A]
-    end
-
-    subgraph "Component B"
-        IG-B[Installation Guide B]
-        UG-B[User Guide B]
-    end
-
-    subgraph "Component C"
-        IG-C[Installation Guide C]
-        UG-C[User Guide C]
-    end
-
-group IG-A --> PD 
- group IG-B --> PD 
- group IG-C --> PD 
-```
+1. Clone the repository using `git clone https://github.com/openairinterface5g/openairinterface.git`.
+2. Run `make setup` to configure the environment and build the necessary components.
+3. Start the system using `./openaircore start`.
 
 ## Table of Contents 
 

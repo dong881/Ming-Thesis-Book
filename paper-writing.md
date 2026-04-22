@@ -68,3 +68,12 @@ Add a tip for proper grammar and spelling usage. Use tools like Grammarly or Gin
 
 Add a tip for proper grammar and spelling usage, e.g., use Grammarly or other tools to improve your writing.
 
+# Tips for Effective Writing## Guidelines for Authors
+
+<tip for proper grammar and spelling usage>
+
+- Double-check your grammar, punctuation, and spelling before submitting your work.
+- Read your content aloud to ensure it sounds natural and clear.
+
+Add tip: Proper grammar and spelling usage is crucial in academic writing. Always proofread your work multiple times to ensure accuracy and clarity.
+
