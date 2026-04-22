@@ -1,5 +1,6 @@
 # Debugging Workflow
 
+Develop a detailed debug workflow, including known issues, troubleshooting steps, and error handling procedures.
 
 # Debugging Workflow:
 ## Table of Contents
