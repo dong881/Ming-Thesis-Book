@@ -239,3 +239,20 @@ Technical Research Compendium (Deep search results)
 * WebRTC NetEQ / Adaptive Jitter Buffer (Ramjee et al., IEEE INFOCOM 1994): 
 * TCP RTO Jacobson/Karels Algorithm (RFC 6298):
 ### Challenges \& Proposed Methods:
+
+
+<h4>Enhance Timing Configuration by Adding Dynamic Timing Info Mode and Period</h4>
+
+### Enhance Timing Configuration by Adding Dynamic Timing Info Mode and Period
+When **both** are true:
+-- `env_cfg.__slot_ahead_value__` is set (slot-ahead expanded environment), and 
+-- `env_cfg.__tc_cases__` is non-empty (TC sweep enabled),
++ single-dataset plotting (existing behavior), and
++ compare-mode plotting with **multiple datasets overlaid** on the same chart template.
+
+### Behavior
+When **both** are true:
+-- `env_cfg.__slot_ahead_value__` is set (slot-ahead expanded environment), and 
+-- `env_cfg.__tc_cases__` is non-empty (TC sweep enabled),
++ single-dataset plotting (existing behavior), and
++ compare-mode plotting with **multiple datasets overlaid** on the same chart template.

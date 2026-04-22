@@ -44,6 +44,9 @@ By following these guidelines, you can maintain a secure credentials vault that 
 
 ### Best Practices
 ### Best Practices
+
+<h3>Encrypting Credentials using AES-256-CBC</h3><p>Use AES-256-CBC to protect stored credentials. Generate a new key pair using a secure random number generator and store the private key securely, such as in a Hardware Security Module (HSM) or a Trusted Platform Module (TPM).</p><p>For more information on this protocol, please refer to [OWASP: Understanding the OPAQUE project documentation](https://opaquedocs.org/).<br></p>
+
 # Encryption Protocol<br>## AES-256-CBC<br>### AES-256-CBC encryption protocol provides confidentiality and integrity protection. For more information, refer to [OWASP: Understanding the OPAQUE project documentation](https://opaquedocs.org/).
 ### Key Generation<br>Generate a new key pair using a secure random number generator. The private key should be stored securely, such as in a Hardware Security Module (HSM) or a Trusted Platform Module (TPM).
 

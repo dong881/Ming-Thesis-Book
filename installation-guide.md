@@ -354,3 +354,12 @@ Return ONLY a JSON PatchResponse object. Do NOT return the full file.
 
 Make the Installation Guide public after publishing the paper, as per reviewer feedback.
 Refer to <a href="https://www.example.com/paper" target="_blank">Paper for details.
+
+
+TOC
+
+## Additional Sections
+
+This document includes the following additional sections:
+* Technical Research Compendium (Deep search results)
+* Lab Formatting Guidelines (excerpt)
