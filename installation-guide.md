@@ -32,12 +32,10 @@ To set up the system, follow these steps:
 # Installation Guide - Guideline
 ## Installation Guide - Guideline
 
-Run the following command to clone the repository:
-`git clone https://github.com/openairinterface5g/openairinterface.git`
+> Make this document **private** by default. Only make it public after publishing the paper of this project.
 
-After cloning, follow the installation instructions to set up your environment.
+> Request access with the GitHub admin in our group.
 
-```
 # Installation Guide - Guideline
 ## Installation Guide - Guideline
 ### Installation Guide - Guideline
@@ -214,3 +212,26 @@ Git clone https://github.com/openairinterface5g/openairinterface.git
 > Make this document **private** by default. Only make it public after publishing the paper of this project.
 
 > Request access with the GitHub admin in our group.
+
+
+== Dynamic Timing Info Mode and Period:
+
+> Make sure you have the latest timing window and the dynamic timing info mode on. <br> > Update your configuration to include this feature.
+
+
+<Installation Guide - Guideline>
+
+# Installation Guide - Guideline
+Run the following command to clone the repository:
+
+`git clone https://github.com/openairinterface5g/openairinterface.git`
+
+After cloning, follow the installation instructions to set up your environment.
+
+## Table of Contents
+# Instructions for Copilot...
+...
+## Installation Guide - Guideline
+...
+### Installation Guide - Guideline
+...

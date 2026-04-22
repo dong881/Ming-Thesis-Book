@@ -15,15 +15,23 @@
 
 
 # Add tip for proper grammar and spelling usage.
-## Guidelines for Authors
 
-* Write clearly and concisely.
-* Use proper grammar and spelling.
-* Adhere to the formatting guidelines as specified in the style guide.
+> [!NOTE]
+> For both Repositories, it should have:
+>
+> 1. [README.md](./project-documentation.md)
+> 2. [Installation Guide](./installation-guide.md)
+> 3. [User Guide](./user-guide.md)
 
 
-### Guidelines for Authors
+There are 2 types of project repositories:
 
+1. [**Main Research Repository**](https://github.com/bmw-ece-ntust/template) : Contains the main idea of the project research, code, simulation to produce thesis book & paper writing. Components:
+   1. Source code
+   2. Documentation (README, Installation Guide, User Guide)
+   3. Simulation scripts & results (Get dataset from pcloud)
+   4. Latex for thesis & paper writing
+2. [Sub-modules Repository](https://github.com/bmw-ece-ntust/template/tree/rapp): Contains extra components that support the main research repository (e.g. rApps, OAI gNBs modification, etc.).
 
 # Add tip for proper grammar and spelling usage.
 

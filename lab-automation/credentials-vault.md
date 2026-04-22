@@ -17,6 +17,11 @@ To ensure the security and integrity of credentials, follow these protocols:
 3. **Audit Trails**: Maintain detailed audit trails of all access and modifications to credentials.
 4. **Secure Storage**: Store credentials in a secure, tamper-evident container.
 
+
+## Encryption Protocol<br>Use AES-256-CBC to protect stored credentials. For more information, refer to [OWASP: Understanding the OPAQUE project documentation](https://opaquedocs.org/).
+
+## Security Protocols<br>Implement role-based access control (RBAC) to limit user access to sensitive information.
+
 ### Best Practices
 
 1. **Use strong passwords**: Enforce the use of strong, unique passwords for all users.
@@ -43,6 +48,9 @@ Use AES-256 encryption to protect credentials<br>
 Use AES-256 encryption to protect credentials<br> 
 Use AES-256 encryption to protect credentials
 
+
+Implement role-based access control (RBAC) to limit user access to sensitive information. Use strong, unique passwords for all users and regularly review and update stored credentials to ensure accuracy and relevance.
+
 ## Security Protocols for Credentials Vault 
 
 Use AES-256 encryption to protect credentials
@@ -62,6 +70,9 @@ Use AES-256 encryption to protect credentials
 
 
 Use AES-256 encryption to protect credentials
+
+
+Use AES-256 encryption to protect credentials<br>Implement role-based access control (RBAC) to limit user access to sensitive information.
 
 # Encryption Protocol<br>## Encryption Protocol<br>### Security Protocols<br>## Security Protocols<br>
 
