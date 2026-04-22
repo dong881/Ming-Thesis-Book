@@ -359,3 +359,8 @@ Updated `rapp/src/auto_tester.py` for TC sweep charts:
 
 ### Validation:\n+- AST parse OK\n+- No linter errors on edited file
 
+== Debugging Workflow: The section title is missing a space between the hash symbol and the text.
+
+# Debugging Workflow: The section title is missing a closing `##` header after the table of contents. Add a closing `##` header after the table of contents.
+
+This document outlines the debugging workflow for our project, including known issues and troubleshooting steps.

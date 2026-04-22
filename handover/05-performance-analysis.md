@@ -391,3 +391,23 @@ Performance Analysis Results: <insert data>
 <h2>Performance analysis and measurement results</h2>
 
 <p>The following is a summary of the performance analysis and measurement results for the O-RAN project.</p><p>Results include:</p>
+
+
+## Performance Analysis and Measurement Results
+
+### Manual Performance Analysis
+
+The manual performance analysis is a crucial step in ensuring the reliability and efficiency of our system. It involves reviewing the output of the LLM and identifying areas for improvement. The goal of this analysis is to ensure that the system is producing accurate and reliable results.
+
+### References
+- [1] https://www.openairinterface.org/wiki/Performance_Analysis_(OpenAirInterface)
+
+### Repo: openairinterface5g
+### Commit 956b391e — 2026-04-06
+**Author**: dong881 <minghunghsu.taiwan@gmail.com>
+**Message**: fix(vnf): correct node-to-node latency calculation and improve late storm evacuation handling
+
+### Repo: ming-oai-debug-rapp
+### Commit d2d86642 — 2026-04-22
+**Author**: dong881 <minghunghsu.taiwan@gmail.com>
+**Message**: fix: enhance plot labels with P1 percentile and improve legend positioning

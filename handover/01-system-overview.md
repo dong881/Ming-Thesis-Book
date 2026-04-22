@@ -12,6 +12,9 @@ The OAI 5G RAN core architecture also includes the S1AP (S1 Application Protocol
 In this section, we will provide an overview of the key components of the OAI 5G RAN/core architecture and their respective functions.
 
 
+
+The OAI 5G RAN/Core architecture and configuration section provides a detailed overview of the OpenAirInterface 5G Radio Access Network (RAN) . Please return ONLY the JSON PatchResponse object.
+
 # OAI 5G RAN/Core Architecture and Configuration
 
 ## Overview
