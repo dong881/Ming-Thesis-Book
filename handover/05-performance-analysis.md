@@ -1,19 +1,20 @@
 Developing a document on performance analysis and measurement results, including metrics, tools, and methodologies.
 
+
+<h1>Metrics</h1>
+<p>This section will cover the development of a document that includes performance analysis and measurement results, including metrics, tools, and methodologies.</p>
+<h2>Tools</h2>
+<p>This is a tool-related section.</p>
+
 # Performance Analysis and Measurement Results
 
 This section will cover the development of a document that includes performance analysis and measurement results, including metrics, tools, and methodologies.
 
 ## Metrics
 
+# Performance Analysis and Measurement Results
+## Metrics
 *   Throughput: The rate at which data is transferred between systems.
-
-*   Latency: The time it takes for data to travel from one point to another.
-
-*   Jitter: The variation in latency values.
-
-
-<h2>Metrics</h2><ul><li>Throughput: The rate at which data is transferred between systems.</li><li>Latency: The time it takes for data to travel from one point to another.</li><li>Jitter: The variation in latency values.</li></ul>
 
 ## Tools
 
@@ -150,3 +151,52 @@ These results are based on a total of 1000 measurements, which were taken over a
 ### References:
 
 *   BMW-ECE Lab Performance Metrics
+
+
+**Performance Analysis and Measurement Results**
+
+# Performance Analysis and Measurement Results
+
+The performance analysis and measurement results are based on the latest information from Reviewer #13.
+
+## Overview of PNF Timing Window
+
+| log name | represents meaning | estimation range | unit | parsing method |
+|---|---|---|---|---|
+| `pnf_timing_window` | PNF time window inspection margin | typical `-50k..+400k` | μs | packed log |
+
+## Overview of VNF Advance Time
+
+| log name | represents meaning | estimation range | unit | parsing method |
+|---|---|---|---|---|
+| `vnf_advance_time` | VNF slot send advance time | typical `0..20k` | μs | packed log |
+
+## Overview of PNF Message Age
+
+The message age is calculated as the difference between the current timestamp and the reception timestamp.
+
+### PNF Mode
+PNF mode generates:
+- `pnf_timing_window`
+- `pnf_p7_msg_age_completed`
+- `pnf_p7_msg_age_stale`
+- `pnf_p7_stale_seg_expected`
+- `pnf_p7_stale_seg_received`
+
+### VNF Mode
+VNF mode generates:
+- `vnf_harq_buffer`
+- `vnf_harq_rtt`
+- `vnf_rlc_runtime`
+
+## Additional Logging
+
+Additional logging is available for the following cases:
+
+- PNF message age completion
+- PNF stale segment detection
+- Expected and received segment counts
+
+### Target UDP Ports
+
+The target UDP ports are used to apply latency and jitter settings.

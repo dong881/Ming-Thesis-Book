@@ -2,77 +2,7 @@ OAI 5G RAN/Core Architecture and Configuration Overview
 
 # OAI 5G RAN/Core Architecture and Configuration
 
-The OpenAirInterface (OAI) 5G RAN/Core architecture is designed to provide a comprehensive platform for the development and testing of 5G wireless systems. The architecture consists of several key components, including the radio unit (RU), the distributed unit (DU), and the central unit (CU).
-
-## Key Components
-
-* **Radio Unit (RU):** The RU is responsible for transmitting and receiving data to/from the base station. It consists of a transceiver and a processing unit.
-* **Distributed Unit (DU):** The DU is responsible for processing and forwarding data between the RU and the central unit. It consists of a processing unit and a memory module.
-* **Central Unit (CU):** The CU is responsible for controlling and coordinating the overall network operation. It consists of a processing unit, a memory module, and a user interface.
-
-## Configuration Overview
-
-The OAI 5G RAN/Core architecture requires careful configuration to ensure optimal performance. This includes configuring the radio frequency (RF) parameters, setting up the network protocol stack, and implementing the necessary security measures.
-
-## Terminology
-
-* **Peak Latency:** The maximum delay between the time a packet is transmitted and the time it is received by the destination node.
-* **Short-EWMA Process Time:** A measure of the average processing time of packets in real-time.
-* **Peak Latency Timestamp (HR):** A timestamp indicating when the peak latency occurred in HR format.
-
-## Conclusion
-
-In conclusion, the OAI 5G RAN/Core architecture provides a comprehensive platform for the development and testing of 5G wireless systems. Understanding the key components, configuration overview, and terminology is essential for optimizing the performance of these systems.
-
-<p>The section title is missing a space between the hash symbol and the text. Here, we completely abandon the Median padding strategy and adopt a direct Peak Tracker.</p>
-
-<p>This tracks the absolute worst jitter the network is currently capable of.</p>
-
-<p>Measure how far the absolute worst packet deviated from our stable median</p>
-
-
-## Key Components
-* **Radio Unit (RU):** The RU is responsible for transmitting and receiving data to/from the base station. It consists of a transceiver and a processing unit.
-* **Distributed Unit (DU):** The DU is responsible for processing and forwarding data between the RU and the central unit. It consists of a processing unit and a memory module.
-
-
-<p> The OpenAirInterface (OAI) 5G RAN/Core architecture is designed to provide a comprehensive platform for the development and testing of 5G wireless systems. The architecture consists of several key components, including the radio unit (RU), the distributed unit (DU), and the central unit (CU).</p><p>## Key Components</p><p>* Radio Unit (RU):* The RU is responsible for transmitting and receiving data to/from the base station. It consists of a transceiver and a processing unit.* Distributed Unit (DU):* The DU is responsible for processing and forwarding data between the RU and the central unit. It consists of a processing unit and a memory module.</p>
-
-
-
-
-OAI 5G RAN/Core architecture and configuration can be found in the BMW-ECE Lab resources. For more information, refer to the official documentation.
-
-This section will outline the key components and configurations of the OAI 5G RAN/Core architecture, including the NR (New Radio) physical layer and the control and user plane. Additionally, it will cover the configuration options and parameters that can be used to optimize the performance of the system.
-
-The BMW-ECE Lab provides a comprehensive set of resources for the OAI 5G RAN/Core architecture, including documentation, simulations, and test cases. These resources can be used to help engineers design, develop, and test their systems.
-
-By following this section, you will gain a deeper understanding of the OAI 5G RAN/Core architecture and configuration, which is essential for designing and developing next-generation wireless communication systems.
-
-
-The OpenAirInterface (OAI) 5G RAN/Core architecture is designed to provide a comprehensive platform for the development and testing of 5G wireless systems. The architecture consists of several key components, including the radio unit (RU), the distributed unit (DU), and the central unit (CU).
-
-
-
-
-
-## Key Components
-
-* **Radio Unit (RU):** The RU is responsible for transmitting and receiving data to/from the base station. It consists of a transceiver and a processing unit.
-
-* **Distributed Unit (DU):** The DU is responsible for processing and forwarding data between the RU and the central unit. It consists of a processing unit and a memory module.
-
-
-## OAI 5G RAN/Core Architecture and Configuration
-
-The OpenAirInterface repository provides detailed information on the 5G RAN Core architecture and configuration.
-
-In this section, we will discuss the key components of the 5G RAN Core architecture and how they are configured. We will also explore the benefits of using the OpenAirInterface repository for 5G RAN Core development.
-
-For more information, please refer to the [OpenAirInterface 5G RAN Core Architecture](https://openairinterface.org/wiki/index.php/5G_RAN_Core_Architecture) documentation.
-
-
-The OpenAirInterface repository provides detailed information on the 5G RAN/Core architecture and configuration. It is a valuable resource for researchers and developers working in this field.
+OAI 5G RAN/Core architecture and configuration provide a framework for the core network node to manage radio resource management (RRM) functions, including mobility management, handover management, and quality of service (QoS) management.<br> The core network consists of several components, including the control element (CE), the user plane component (UCP), and the backhaul component (BC).
 
 # OAI 5G RAN/Core Architecture and Configuration: The section title is missing a space between the hash symbol and the text.
 
@@ -209,3 +139,23 @@ The OAI 5G RAN/Core architecture requires careful configuration to ensure optima
 * **Peak Latency:** The maximum delay between the time a packet is transmitted and the time it is received by the destination node.
 * **Short-EWMA Process Time:** A measure of the average processing time of packets in real-time.
 * **Peak Latency Timestamp (HR):** A timestamp indicating when the peak latency occurred in HR format.
+
+
+# OAI 5G RAN/Core Architecture and Configuration: The section title is missing a space between "RAN" and "/Core", "The space in the line above is important for system stability.":
+
+<p> The space in the line above is important for system stability.</p>
+
+<p>The space in the line above is important for system stability.</p>
+
+
+Target UDP Ports in tc_manager.sh to apply latency and jitter settings
+
+<!-- Want to add support for target UDP ports in tc_manager.sh -->
+
+TARGET_PORTS=(
+    "50010"
+    "50011"
+)
+<!-- ========================================== -->
+
+ACTION=$1
