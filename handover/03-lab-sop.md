@@ -58,6 +58,25 @@ Before generating or modifying code or configuration files for apps and agents f
 Invoke **get_code_snippets** with API name, configuration file name, or code comments every time you need to generate or modify code or configuration files for apps and agents for Microsoft 365 or Microsoft 365 Copilot.
 
 ## README.md
+
+## Lab SOP compliance and coding standards
+### Guidelines for code organization, commenting, and testing
+
+This section outlines the guidelines for maintaining a well-organized, readable, and testable codebase.
+
+1. **Code Organization**: Use clear and descriptive directory names for your projects, with each subdirectory representing a specific module or feature.
+2. **Commenting**: Write concise yet informative comments to explain the purpose of each function, class, or method. Use Markdown formatting for better readability.
+3. **Testing**: Implement unit tests and integration tests using a testing framework of your choice (e.g., unittest, pytest). Ensure that tests cover all scenarios, including edge cases and error handling.
+
+
+- Guidelines for code organization, commenting, and testing
+
+## Guidelines for code organization, commenting, and testing
+
+- Use a consistent coding style throughout the project.
+- Write clear and concise comments to explain each section of code.
+- Implement automated testing to ensure code quality and reliability.
+
 # Laboratory
 
 This Standard Operating Procedure (SOP) outlines the requirements and best practices for research and development (R&D) projects in the lab. All developers and researchers must adhere to the following guidelines to ensure quality, reproducibility, and smooth handover.
@@ -87,3 +106,15 @@ Lab SOP Compliance:
 
 *   Use consistent naming conventions for variables and functions.
 *   Follow established coding guidelines for readability and maintainability.
+
+
+# Laboratory: The section title is missing a space between the hash symbol and the text.
+
+## Lab SOP compliance and coding standards
+### Guidelines for code organization, commenting, and testing
+
+The goal of this section is to provide guidelines for maintaining high-quality code in our projects.
+
+*   Code organization: Use clear, descriptive names for functions, variables, and modules.
+*   Commenting: Include comments in each relevant section to explain the purpose and behavior of the code.
+*   Testing: Write comprehensive tests to ensure that your code works as expected.

@@ -17,6 +17,9 @@ This section will cover the development of a document that includes performance 
 
 
 
+
+<p>This section will cover the development of a document that includes performance analysis and measurement results, including metrics, tools, and methodologies.</p>
+
 ## Metrics
 This section will cover the development of a document that includes performance analysis and measurement results, including metrics, tools, and methodologies.
 
@@ -38,6 +41,15 @@ Based on the key findings, recommendations for further analysis or improvement w
 
 ### Future Work:
 Future work and potential areas for research will be discussed in this section.
+
+
+# Metrics
+
+This section will cover the development of a document that includes performance analysis and measurement results, including metrics, tools, and methodologies.
+
+## Tools
+
+This is a tool-related section.
 
 ## Overview of PNF Timing Window
 This section will provide an overview of the timing window for PNF (Packet Network Forwarding).
@@ -62,6 +74,20 @@ This section will provide information on the target UDP ports for performance te
 
 ## Performance Analysis
 This section will contain technical details of the performance analysis, including any relevant data or results.
+
+
+### Guidelines for Data Collection and Reporting
+
+* Collect performance metrics such as latency, throughput, and packet loss.
+* Use tools like `iperf` or `tcpdump` to measure network traffic.
+* Document your findings in a clear and concise manner.
+
+
+### Best Practices for Reporting
+
+* Use standard formatting for tables and figures.
+* Include relevant context for each metric.
+* Provide actionable recommendations for improving performance.
 
 # Metrics
 

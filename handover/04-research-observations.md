@@ -520,3 +520,29 @@ Track your daily progress and ensure systematic completion of project milestones
 
 ## Research Observations and Experiment Logs
 This section will be used to record any observations or insights gained during the implementation of new features.
+
+
+## Research observations and experiment logs
+
+Research observations and experiment logs, including templates for logging experiments and results.
+
+### Templates
+
+* Experiment Log Template:
+```markdown
+# Experiment Name
+## Date
+## Time
+## Location
+## Description of the experiment performed
+```
+* Results Table Template:
+```markdown
+| Variable | Value |
+| --- | --- |
+| Temperature | 25°C |
+| Humidity | 60% |
+```
+### Research Observations
+
+[Insert research observations here]
